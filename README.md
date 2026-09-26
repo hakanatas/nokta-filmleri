@@ -2,7 +2,7 @@
 
 **▶ https://hakanatas.github.io/nokta-filmleri/**
 
-> **TR —** 5. sınıf matematik ("Geometrik Şekiller" ve "Geometrik Nicelikler" temaları) için hazırlanan mürekkep animasyonlarını tek sayfada toplar. Filmler öğrenme çıktılarının sırasıyla dizilmiştir (MAT.5.3.1 – 5.3.7, MAT.5.4.1 …). Her film sayfada oynatılabilir; etkileşimli sürüme, indirmelere (MP4, altyazı, seslendirme notları) ve koda da buradan ulaşılır. Bonus olarak serinin ilk filmi *The Learning Ink* de sayfada.
+> **TR —** 5. sınıf matematik ("Geometrik Şekiller", "Geometrik Nicelikler" ve "İstatistiksel Araştırma Süreci" temaları) için hazırlanan mürekkep animasyonlarını tek sayfada toplar. Filmler öğrenme çıktılarının sırasıyla dizilmiştir (MAT.5.3.1 – 5.3.7, MAT.5.4.1 …). Her film sayfada oynatılabilir; etkileşimli sürüme, indirmelere (MP4, altyazı, seslendirme notları) ve koda da buradan ulaşılır. Bonus olarak serinin ilk filmi *The Learning Ink* de sayfada.
 
 One page that collects the ink animations made for the 5th-grade maths themes *Geometrik Şekiller* and *Geometrik Nicelikler* (Türkiye Yüzyılı Maarif Modeli), in curriculum order. Each film plays in the page, with links to its interactive version, downloads (MP4, subtitles, narration notes) and source code.
 
@@ -18,6 +18,7 @@ One page that collects the ink animations made for the 5th-grade maths themes *G
 | 8 | Birim Kareler | MAT.5.4.2 · area with unit squares | [birim-kareler](https://github.com/hakanatas/birim-kareler) |
 | 9 | Çevre mi, Alan mı? | MAT.5.4.3 · perimeter vs. area | [cevre-mi-alan-mi](https://github.com/hakanatas/cevre-mi-alan-mi) |
 | 10 | Çit mi, Çim mi? | MAT.5.4.4 · perimeter and area problems | [cit-mi-cim-mi](https://github.com/hakanatas/cit-mi-cim-mi) |
+| 11 | Veri Ne Diyor? | MAT.5.5.1 · categorical data and data-based decisions | [veri-ne-diyor](https://github.com/hakanatas/veri-ne-diyor) |
 | ★ | The Learning Ink | Bonus · how a neural network learns | [the-learning-ink](https://github.com/hakanatas/the-learning-ink) |
 
 ## What's here

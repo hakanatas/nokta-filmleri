@@ -15,6 +15,7 @@ One page that collects the ink animations made for the 5th-grade maths themes *G
 | 5 | Üçgenin Sırrı | MAT.5.3.6 · properties of polygons | [ucgenin-sirri](https://github.com/hakanatas/ucgenin-sirri) |
 | 6 | Çemberlerle Üçgen | MAT.5.3.7 · triangles from a pair of circles | [cemberlerle-ucgen](https://github.com/hakanatas/cemberlerle-ucgen) |
 | 7 | Aynı Çevre | MAT.5.4.1 · rectangles with a given perimeter | [ayni-cevre](https://github.com/hakanatas/ayni-cevre) |
+| 8 | Birim Kareler | MAT.5.4.2 · area with unit squares | [birim-kareler](https://github.com/hakanatas/birim-kareler) |
 | ★ | The Learning Ink | Bonus · how a neural network learns | [the-learning-ink](https://github.com/hakanatas/the-learning-ink) |
 
 ## What's here

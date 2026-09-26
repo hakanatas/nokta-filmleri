@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Nokta'nın Filmleri · 5. Sınıf Geometri</title>
+<title>Nokta'nın Filmleri · 5. Sınıf Matematik</title>
 <meta name="description" content="5. sınıf matematik Geometrik Şekiller teması için mürekkep animasyonları: Nokta ile nokta, doğru, açı, çokgen ve üçgen.">
-<meta property="og:title" content="Nokta'nın Filmleri · 5. Sınıf Geometri">
-<meta property="og:description" content="Tamamen JavaScript ile çizilmiş kısa mürekkep animasyonları: MAT.5.3.1 – MAT.5.3.7.">
+<meta property="og:title" content="Nokta'nın Filmleri · 5. Sınıf Matematik">
+<meta property="og:description" content="Tamamen JavaScript ile çizilmiş kısa mürekkep animasyonları: Geometrik Şekiller ve Geometrik Nicelikler temaları.">
 <meta property="og:image" content="https://hakanatas.github.io/nokta-filmleri/img/cemberlerle-ucgen.jpg">
 <link rel="icon" href="img/nokta.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -94,6 +94,12 @@
   .film:nth-child(even) .thumb-cell { order: 3; }
   .film:nth-child(even) .meta { order: 2; }
 
+  .theme-head { position: relative; display: grid; grid-template-columns: 64px 1fr; gap: 28px; align-items: baseline; padding: 30px 0 4px; }
+  .theme-head .dotm { width: 64px; display: grid; place-items: center; }
+  .theme-head .dotm i { width: 18px; height: 18px; border-radius: 50%; background: var(--ink); box-shadow: 0 0 0 6px var(--paper); position: relative; z-index: 1; }
+  .theme-head h3 { font-family: var(--brush); font-weight: 400; font-size: clamp(30px, 4vw, 40px); margin: 0; line-height: 1; }
+  .theme-head span { display: block; font-family: var(--mono); font-size: 12.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--amber-deep); margin-bottom: 6px; }
+  @media (max-width: 820px) { .theme-head { grid-template-columns: 44px 1fr; gap: 16px; } .theme-head .dotm { width: 44px; } }
   .soon .thumb-cell { display: grid; place-items: center; aspect-ratio: 16 / 9; border: 2.5px dashed var(--ink-faint); border-radius: 6px; color: var(--ink-soft); font-family: var(--brush); font-size: 30px; text-align: center; padding: 16px; }
 
   /* ── bonus + teachers ────────────────────── */
@@ -146,9 +152,9 @@
   <div class="wrap">
     <div class="hero-grid">
       <div>
-        <div class="kicker stage" style="--i:0"><span class="seal">N</span>5. sınıf matematik · Geometrik Şekiller</div>
+        <div class="kicker stage" style="--i:0"><span class="seal">N</span>5. sınıf matematik · Maarif Modeli</div>
         <h1 class="stage" style="--i:1">Nokta'nın Filmleri<span class="dot"></span></h1>
-        <p class="lede stage" style="--i:2">Bir damla mürekkepten doğan <b>Nokta</b> ile noktadan çembere, açıdan üçgene. Maarif Modeli öğrenme çıktılarına göre hazırlanmış, her biri 1,5 dakikalık, tamamen kodla çizilmiş kısa animasyonlar.</p>
+        <p class="lede stage" style="--i:2">Bir damla mürekkepten doğan <b>Nokta</b> ile noktadan çembere, açıdan üçgene, çevreden alana. Maarif Modeli öğrenme çıktılarına göre hazırlanmış, her biri 1,5 dakikalık, tamamen kodla çizilmiş kısa animasyonlar.</p>
         <div class="rules stage" style="--i:3">
           <span><i class="swatch"></i>siyah mürekkep: çizilen şekil</span>
           <span><i class="swatch amber"></i>kehribar: ölçüm, sayma, açı</span>
@@ -193,7 +199,7 @@
 <script>
   const GH = 'https://github.com/hakanatas/', IO = 'https://hakanatas.github.io/';
   const FILMS = [
-    { id: 'noktadan-cembere', title: 'Noktadan Çembere', en: 'From a Point to a Circle', code: 'MAT.5.3.1 – 5.3.2', dur: '1:40',
+    { theme: 'Geometrik Şekiller', tcode: 'MAT.5.3', id: 'noktadan-cembere', title: 'Noktadan Çembere', en: 'From a Point to a Circle', code: 'MAT.5.3.1 – 5.3.2', dur: '1:40',
       what: 'Nokta, doğru parçası, ışın, doğru, açı, dikme ve çember. Cetvel, gönye ve pergelle adım adım çizim; sonunda hepsinden bir yelkenli resmi çıkıyor.',
       outcome: 'Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme' },
     { id: 'kac-derece', title: 'Kaç Derece?', en: 'How Many Degrees?', code: 'MAT.5.3.3', dur: '1:32',
@@ -211,6 +217,9 @@
     { id: 'cemberlerle-ucgen', title: 'Çemberlerle Üçgen', en: 'Triangles from Circles', code: 'MAT.5.3.7', dur: '1:32',
       what: 'A ve B merkezli iki çember, bir kesişim noktası: üçgen. AC ve BC birer yarıçap olduğu için hiç ölçmeden çeşitkenar, ikizkenar ve eşkenar üçgen kurulur.',
       outcome: 'İki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik çıkarım yapabilme' },
+    { theme: 'Geometrik Nicelikler', tcode: 'MAT.5.4', id: 'ayni-cevre', title: 'Aynı Çevre', en: 'Same Perimeter', code: 'MAT.5.4.1', dur: '1:32',
+      what: '6 × 4’lük dikdörtgenin çevresi 20 cm. Aynı 20 cm’lik iple 9 × 1, 8 × 2, 7 × 3, 6 × 4 ve 5 × 5’lik dikdörtgenler olur; uzun + kısa hep 10. Kare de bir dikdörtgendir.',
+      outcome: 'Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme' },
   ];
   const BONUS = { id: 'learning-ink', repo: 'the-learning-ink', title: 'The Learning Ink', en: 'Öğrenen Mürekkep', code: 'Yapay zekâ · 12–17 yaş', dur: '1:30',
     what: 'Bir sinir ağı nasıl öğrenir? Nokta veri görür, yanılır, düzeltilir ve öğrenir. Filmdeki ağ gerçektir; sayfa açılırken eğitilir.' };
@@ -227,7 +236,8 @@
   const thumb = (f) => `<button class="thumb" data-play="${f.id}" aria-label="${esc(f.title)} filmini oynat">
       <img src="img/${f.id}.jpg" alt="" loading="lazy" width="960" height="540"><span class="play"><i></i>İZLE · ${f.dur}</span></button>`;
 
-  document.getElementById('journey').innerHTML = FILMS.map((f, i) => `
+  document.getElementById('journey').innerHTML = FILMS.map((f, i) => (f.theme ? `
+    <li class="theme-head stage" style="--i:${i + 6}"><div class="dotm"><i></i></div><div><span>Tema · ${f.tcode}</span><h3>${esc(f.theme)}</h3></div></li>` : '') + `
     <li class="film stage" style="--i:${i + 6}">
       <div class="num" style="--i:${i + 6}">${ring}<b>${i + 1}</b></div>
       <div class="thumb-cell">${thumb(f)}</div>
@@ -244,9 +254,9 @@
       <div class="num">${ring}<b>${FILMS.length + 1}</b></div>
       <div class="thumb-cell">sıradaki film…</div>
       <div class="meta">
-        <span class="code">Sıradaki tema</span>
-        <h3>Geometrik Nicelikler</h3>
-        <p class="what">Geometrik Şekiller teması tamamlandı. Sıradaki filmler bir sonraki temadan gelecek.</p>
+        <span class="code">MAT.5.4.2</span>
+        <h3>Birim karelerle alan</h3>
+        <p class="what">Dikdörtgenin alanını birim karelerle ölçmek; birim kare sayısı ile kenar uzunlukları arasındaki ilişki.</p>
       </div>
     </li>`;
 

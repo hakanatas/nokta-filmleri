@@ -2,9 +2,9 @@
 
 **▶ https://hakanatas.github.io/nokta-filmleri/**
 
-> **TR —** 5. sınıf matematik "Geometrik Şekiller" teması için hazırlanan mürekkep animasyonlarını tek sayfada toplar. Filmler öğrenme çıktılarının sırasıyla dizilmiştir (MAT.5.3.1 – MAT.5.3.7). Her film sayfada oynatılabilir; etkileşimli sürüme, indirmelere (MP4, altyazı, seslendirme notları) ve koda da buradan ulaşılır. Bonus olarak serinin ilk filmi *The Learning Ink* de sayfada.
+> **TR —** 5. sınıf matematik ("Geometrik Şekiller" ve "Geometrik Nicelikler" temaları) için hazırlanan mürekkep animasyonlarını tek sayfada toplar. Filmler öğrenme çıktılarının sırasıyla dizilmiştir (MAT.5.3.1 – 5.3.7, MAT.5.4.1 …). Her film sayfada oynatılabilir; etkileşimli sürüme, indirmelere (MP4, altyazı, seslendirme notları) ve koda da buradan ulaşılır. Bonus olarak serinin ilk filmi *The Learning Ink* de sayfada.
 
-One page that collects the ink animations made for the 5th-grade maths theme *Geometrik Şekiller* (Türkiye Yüzyılı Maarif Modeli), in curriculum order. Each film plays in the page, with links to its interactive version, downloads (MP4, subtitles, narration notes) and source code.
+One page that collects the ink animations made for the 5th-grade maths themes *Geometrik Şekiller* and *Geometrik Nicelikler* (Türkiye Yüzyılı Maarif Modeli), in curriculum order. Each film plays in the page, with links to its interactive version, downloads (MP4, subtitles, narration notes) and source code.
 
 | # | Film | Outcome | Repo |
 |---|---|---|---|
@@ -14,6 +14,7 @@ One page that collects the ink animations made for the 5th-grade maths theme *Ge
 | 4 | Doğrulardan Çokgene | MAT.5.3.5 · polygons from crossing lines | [dogrulardan-cokgene](https://github.com/hakanatas/dogrulardan-cokgene) |
 | 5 | Üçgenin Sırrı | MAT.5.3.6 · properties of polygons | [ucgenin-sirri](https://github.com/hakanatas/ucgenin-sirri) |
 | 6 | Çemberlerle Üçgen | MAT.5.3.7 · triangles from a pair of circles | [cemberlerle-ucgen](https://github.com/hakanatas/cemberlerle-ucgen) |
+| 7 | Aynı Çevre | MAT.5.4.1 · rectangles with a given perimeter | [ayni-cevre](https://github.com/hakanatas/ayni-cevre) |
 | ★ | The Learning Ink | Bonus · how a neural network learns | [the-learning-ink](https://github.com/hakanatas/the-learning-ink) |
 
 ## What's here

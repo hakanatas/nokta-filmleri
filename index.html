@@ -108,7 +108,15 @@
   .teach div { padding-top: 14px; border-top: 3px solid var(--ink); }
   .teach h4 { font-family: var(--brush); font-weight: 400; font-size: 28px; margin: 0 0 6px; line-height: 1.05; }
   .teach p { margin: 0; font-size: 15.5px; color: var(--ink-soft); }
-  footer.wrap { margin-top: 70px; margin-bottom: 40px; padding-top: 18px; border-top: 1px solid var(--ink-faint); font-size: 14px; color: var(--ink-soft); display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; }
+  .team { margin-top: 80px; display: grid; grid-template-columns: auto 1fr; gap: 26px; align-items: center; padding: 22px 26px; border-radius: 12px;
+    background: linear-gradient(120deg, rgba(255, 252, 244, .75), rgba(255, 252, 244, .35)); box-shadow: 0 0 0 1px rgba(23,20,17,.08), 0 18px 34px -26px rgba(60,40,10,.5); position: relative; overflow: hidden; }
+  .team::after { content: ""; position: absolute; right: -40px; top: -40px; width: 180px; height: 180px; border-radius: 50%; border: 14px solid rgba(239, 51, 51, .08); }
+  .team img { width: 104px; height: auto; display: block; transform: rotate(-4deg); filter: drop-shadow(0 6px 10px rgba(60, 20, 10, .18)); }
+  .team .who { font-family: var(--brush); font-size: clamp(26px, 3.4vw, 36px); line-height: 1.1; margin: 0; }
+  .team .who b { font-weight: 400; color: #d62f2f; }
+  .team .sub { margin: 6px 0 0; font-family: var(--mono); font-size: 12.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); }
+  @media (max-width: 560px) { .team { grid-template-columns: 1fr; justify-items: center; text-align: center; } .team img { width: 92px; } }
+  footer.wrap { margin-top: 28px; margin-bottom: 40px; padding-top: 18px; border-top: 1px solid var(--ink-faint); font-size: 14px; color: var(--ink-soft); display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; }
 
   /* ── player ──────────────────────────────── */
   dialog { border: 0; padding: 0; background: transparent; max-width: min(1200px, 94vw); width: 100%; overflow: visible; }
@@ -183,6 +191,16 @@
     <div><h4>İnternetsiz de olur</h4><p>Her filmin kodunu indirip <code>index.html</code> dosyasını çift tıklayarak çevrimdışı açabilirsiniz. Dikey (9:16) sürümler ve 1080p dışa aktarma da depolarda.</p></div>
   </div>
 </main>
+
+<section class="wrap" aria-label="Hazırlayan takım">
+  <div class="team">
+    <img src="img/agrobotik-24230.png" alt="AG Robotik FTC 24230 takım logosu" width="298" height="320" loading="lazy">
+    <div>
+      <p class="who">Bu çalışma <b>FTC 24230 AG Robotik</b> takımı tarafından yapılmıştır.</p>
+      <p class="sub">FIRST Tech Challenge · Takım 24230</p>
+    </div>
+  </div>
+</section>
 
 <footer class="wrap">
   <span>Hakan Ataş · Filmler Claude ile, JavaScript + Canvas 2D kullanılarak üretildi. Kaynak: MEB Türkiye Yüzyılı Maarif Modeli, Ortaokul Matematik 5. sınıf.</span>

@@ -19,6 +19,7 @@ One page that collects the ink animations made for the 5th-grade maths themes *G
 | 9 | Çevre mi, Alan mı? | MAT.5.4.3 · perimeter vs. area | [cevre-mi-alan-mi](https://github.com/hakanatas/cevre-mi-alan-mi) |
 | 10 | Çit mi, Çim mi? | MAT.5.4.4 · perimeter and area problems | [cit-mi-cim-mi](https://github.com/hakanatas/cit-mi-cim-mi) |
 | 11 | Veri Ne Diyor? | MAT.5.5.1 · categorical data and data-based decisions | [veri-ne-diyor](https://github.com/hakanatas/veri-ne-diyor) |
+| 12 | Bu Yorum Doğru mu? | MAT.5.5.2 · discussing claims based on data | [bu-yorum-dogru-mu](https://github.com/hakanatas/bu-yorum-dogru-mu) |
 | ★ | The Learning Ink | Bonus · how a neural network learns | [the-learning-ink](https://github.com/hakanatas/the-learning-ink) |
 
 ## What's here

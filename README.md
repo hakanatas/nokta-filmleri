@@ -16,6 +16,7 @@ One page that collects the ink animations made for the 5th-grade maths themes *G
 | 6 | Çemberlerle Üçgen | MAT.5.3.7 · triangles from a pair of circles | [cemberlerle-ucgen](https://github.com/hakanatas/cemberlerle-ucgen) |
 | 7 | Aynı Çevre | MAT.5.4.1 · rectangles with a given perimeter | [ayni-cevre](https://github.com/hakanatas/ayni-cevre) |
 | 8 | Birim Kareler | MAT.5.4.2 · area with unit squares | [birim-kareler](https://github.com/hakanatas/birim-kareler) |
+| 9 | Çevre mi, Alan mı? | MAT.5.4.3 · perimeter vs. area | [cevre-mi-alan-mi](https://github.com/hakanatas/cevre-mi-alan-mi) |
 | ★ | The Learning Ink | Bonus · how a neural network learns | [the-learning-ink](https://github.com/hakanatas/the-learning-ink) |
 
 ## What's here

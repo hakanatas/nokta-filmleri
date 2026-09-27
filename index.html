@@ -232,6 +232,9 @@
 <script>
   const GH = 'https://github.com/hakanatas/', IO = 'https://hakanatas.github.io/';
   const FILMS = [
+    { id: 'ucer-ucer-bolukler', title: 'Üçer Üçer Bölükler', en: 'Digits in Groups of Three', code: 'MAT.5.1.1', dur: '1:32',
+      what: 'Ay’a 384 400 km, Güneş’e 150 000 000 km, 8 milyardan fazla insan. Sağdan üçer üçer ayır, her bölüğü oku, adını söyle; 000 olan bölük okunmaz.',
+      outcome: 'Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme' },
     { id: 'noktadan-cembere', title: 'Noktadan Çembere', en: 'From a Point to a Circle', code: 'MAT.5.3.1 – 5.3.2', dur: '1:40',
       what: 'Nokta, doğru parçası, ışın, doğru, açı, dikme ve çember. Cetvel, gönye ve pergelle adım adım çizim; sonunda hepsinden bir yelkenli resmi çıkıyor.',
       outcome: 'Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme' },
@@ -299,8 +302,15 @@
       { t: 'MAT.5.4', name: 'Geometrik Nicelikler', n: 4 },
       { t: 'MAT.5.5', name: 'İstatistiksel Araştırma Süreci', n: 2 },
       { t: 'MAT.5.6', name: 'Veriden Olasılığa', n: 2 },
-    ], next: { code: 'MAT.5.1.1', title: 'Çok basamaklı sayılar', what: 'Altı basamaklı sayıları okuyup yazmaktan milyonlara: basamaklar ve bölükler.' } },
-    6: { themes: [], note: '6. sınıf filmleri, 5. sınıfın bütün temaları bitince başlıyor.' },
+    ] },
+    6: { themes: [
+      { t: 'MAT.6.1', name: 'Sayılar ve Nicelikler', n: 8 },
+      { t: 'MAT.6.2', name: 'İşlemlerle Cebirsel Düşünme ve Değişimler', n: 3 },
+      { t: 'MAT.6.3', name: 'Geometrik Şekiller', n: 4 },
+      { t: 'MAT.6.4', name: 'Geometrik Nicelikler', n: 6 },
+      { t: 'MAT.6.5', name: 'İstatistiksel Araştırma Süreci', n: 2 },
+      { t: 'MAT.6.6', name: 'Veriden Olasılığa', n: 1 },
+    ], next: { code: 'MAT.6.1.1', title: 'Çarpanlar ve katlar', what: 'Bir doğal sayının çarpanları ve katları: dikdörtgen dizilişler, sayı doğrusunda atlamalar, genellemeler.' } },
   };
   const gradeOf = (f) => +(f.code.match(/MAT\.(\d+)/) || [0, 5])[1];
   const themeOf = (f) => (f.code.match(/MAT\.\d+\.\d+/) || [''])[0];
@@ -332,7 +342,7 @@
       </div>
     </li>`; });
       if (isNext) html += soonCard(0, G.next);
-      else if (!list.length) html += `<li class="theme-soon stage" style="--i:${n + 6}"><div></div><div><b>yakında</b>Bu temanın ${T.n} öğrenme çıktısının filmleri sırayla hazırlanıyor.</div></li>`;
+      else if (list.length < T.n) html += `<li class="theme-soon stage" style="--i:${n + 6}"><div></div><div><b>yakında</b>${list.length ? `Bu temanın kalan ${T.n - list.length} öğrenme çıktısının filmleri sonra eklenecek.` : `Bu temanın ${T.n} öğrenme çıktısının filmleri sırayla hazırlanıyor.`}</div></li>`;
     });
     document.getElementById('journey').innerHTML = html;
     document.querySelectorAll('#grades button').forEach((b) => b.setAttribute('aria-selected', b.dataset.grade === String(g)));

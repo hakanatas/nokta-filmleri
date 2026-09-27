@@ -241,6 +241,9 @@
     { id: 'bolunur-mu', title: 'Bölünür mü?', en: 'Divisibility Rules', code: 'MAT.6.1.2', dur: '1:32',
       what: '4 356 hangi sayılara tam bölünür? Katlardaki son basamak örüntüsü, 100 = 4 × 25, rakamlar toplamı; "4 için son basamak yeter" varsayımı 14 ile çürüyor. Her karar bir panoya işleniyor.',
       outcome: 'Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterlerine ilişkin çıkarım yapabilme' },
+    { id: 'yapi-taslari', title: 'Sayıların Yapı Taşları', en: 'Primes and Prime Factors', code: 'MAT.6.1.3', dur: '1:32',
+      what: '1’den 30’a kadar eleme tablosu (Eratosthenes kalburu) 10 asalı buluyor. 60 iki farklı çarpan ağacıyla ayrılıyor, ikisi de 2 × 2 × 3 × 5’e çıkıyor. Bileşik sayılar asalların çarpımı.',
+      outcome: 'Bir doğal sayının asal olma durumunu ve asal çarpanlarını çözümleyebilme' },
     { id: 'noktadan-cembere', title: 'Noktadan Çembere', en: 'From a Point to a Circle', code: 'MAT.5.3.1 – 5.3.2', dur: '1:40',
       what: 'Nokta, doğru parçası, ışın, doğru, açı, dikme ve çember. Cetvel, gönye ve pergelle adım adım çizim; sonunda hepsinden bir yelkenli resmi çıkıyor.',
       outcome: 'Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme' },
@@ -316,7 +319,7 @@
       { t: 'MAT.6.4', name: 'Geometrik Nicelikler', n: 6 },
       { t: 'MAT.6.5', name: 'İstatistiksel Araştırma Süreci', n: 2 },
       { t: 'MAT.6.6', name: 'Veriden Olasılığa', n: 1 },
-    ], next: { code: 'MAT.6.1.3', title: 'Asal sayılar ve asal çarpanlar', what: 'Bir doğal sayının asal olup olmadığı ve asal çarpanları: eleme tablosu, çarpan ağaçları.' } },
+    ], next: { code: 'MAT.6.1.4', title: 'Ortak kat ve ortak bölen', what: 'İki sayının ortak katları ve ortak bölenleri: sayı doğrusu, çizim ve tabloyla günlük hayat problemleri.' } },
   };
   const gradeOf = (f) => +(f.code.match(/MAT\.(\d+)/) || [0, 5])[1];
   const themeOf = (f) => (f.code.match(/MAT\.\d+\.\d+/) || [''])[0];

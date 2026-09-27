@@ -244,6 +244,9 @@
     { id: 'yapi-taslari', title: 'Sayıların Yapı Taşları', en: 'Primes and Prime Factors', code: 'MAT.6.1.3', dur: '1:32',
       what: '1’den 30’a kadar eleme tablosu (Eratosthenes kalburu) 10 asalı buluyor. 60 iki farklı çarpan ağacıyla ayrılıyor, ikisi de 2 × 2 × 3 × 5’e çıkıyor. Bileşik sayılar asalların çarpımı.',
       outcome: 'Bir doğal sayının asal olma durumunu ve asal çarpanlarını çözümleyebilme' },
+    { id: 'nerede-bulusurlar', title: 'Nerede Buluşurlar?', en: 'Common Multiples and Divisors', code: 'MAT.6.1.4', dur: '1:32',
+      what: '4 ve 6 dakikada bir kalkan iki otobüs sayı doğrusunda 12, 24, 36’da buluşuyor. 12 ve 18 cm’lik kurdeleler eşit parçalara kesiliyor; bölen tablosu 1, 2, 3, 6’yı gösteriyor.',
+      outcome: 'Günlük hayat problemleri ya da matematiksel durumlar üzerinden ortak kat ve ortak böleni yorumlayabilme' },
     { id: 'noktadan-cembere', title: 'Noktadan Çembere', en: 'From a Point to a Circle', code: 'MAT.5.3.1 – 5.3.2', dur: '1:40',
       what: 'Nokta, doğru parçası, ışın, doğru, açı, dikme ve çember. Cetvel, gönye ve pergelle adım adım çizim; sonunda hepsinden bir yelkenli resmi çıkıyor.',
       outcome: 'Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme' },
@@ -319,7 +322,7 @@
       { t: 'MAT.6.4', name: 'Geometrik Nicelikler', n: 6 },
       { t: 'MAT.6.5', name: 'İstatistiksel Araştırma Süreci', n: 2 },
       { t: 'MAT.6.6', name: 'Veriden Olasılığa', n: 1 },
-    ], next: { code: 'MAT.6.1.4', title: 'Ortak kat ve ortak bölen', what: 'İki sayının ortak katları ve ortak bölenleri: sayı doğrusu, çizim ve tabloyla günlük hayat problemleri.' } },
+    ], next: { code: 'MAT.6.1.5', title: 'Ondalık gösterimde basamak değerleri', what: 'Onda birler, yüzde birler, binde birler: paydası 10, 100, 1000 olan kesirlerle.' } },
   };
   const gradeOf = (f) => +(f.code.match(/MAT\.(\d+)/) || [0, 5])[1];
   const themeOf = (f) => (f.code.match(/MAT\.\d+\.\d+/) || [''])[0];

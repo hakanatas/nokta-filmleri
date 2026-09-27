@@ -116,3 +116,11 @@ One page that collects the ink animations made for middle-school maths (Türkiye
 - `img/`: the posters and Nokta.
 
 The page uses the same look as the films: paper, black ink for shapes, amber for measuring. Fonts are Caveat Brush, Fraunces and JetBrains Mono from Google Fonts.
+
+## Lisans · License
+
+**TR —** Bu film ve kodu [Creative Commons Atıf-GayriTicari 4.0 Uluslararası (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.tr) lisansıyla paylaşılır. Ticari olmayan her amaçla (derste, okulda, eğitim materyalinde) kopyalayabilir, paylaşabilir ve değiştirebilirsiniz; ancak **kaynak göstermek zorunludur**: eser sahibinin adı ve bu deponun bağlantısı belirtilmeden kullanılamaz. Ticari kullanım (satış, ücretli ürün ya da yayın) için izin alınmalıdır.
+
+**EN —** This film and its code are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You may copy, share and adapt them for non-commercial purposes, but **attribution is required**: they may not be used without crediting the author and linking to this repository. Commercial use requires permission.
+
+Atıf örneği / Required credit: *“Nokta'nın Filmleri”, Hakan Ataş, Nokta'nın Filmleri — https://github.com/hakanatas/nokta-filmleri — CC BY-NC 4.0*

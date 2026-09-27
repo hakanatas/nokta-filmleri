@@ -21,6 +21,7 @@ One page that collects the ink animations made for the 5th-grade maths themes *G
 | 11 | Veri Ne Diyor? | MAT.5.5.1 · categorical data and data-based decisions | [veri-ne-diyor](https://github.com/hakanatas/veri-ne-diyor) |
 | 12 | Bu Yorum Doğru mu? | MAT.5.5.2 · discussing claims based on data | [bu-yorum-dogru-mu](https://github.com/hakanatas/bu-yorum-dogru-mu) |
 | 13 | İmkânsızdan Kesine | MAT.5.6.1 · the probability scale from 0 to 1 | [imkansizdan-kesine](https://github.com/hakanatas/imkansizdan-kesine) |
+| 14 | Hangisi Daha Olası? | MAT.5.6.2 · less likely or more likely | [hangisi-daha-olasi](https://github.com/hakanatas/hangisi-daha-olasi) |
 | ★ | The Learning Ink | Bonus · how a neural network learns | [the-learning-ink](https://github.com/hakanatas/the-learning-ink) |
 
 ## What's here

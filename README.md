@@ -24,6 +24,7 @@ One page that collects the ink animations made for middle-school maths (Türkiye
 | 13 | İmkânsızdan Kesine | MAT.5.6.1 · the probability scale from 0 to 1 | [imkansizdan-kesine](https://github.com/hakanatas/imkansizdan-kesine) |
 | 14 | Hangisi Daha Olası? | MAT.5.6.2 · less likely or more likely | [hangisi-daha-olasi](https://github.com/hakanatas/hangisi-daha-olasi) |
 | 6.1 | Çarpan mı, Kat mı? | MAT.6.1.1 · reasoning about factors and multiples | [carpan-mi-kat-mi](https://github.com/hakanatas/carpan-mi-kat-mi) |
+| 6.2 | Bölünür mü? | MAT.6.1.2 · divisibility by 2, 3, 4, 5, 6, 9, 10 | [bolunur-mu](https://github.com/hakanatas/bolunur-mu) |
 | ★ | The Learning Ink | Bonus · how a neural network learns | [the-learning-ink](https://github.com/hakanatas/the-learning-ink) |
 
 ## What's here

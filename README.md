@@ -27,6 +27,7 @@ One page that collects the ink animations made for middle-school maths (Türkiye
 | 6.2 | Bölünür mü? | MAT.6.1.2 · divisibility by 2, 3, 4, 5, 6, 9, 10 | [bolunur-mu](https://github.com/hakanatas/bolunur-mu) |
 | 6.3 | Sayıların Yapı Taşları | MAT.6.1.3 · primes and prime factors | [yapi-taslari](https://github.com/hakanatas/yapi-taslari) |
 | 6.4 | Nerede Buluşurlar? | MAT.6.1.4 · common multiples and common divisors | [nerede-bulusurlar](https://github.com/hakanatas/nerede-bulusurlar) |
+| 6.6 | Biter mi, Tekrar mı Eder? | MAT.6.1.6 · terminating and repeating decimals | [biter-mi-tekrar-mi](https://github.com/hakanatas/biter-mi-tekrar-mi) |
 | ★ | The Learning Ink | Bonus · how a neural network learns | [the-learning-ink](https://github.com/hakanatas/the-learning-ink) |
 
 ## What's here

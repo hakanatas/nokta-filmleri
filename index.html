@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Nokta'nın Filmleri · 5. Sınıf Matematik</title>
-<meta name="description" content="5. sınıf matematik Geometrik Şekiller teması için mürekkep animasyonları: Nokta ile nokta, doğru, açı, çokgen ve üçgen.">
-<meta property="og:title" content="Nokta'nın Filmleri · 5. Sınıf Matematik">
+<title>Nokta'nın Filmleri · Ortaokul Matematik</title>
+<meta name="description" content="Ortaokul matematik için mürekkep animasyonları: Maarif Modeli öğrenme çıktılarına göre, sınıf sınıf, tema tema.">
+<meta property="og:title" content="Nokta'nın Filmleri · Ortaokul Matematik">
 <meta property="og:description" content="Tamamen JavaScript ile çizilmiş kısa mürekkep animasyonları: Geometrik Şekiller, Geometrik Nicelikler, İstatistiksel Araştırma Süreci ve Veriden Olasılığa temaları.">
 <meta property="og:image" content="https://hakanatas.github.io/nokta-filmleri/img/cemberlerle-ucgen.jpg">
 <link rel="icon" href="img/nokta.png">
@@ -102,6 +102,20 @@
   @media (max-width: 820px) { .theme-head { grid-template-columns: 44px 1fr; gap: 16px; } .theme-head .dotm { width: 44px; } }
   .soon .thumb-cell { display: grid; place-items: center; aspect-ratio: 16 / 9; border: 2.5px dashed var(--ink-faint); border-radius: 6px; color: var(--ink-soft); font-family: var(--brush); font-size: 30px; text-align: center; padding: 16px; }
 
+  /* ── grade picker ────────────────────────── */
+  .grades { display: flex; flex-wrap: wrap; gap: 12px; margin: 0 0 18px; }
+  .grades button { position: relative; font-family: var(--brush); font-size: 30px; line-height: 1; padding: 12px 22px 12px 18px; border-radius: 12px; border: 2.5px solid var(--ink); background: rgba(255, 252, 244, .55); color: var(--ink); cursor: pointer; display: inline-flex; align-items: baseline; gap: 12px; transition: transform .25s cubic-bezier(.2,.8,.2,1), background .2s, color .2s; }
+  .grades button small { font-family: var(--mono); font-size: 12px; letter-spacing: .06em; color: var(--ink-soft); }
+  .grades button:hover { transform: translateY(-2px) rotate(-.6deg); }
+  .grades button[aria-selected="true"] { background: var(--ink); color: var(--paper); box-shadow: 0 10px 22px -14px rgba(60,40,10,.8); }
+  .grades button[aria-selected="true"] small { color: var(--amber); }
+  .grades button[aria-selected="true"]::after { content: ""; position: absolute; left: 18px; right: 22px; bottom: -9px; height: 5px; border-radius: 3px; background: var(--amber); }
+  .grades button:focus-visible { outline: 3px solid var(--amber); outline-offset: 3px; }
+  .theme-soon { position: relative; display: grid; grid-template-columns: 64px 1fr; gap: 28px; padding: 10px 0 18px; }
+  .theme-soon div:last-child { border: 2.5px dashed var(--ink-faint); border-radius: 8px; padding: 14px 18px; color: var(--ink-soft); font-size: 15.5px; }
+  .theme-soon b { font-family: var(--brush); font-weight: 400; font-size: 24px; color: var(--ink); margin-right: 8px; }
+  @media (max-width: 820px) { .theme-soon { grid-template-columns: 44px 1fr; gap: 16px; } .grades button { font-size: 26px; } }
+
   /* ── bonus + teachers ────────────────────── */
   .bonus { margin-top: 30px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 28px; align-items: center; background: rgba(255, 252, 244, .55); border-radius: 10px; padding: 26px; box-shadow: 0 0 0 1px rgba(23,20,17,.08); }
   .teach { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; margin-top: 8px; }
@@ -160,7 +174,7 @@
   <div class="wrap">
     <div class="hero-grid">
       <div>
-        <div class="kicker stage" style="--i:0"><span class="seal">N</span>5. sınıf matematik · Maarif Modeli</div>
+        <div class="kicker stage" style="--i:0"><span class="seal">N</span>ortaokul matematik · Maarif Modeli</div>
         <h1 class="stage" style="--i:1">Nokta'nın Filmleri<span class="dot"></span></h1>
         <p class="lede stage" style="--i:2">Bir damla mürekkepten doğan <b>Nokta</b> ile noktadan çembere, açıdan üçgene, çevreden alana. Maarif Modeli öğrenme çıktılarına göre hazırlanmış, her biri 1,5 dakikalık, tamamen kodla çizilmiş kısa animasyonlar.</p>
         <div class="rules stage" style="--i:3">
@@ -176,7 +190,8 @@
 
 <main class="wrap">
   <h2 class="section-title stage" style="--i:4">Konu sırasıyla izleyin</h2>
-  <p class="section-sub stage" style="--i:5">Filmler programdaki sırayı izler; her biri bir öncekinin üstüne kurulur. Görsele tıklayınca film burada açılır.</p>
+  <p class="section-sub stage" style="--i:5">Önce sınıfı seçin. Filmler programdaki tema ve öğrenme çıktısı sırasını izler; görsele tıklayınca film burada açılır.</p>
+  <div class="grades stage" style="--i:5" role="tablist" aria-label="Sınıf seçimi" id="grades"></div>
 
   <ol class="journey" id="journey"></ol>
 
@@ -203,7 +218,7 @@
 </section>
 
 <footer class="wrap">
-  <span>Hakan Ataş · Filmler Claude ile, JavaScript + Canvas 2D kullanılarak üretildi. Kaynak: MEB Türkiye Yüzyılı Maarif Modeli, Ortaokul Matematik 5. sınıf.</span>
+  <span>Hakan Ataş · Filmler Claude ile, JavaScript + Canvas 2D kullanılarak üretildi. Kaynak: MEB Türkiye Yüzyılı Maarif Modeli, Ortaokul Matematik.</span>
   <a href="https://github.com/hakanatas/nokta-filmleri">Bu sayfanın kodu</a>
 </footer>
 
@@ -217,7 +232,7 @@
 <script>
   const GH = 'https://github.com/hakanatas/', IO = 'https://hakanatas.github.io/';
   const FILMS = [
-    { theme: 'Geometrik Şekiller', tcode: 'MAT.5.3', id: 'noktadan-cembere', title: 'Noktadan Çembere', en: 'From a Point to a Circle', code: 'MAT.5.3.1 – 5.3.2', dur: '1:40',
+    { id: 'noktadan-cembere', title: 'Noktadan Çembere', en: 'From a Point to a Circle', code: 'MAT.5.3.1 – 5.3.2', dur: '1:40',
       what: 'Nokta, doğru parçası, ışın, doğru, açı, dikme ve çember. Cetvel, gönye ve pergelle adım adım çizim; sonunda hepsinden bir yelkenli resmi çıkıyor.',
       outcome: 'Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme' },
     { id: 'kac-derece', title: 'Kaç Derece?', en: 'How Many Degrees?', code: 'MAT.5.3.3', dur: '1:32',
@@ -235,7 +250,7 @@
     { id: 'cemberlerle-ucgen', title: 'Çemberlerle Üçgen', en: 'Triangles from Circles', code: 'MAT.5.3.7', dur: '1:32',
       what: 'A ve B merkezli iki çember, bir kesişim noktası: üçgen. AC ve BC birer yarıçap olduğu için hiç ölçmeden çeşitkenar, ikizkenar ve eşkenar üçgen kurulur.',
       outcome: 'İki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik çıkarım yapabilme' },
-    { theme: 'Geometrik Nicelikler', tcode: 'MAT.5.4', id: 'ayni-cevre', title: 'Aynı Çevre', en: 'Same Perimeter', code: 'MAT.5.4.1', dur: '1:32',
+    { id: 'ayni-cevre', title: 'Aynı Çevre', en: 'Same Perimeter', code: 'MAT.5.4.1', dur: '1:32',
       what: '6 × 4’lük dikdörtgenin çevresi 20 cm. Aynı 20 cm’lik iple 9 × 1, 8 × 2, 7 × 3, 6 × 4 ve 5 × 5’lik dikdörtgenler olur; uzun + kısa hep 10. Kare de bir dikdörtgendir.',
       outcome: 'Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme' },
     { id: 'birim-kareler', title: 'Birim Kareler', en: 'Unit Squares', code: 'MAT.5.4.2', dur: '1:32',
@@ -243,19 +258,19 @@
       outcome: 'Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme' },
     { id: 'cevre-mi-alan-mi', title: 'Çevre mi, Alan mı?', en: 'Perimeter or Area?', code: 'MAT.5.4.3', dur: '1:32',
       what: 'Aynı 20 cm’lik iple 9 × 1’den 5 × 5’e: çevre aynı, alanlar 9’dan 25’e. Aynı 12 birim kareyle 12 × 1, 6 × 2, 4 × 3: alan aynı, çevreler 26, 16, 14. Birini bilmek ötekini söylemez.',
-      outcome: 'Kenar uzunlukları doğal sayı olan bir dikdörtgenin alanının ölçüsü verildiğinde çevre uzunluğunu, çevre uzunluğu verildiğinde alanını yorumlayabilme' }
+      outcome: 'Kenar uzunlukları doğal sayı olan bir dikdörtgenin alanının ölçüsü verildiğinde çevre uzunluğunu, çevre uzunluğu verildiğinde alanını yorumlayabilme' },
     { id: 'cit-mi-cim-mi', title: 'Çit mi, Çim mi?', en: 'Fence or Grass?', code: 'MAT.5.4.4', dur: '1:32',
       what: '8 m × 5 m bahçe: çit etrafı sarar (26 m), çim içini kaplar (40 m²). Önce anla, tahmin et, çöz, kontrol et. Fayans ustası: 24 m², bir kenar 6 m; süpürgelik 20 m.',
-      outcome: 'Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme' }
-    { theme: 'İstatistiksel Araştırma Süreci', tcode: 'MAT.5.5', id: 'veri-ne-diyor', title: 'Veri Ne Diyor?', en: 'What Does the Data Say?', code: 'MAT.5.5.1', dur: '1:32',
+      outcome: 'Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme' },
+    { id: 'veri-ne-diyor', title: 'Veri Ne Diyor?', en: 'What Does the Data Say?', code: 'MAT.5.5.1', dur: '1:32',
       what: 'Sınıf gezisi nereye? Araştırma sorusu, plan, anket. 20 oy çetele tablosuna, oradan sütun grafiğine: Müze 4, Akvaryum 9, Planetaryum 7. Karar: Akvaryum, çünkü 9 kişi seçti.',
-      outcome: 'Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme' }
+      outcome: 'Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme' },
     { id: 'bu-yorum-dogru-mu', title: 'Bu Yorum Doğru mu?', en: 'Is This Claim Right?', code: 'MAT.5.5.2', dur: '1:32',
       what: 'Üç yorum, üç karar. Gazete: 30 kişinin 16’sı yürüyor, kabul. Afiş: eksen 10’dan başlıyor, 12 ile 11 aslında eşite yakın, çürütüldü. Duyuru: sadece basketbol takımına sorulmuş, yanlı, çürütüldü.',
-      outcome: 'Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme' }
-    { theme: 'Veriden Olasılığa', tcode: 'MAT.5.6', id: 'imkansizdan-kesine', title: 'İmkânsızdan Kesine', en: 'From Impossible to Certain', code: 'MAT.5.6.1', dur: '1:32',
+      outcome: 'Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme' },
+    { id: 'imkansizdan-kesine', title: 'İmkânsızdan Kesine', en: 'From Impossible to Certain', code: 'MAT.5.6.1', dur: '1:32',
       what: 'Dört toplu torbadan amber çekmek: hiç amber yoksa imkânsız (0), hepsi amberse kesin (1), 4’te 2 ise yarı yarıya (1/2). 1/4 ve 3/4 de çizgiye yerleşiyor; zar, yazı tura ve güneş de.',
-      outcome: 'Herhangi bir olayın olasılığının 0 (imkânsız) ile 1 (kesin) arasında (0 ve 1 dâhil) olduğunu (olasılık spektrumu) yorumlayabilme' }
+      outcome: 'Herhangi bir olayın olasılığının 0 (imkânsız) ile 1 (kesin) arasında (0 ve 1 dâhil) olduğunu (olasılık spektrumu) yorumlayabilme' },
     { id: 'hangisi-daha-olasi', title: 'Hangisi Daha Olası?', en: 'Which Is More Likely?', code: 'MAT.5.6.2', dur: '1:32',
       what: 'Az olası mı, çok olası mı? Çarkta büyük pay, torbada 5 amber 1 siyah, zarda 5 duruma 1 durum, Ocakta ve Temmuzda kar. Her olay tahtaya nedeniyle yerleşiyor.',
       outcome: 'Olayları az ya da çok olasılıklı şeklinde yapılandırabilme' },
@@ -275,10 +290,37 @@
   const thumb = (f) => `<button class="thumb" data-play="${f.id}" aria-label="${esc(f.title)} filmini oynat">
       <img src="img/${f.id}.jpg" alt="" loading="lazy" width="960" height="540"><span class="play"><i></i>İZLE · ${f.dur}</span></button>`;
 
-  document.getElementById('journey').innerHTML = FILMS.map((f, i) => (f.theme ? `
-    <li class="theme-head stage" style="--i:${i + 6}"><div class="dotm"><i></i></div><div><span>Tema · ${f.tcode}</span><h3>${esc(f.theme)}</h3></div></li>` : '') + `
-    <li class="film stage" style="--i:${i + 6}">
-      <div class="num" style="--i:${i + 6}">${ring}<b>${i + 1}</b></div>
+  /** the curriculum: themes per grade (outcome counts from the MEB Maarif Model), and the next film */
+  const GRADES = {
+    5: { themes: [
+      { t: 'MAT.5.1', name: 'Sayılar ve Nicelikler', n: 4 },
+      { t: 'MAT.5.2', name: 'İşlemlerle Cebirsel Düşünme', n: 4 },
+      { t: 'MAT.5.3', name: 'Geometrik Şekiller', n: 7 },
+      { t: 'MAT.5.4', name: 'Geometrik Nicelikler', n: 4 },
+      { t: 'MAT.5.5', name: 'İstatistiksel Araştırma Süreci', n: 2 },
+      { t: 'MAT.5.6', name: 'Veriden Olasılığa', n: 2 },
+    ], next: { code: 'MAT.5.1.1', title: 'Çok basamaklı sayılar', what: 'Altı basamaklı sayıları okuyup yazmaktan milyonlara: basamaklar ve bölükler.' } },
+    6: { themes: [], note: '6. sınıf filmleri, 5. sınıfın bütün temaları bitince başlıyor.' },
+  };
+  const gradeOf = (f) => +(f.code.match(/MAT\.(\d+)/) || [0, 5])[1];
+  const themeOf = (f) => (f.code.match(/MAT\.\d+\.\d+/) || [''])[0];
+  const soonCard = (n, nx) => `
+    <li class="film soon stage" style="--i:${n + 6}">
+      <div class="num">${ring}<b>…</b></div>
+      <div class="thumb-cell">sıradaki film…</div>
+      <div class="meta"><span class="code">${nx.code}</span><h3>${esc(nx.title)}</h3><p class="what">${esc(nx.what)}</p></div>
+    </li>`;
+
+  function render(g) {
+    const G = GRADES[g], films = FILMS.filter((f) => gradeOf(f) === +g);
+    let html = '', n = 0;
+    if (!G.themes.length) html = `<li class="film soon stage" style="--i:6"><div class="num">${ring}<b>1</b></div><div class="thumb-cell">yakında…</div><div class="meta"><span class="code">${g}. sınıf</span><h3>Hazırlanıyor</h3><p class="what">${esc(G.note)}</p></div></li>`;
+    G.themes.forEach((T, ti) => {
+      const list = films.filter((f) => themeOf(f) === T.t), isNext = G.next && G.next.code.startsWith(T.t + '.');
+      html += `<li class="theme-head stage" style="--i:${n + 6}"><div class="dotm"><i></i></div><div><span>${ti + 1}. tema · ${T.t}</span><h3>${esc(T.name)}</h3></div></li>`;
+      list.forEach((f) => { n++; html += `
+    <li class="film stage" style="--i:${n + 6}">
+      <div class="num" style="--i:${n + 6}">${ring}<b>${n}</b></div>
       <div class="thumb-cell">${thumb(f)}</div>
       <div class="meta">
         <span class="code">${f.code}</span><span class="dur">${f.dur} dk</span>
@@ -288,16 +330,27 @@
         <p class="outcome">${esc(f.outcome)}</p>
         <div class="links">${links(f)}</div>
       </div>
-    </li>`).join('') + `
-    <li class="film soon stage" style="--i:${FILMS.length + 6}">
-      <div class="num">${ring}<b>${FILMS.length + 1}</b></div>
-      <div class="thumb-cell">seri tamam ✓</div>
-      <div class="meta">
-        <span class="code">5. sınıf tamamlandı</span>
-        <h3>Bütün öğrenme çıktıları hazır</h3>
-        <p class="what">Geometrik Şekiller, Geometrik Nicelikler, İstatistiksel Araştırma Süreci ve Veriden Olasılığa temalarının her öğrenme çıktısı için bir film.</p>
-      </div>
-    </li>`;
+    </li>`; });
+      if (isNext) html += soonCard(0, G.next);
+      else if (!list.length) html += `<li class="theme-soon stage" style="--i:${n + 6}"><div></div><div><b>yakında</b>Bu temanın ${T.n} öğrenme çıktısının filmleri sırayla hazırlanıyor.</div></li>`;
+    });
+    document.getElementById('journey').innerHTML = html;
+    document.querySelectorAll('#grades button').forEach((b) => b.setAttribute('aria-selected', b.dataset.grade === String(g)));
+  }
+  document.getElementById('grades').innerHTML = Object.keys(GRADES).map((g) => {
+    const c = FILMS.filter((f) => gradeOf(f) === +g).length;
+    return `<button role="tab" data-grade="${g}" aria-selected="false">${g}. sınıf <small>${c ? c + ' film' : 'yakında'}</small></button>`;
+  }).join('');
+  let grade = new URLSearchParams(location.search).get('sinif');
+  if (!GRADES[grade]) { try { grade = localStorage.getItem('nokta-sinif'); } catch (e) {} }
+  if (!GRADES[grade]) grade = '5';
+  render(grade);
+  document.getElementById('grades').addEventListener('click', (e) => {
+    const b = e.target.closest('button[data-grade]'); if (!b) return;
+    grade = b.dataset.grade; render(grade);
+    try { localStorage.setItem('nokta-sinif', grade); } catch (e) {}
+    try { const u = new URL(location.href); u.searchParams.set('sinif', grade); history.replaceState(null, '', u.pathname + u.search + u.hash); } catch (e) {}
+  });
 
   document.getElementById('bonus').innerHTML = `
     <div>${thumb(BONUS)}</div>
@@ -320,7 +373,7 @@
     vid.play().catch(() => {});
     try { history.replaceState(null, '', '#' + id); } catch (e) {}
   }
-  function close() { vid.pause(); vid.removeAttribute('src'); vid.load(); if (dlg.open) dlg.close(); try { history.replaceState(null, '', location.pathname); } catch (e) {} }
+  function close() { vid.pause(); vid.removeAttribute('src'); vid.load(); if (dlg.open) dlg.close(); try { history.replaceState(null, '', location.pathname + location.search); } catch (e) {} }
   document.addEventListener('click', (e) => {
     const p = e.target.closest('[data-play]'); if (p) { open(p.dataset.play); return; }
     if (e.target.closest('[data-close]') || e.target === dlg) close();

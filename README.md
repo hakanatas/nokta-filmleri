@@ -2,9 +2,9 @@
 
 **▶ https://hakanatas.github.io/nokta-filmleri/**
 
-> **TR —** 5. sınıf matematik ("Geometrik Şekiller", "Geometrik Nicelikler", "İstatistiksel Araştırma Süreci" ve "Veriden Olasılığa" temaları) için hazırlanan mürekkep animasyonlarını tek sayfada toplar. Filmler öğrenme çıktılarının sırasıyla dizilmiştir (MAT.5.3.1 – 5.3.7, MAT.5.4.1 …). Her film sayfada oynatılabilir; etkileşimli sürüme, indirmelere (MP4, altyazı, seslendirme notları) ve koda da buradan ulaşılır. Bonus olarak serinin ilk filmi *The Learning Ink* de sayfada.
+> **TR —** Ortaokul matematik için hazırlanan mürekkep animasyonlarını tek sayfada toplar. Sayfanın üstünden sınıf seçilir (şimdilik 5. ve 6. sınıf); filmler tema ve öğrenme çıktısı sırasıyla dizilir. 5. sınıfta "Geometrik Şekiller", "Geometrik Nicelikler", "İstatistiksel Araştırma Süreci" ve "Veriden Olasılığa" temaları tamam; "Sayılar ve Nicelikler" (MAT.5.1) ve "İşlemlerle Cebirsel Düşünme" (MAT.5.2) hazırlanıyor. Her film sayfada oynatılabilir; etkileşimli sürüme, indirmelere (MP4, altyazı, seslendirme notları) ve koda da buradan ulaşılır. Bonus olarak serinin ilk filmi *The Learning Ink* de sayfada.
 
-One page that collects the ink animations made for the 5th-grade maths themes *Geometrik Şekiller* and *Geometrik Nicelikler* (Türkiye Yüzyılı Maarif Modeli), in curriculum order. Each film plays in the page, with links to its interactive version, downloads (MP4, subtitles, narration notes) and source code.
+One page that collects the ink animations made for middle-school maths (Türkiye Yüzyılı Maarif Modeli). A grade picker at the top switches between grades; within a grade, films follow the curriculum's themes and outcomes. Grade 5 themes 3–6 are done, themes 1–2 are in progress, and grade 6 comes next. Add `?sinif=5` or `?sinif=6` to the address to open a grade directly. Each film plays in the page, with links to its interactive version, downloads (MP4, subtitles, narration notes) and source code.
 
 | # | Film | Outcome | Repo |
 |---|---|---|---|

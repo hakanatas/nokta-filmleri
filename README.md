@@ -2,9 +2,9 @@
 
 **▶ https://hakanatas.github.io/nokta-filmleri/**
 
-> **TR —** Ortaokul matematik için hazırlanan mürekkep animasyonlarını tek sayfada toplar. Sayfanın üstünden sınıf seçilir (şimdilik 5. ve 6. sınıf); filmler tema ve öğrenme çıktısı sırasıyla dizilir. 5. sınıfta "Geometrik Şekiller", "Geometrik Nicelikler", "İstatistiksel Araştırma Süreci" ve "Veriden Olasılığa" temaları tamam; "Sayılar ve Nicelikler" (MAT.5.1) ve "İşlemlerle Cebirsel Düşünme" (MAT.5.2) hazırlanıyor. Her film sayfada oynatılabilir; etkileşimli sürüme, indirmelere (MP4, altyazı, seslendirme notları) ve koda da buradan ulaşılır. Bonus olarak serinin ilk filmi *The Learning Ink* de sayfada.
+> **TR —** Ortaokul matematik için hazırlanan mürekkep animasyonlarını tek sayfada toplar. Sayfanın üstünden sınıf seçilir (şimdilik 5. ve 6. sınıf); filmler tema ve öğrenme çıktısı sırasıyla dizilir. 5. sınıfta "Geometrik Şekiller", "Geometrik Nicelikler", "İstatistiksel Araştırma Süreci" ve "Veriden Olasılığa" temaları tamam; "Sayılar ve Nicelikler" (MAT.5.1) ve "İşlemlerle Cebirsel Düşünme" (MAT.5.2) hazırlanıyor. 6. sınıf başladı: öğrenme çıktıları sırasıyla ekleniyor. Her film sayfada oynatılabilir; etkileşimli sürüme, indirmelere (MP4, altyazı, seslendirme notları) ve koda da buradan ulaşılır. Bonus olarak serinin ilk filmi *The Learning Ink* de sayfada.
 
-One page that collects the ink animations made for middle-school maths (Türkiye Yüzyılı Maarif Modeli). A grade picker at the top switches between grades; within a grade, films follow the curriculum's themes and outcomes. Grade 5 themes 3–6 are done, themes 1–2 are in progress, and grade 6 comes next. Add `?sinif=5` or `?sinif=6` to the address to open a grade directly. Each film plays in the page, with links to its interactive version, downloads (MP4, subtitles, narration notes) and source code.
+One page that collects the ink animations made for middle-school maths (Türkiye Yüzyılı Maarif Modeli). A grade picker at the top switches between grades; within a grade, films follow the curriculum's themes and outcomes. Grade 5 themes 3–6 are done, themes 1–2 are in progress, and grade 6 has started, outcome by outcome in curriculum order. Add `?sinif=5` or `?sinif=6` to the address to open a grade directly. Each film plays in the page, with links to its interactive version, downloads (MP4, subtitles, narration notes) and source code.
 
 | # | Film | Outcome | Repo |
 |---|---|---|---|
@@ -23,6 +23,7 @@ One page that collects the ink animations made for middle-school maths (Türkiye
 | 12 | Bu Yorum Doğru mu? | MAT.5.5.2 · discussing claims based on data | [bu-yorum-dogru-mu](https://github.com/hakanatas/bu-yorum-dogru-mu) |
 | 13 | İmkânsızdan Kesine | MAT.5.6.1 · the probability scale from 0 to 1 | [imkansizdan-kesine](https://github.com/hakanatas/imkansizdan-kesine) |
 | 14 | Hangisi Daha Olası? | MAT.5.6.2 · less likely or more likely | [hangisi-daha-olasi](https://github.com/hakanatas/hangisi-daha-olasi) |
+| 6.1 | Çarpan mı, Kat mı? | MAT.6.1.1 · reasoning about factors and multiples | [carpan-mi-kat-mi](https://github.com/hakanatas/carpan-mi-kat-mi) |
 | ★ | The Learning Ink | Bonus · how a neural network learns | [the-learning-ink](https://github.com/hakanatas/the-learning-ink) |
 
 ## What's here

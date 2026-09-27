@@ -235,6 +235,9 @@
     { id: 'ucer-ucer-bolukler', title: 'Üçer Üçer Bölükler', en: 'Digits in Groups of Three', code: 'MAT.5.1.1', dur: '1:32',
       what: 'Ay’a 384 400 km, Güneş’e 150 000 000 km, 8 milyardan fazla insan. Sağdan üçer üçer ayır, her bölüğü oku, adını söyle; 000 olan bölük okunmaz.',
       outcome: 'Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme' },
+    { id: 'carpan-mi-kat-mi', title: 'Çarpan mı, Kat mı?', en: 'Factors and Multiples', code: 'MAT.6.1.1', dur: '1:32',
+      what: '12 nokta 1 × 12, 2 × 6, 3 × 4 dikdörtgenlerine diziliyor; 5’erli dizince 2 nokta artıyor. 4’er 4’er atlayınca 12 yine çıkıyor. Önerme ve gerekçe: 1 ve sayının kendisi hep çarpandır; çarpanlar sınırlı, katlar sonsuz.',
+      outcome: 'Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme' },
     { id: 'noktadan-cembere', title: 'Noktadan Çembere', en: 'From a Point to a Circle', code: 'MAT.5.3.1 – 5.3.2', dur: '1:40',
       what: 'Nokta, doğru parçası, ışın, doğru, açı, dikme ve çember. Cetvel, gönye ve pergelle adım adım çizim; sonunda hepsinden bir yelkenli resmi çıkıyor.',
       outcome: 'Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme' },
@@ -310,7 +313,7 @@
       { t: 'MAT.6.4', name: 'Geometrik Nicelikler', n: 6 },
       { t: 'MAT.6.5', name: 'İstatistiksel Araştırma Süreci', n: 2 },
       { t: 'MAT.6.6', name: 'Veriden Olasılığa', n: 1 },
-    ], next: { code: 'MAT.6.1.1', title: 'Çarpanlar ve katlar', what: 'Bir doğal sayının çarpanları ve katları: dikdörtgen dizilişler, sayı doğrusunda atlamalar, genellemeler.' } },
+    ], next: { code: 'MAT.6.1.2', title: 'Bölünebilme kuralları', what: 'Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterleri: katlara ve basamak değerlerine bakarak varsayım, sınama, önerme.' } },
   };
   const gradeOf = (f) => +(f.code.match(/MAT\.(\d+)/) || [0, 5])[1];
   const themeOf = (f) => (f.code.match(/MAT\.\d+\.\d+/) || [''])[0];

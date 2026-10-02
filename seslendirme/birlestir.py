@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 """tts.py ile üretilen sesleri filme yerleştirir (ağa çıkmaz, kota harcamaz).
 
-Kullanım:  python3 seslendirme/birlestir.py <film-deposu> <sessiz.mp4>
-Her cümle kendi altyazısının başladığı anda başlar. Cümle bir sonraki
-altyazıya kadar bitmiyorsa görüntü o bölümün sonunda kısa bir süre
-dondurulur; böylece konuşma hızlandırılmadan ses ve görüntü eşleşir.
+Kullanım:  python3 seslendirme/birlestir.py <film-deposu> <sessiz.mp4> [bekleme-sn]
+Her cümle kendi altyazısının başladığı anda başlar. Her cümle bittikten
+sonra bir sonraki cümleye kadar en az <bekleme-sn> (varsayılan 1,5 sn)
+sessizlik kalır; gerekirse görüntü o bölümün sonunda dondurulur. Böylece
+konuşma hızlandırılmaz ve çocuklara her cümleden sonra düşünme payı kalır.
 Çıktı: seslendirme/<film>/<film>-sesli.mp4
 """
 import json, subprocess, sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-GAP = 0.35   # iki cümle arası en az sessizlik (sn)
-TAIL = 0.8   # son cümleden sonra
+PAUSE = 1.5  # her cümleden sonra en az bekleme (sn); 3. argümanla değiştirilebilir
 
 def dur(f):
     return float(subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', str(f)]))
@@ -20,6 +20,7 @@ def dur(f):
 def main():
     repo, video = Path(sys.argv[1]).resolve(), Path(sys.argv[2]).resolve()
     film = repo.name
+    pause = float(sys.argv[3]) if len(sys.argv) > 3 else PAUSE
     js = f"console.log(JSON.stringify(require({json.dumps(str(repo / 'captions.js'))})))"
     caps = json.loads(subprocess.check_output(['node', '-e', js]))
     d = HERE / film
@@ -41,7 +42,7 @@ def main():
         if k >= 1:
             i = k - 1
             starts.append(caps[i]['start'] + shift)
-            end_needed = caps[i]['start'] + dur(trimmed[i]) + (GAP if k < len(cuts) - 2 else TAIL)
+            end_needed = caps[i]['start'] + dur(trimmed[i]) + pause
             ext = max(0.0, end_needed - b)
         segs.append((a, b, ext))
         shift += ext
@@ -76,7 +77,7 @@ def main():
         srt.append(f"{i+1}\n{ts(s)} --> {ts(e)}\n{c['note']}\n")
     (d / f'{film}-seslendirme.srt').write_text('\n'.join(srt))
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', str(out), '-vn', '-c:a', 'libmp3lame', '-q:a', '3', str(d / f'{film}-seslendirme.mp3')], check=True)
-    print(f'✓ {out.name}: {dur(out):.1f} sn (özgün {total:.1f} sn, {shift:.1f} sn dondurma)')
+    print(f'✓ {out.name}: {dur(out):.1f} sn (özgün {total:.1f} sn, {shift:.1f} sn dondurma, cümle sonrası en az {pause} sn)')
     for k, (a, b, ext) in enumerate(segs):
         if ext: print(f'   {b:5.1f} sn’de {ext:.1f} sn dondurma')
 

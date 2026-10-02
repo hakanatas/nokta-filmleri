@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,534
+Torbada 3 sarı ve 7 siyah top var. Bir top çekiyoruz. A olayı: sarı top çekmek.
+
+2
+00:00:12,534 --> 00:00:22,765
+Olası tüm çıktılar 10 top. A’nın olasılığı 3 bölü 10. Sarı top çekmemek A’nın tümleyeni, A üssü: olasılığı 7 bölü 10.
+
+3
+00:00:24,765 --> 00:00:31,965
+Her çıktı ya A’da ya da A üssünde. 3 bölü 10 artı 7 bölü 10, 10 bölü 10, yani 1.
+
+4
+00:00:33,605 --> 00:00:45,111
+Bir zarda 6 gelmesi 1 bölü 6, gelmemesi 5 bölü 6: toplam 1. Sekiz bölmeli çarkta çift sayı 4 bölü 8, çift olmayan 4 bölü 8: toplam 1.
+
+5
+00:00:47,111 --> 00:00:54,908
+1’den 20’ye kartlarda asal sayı 8 bölü 20, asal olmayan 12 bölü 20. Toplam yine 1.
+
+6
+00:00:56,908 --> 00:01:05,908
+A ve A üssü bütün çıktıları paylaşır. Biri büyüyünce öteki küçülür; toplamları hep 1.
+
+7
+00:01:06,108 --> 00:01:13,908
+Genelleyelim: bir olayın tümleyeninin olasılığı, 1 eksi olayın olasılığı.
+
+8
+00:01:14,908 --> 00:01:27,869
+Yağmur yağma olasılığı 0,35 ise yağmama olasılığı 1 eksi 0,35, yani 0,65. Zarda 1 gelmeme olasılığı 1 eksi 1 bölü 6, 5 bölü 6.
+
+9
+00:01:29,869 --> 00:01:37,287
+Hedefi vurma olasılığı 0,8 ise ıskalama 0,2. Olmama olasılığı, 1 eksi olma olasılığı.
+
+10
+00:01:39,287 --> 00:01:45,087
+Aklında kalsın: bir olay ile tümleyeninin olasılıklarının toplamı 1.
+
+11
+00:01:45,534 --> 00:01:49,734
+Tümleyenin olasılığı: 1 eksi olayın olasılığı!

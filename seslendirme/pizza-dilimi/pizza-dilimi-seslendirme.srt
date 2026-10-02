@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:15,801
+Yarıçapı 10 santimetre olan bir pizza. Alanı 3,14 çarpı 10 çarpı 10, 314 santimetrekare. 90 derecelik bir dilimin alanı ne kadar?
+
+2
+00:00:17,801 --> 00:00:31,691
+360 derecede yay bütün çember, 62,8 santimetre; dilim bütün daire, 314 santimetrekare. 180 derecede ikisi de yarıya, 90 derecede dörtte bire, 45 derecede sekizde bire iniyor.
+
+3
+00:00:33,691 --> 00:00:40,491
+Yay ve dilimin alanı, merkez açıyla aynı oranda değişiyor.
+
+4
+00:00:41,491 --> 00:00:52,891
+90 derece, 360 derecenin dörtte biri: yay çemberin, dilim dairenin dörtte biri. 120 derece üçte bir: yay da alan da üçte bir.
+
+5
+00:00:53,325 --> 00:00:58,725
+72 derece beşte bir. Yay için bildiğimiz oran, alan için de geçerli.
+
+6
+00:01:00,257 --> 00:01:10,257
+72 derecelik dilimin alanı: 314 çarpı 72 bölü 360, yani 314’ün beşte biri, 62,8 santimetrekare.
+
+7
+00:01:11,843 --> 00:01:22,017
+Yay için 2 pi r çarpı alfa bölü 360 demiştik. Aynı düşünceyle dilimin alanı: pi r kare çarpı alfa bölü 360.
+
+8
+00:01:24,017 --> 00:01:33,017
+Yarıçapı 6 santimetre olan pizza: alanı 113,04. 120 derece üçte bir; dilimin alanı 37,68 santimetrekare.
+
+9
+00:01:34,548 --> 00:01:41,848
+Kontrol edelim: üç dilim bütün pizzayı yapar, 3 çarpı 37,68, 113,04.
+
+10
+00:01:43,848 --> 00:01:50,515
+Aklında kalsın: açı 360 derecenin kaçta kaçıysa, yay çemberin, dilim dairenin o kadarıdır.
+
+11
+00:01:52,515 --> 00:01:56,715
+Daire diliminin alanı: pi r kare çarpı alfa bölü 360!

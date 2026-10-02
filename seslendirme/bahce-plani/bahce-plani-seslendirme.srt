@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:20,418
+Bahçe bir dik yamuk: tabanları 20 ve 12 metre, yüksekliği 10 metre. Ortada yarıçapı 3 metre olan bir havuz, köşede yarıçapı 4 metre olan çeyrek daire bir çiçeklik var. Kalan yere çim ekilecek. 40 metrekare için 1 kilogram tohum gerekiyor.
+
+2
+00:00:22,418 --> 00:00:32,722
+Bileşenleri belirleyelim: bahçe bir yamuk, havuz bir daire, çiçeklik 90 derecelik bir daire dilimi. Çim, bahçeden havuz ve çiçeklik çıkınca kalan yer.
+
+3
+00:00:34,722 --> 00:00:43,414
+Önce tahmin edelim: bahçe yaklaşık 160, havuz yaklaşık 27, çiçeklik yaklaşık 12. Çim yaklaşık 120 metrekare.
+
+4
+00:00:45,414 --> 00:00:54,799
+20 çarpı 10 alırsak bahçeyi dikdörtgen saymış oluruz: bu strateji yanlış. Yamuk bağıntısı: 20 artı 12 bölü 2 çarpı 10, 160 metrekare.
+
+5
+00:00:56,799 --> 00:01:05,999
+Başka yolla kontrol edelim: bahçeyi bir dikdörtgen ve bir üçgene ayıralım. 120 artı 40, yine 160.
+
+6
+00:01:06,999 --> 00:01:18,519
+Havuz 3,14 çarpı 9, 28,26 metrekare. Çiçeklik 3,14 çarpı 16 çarpı 90 bölü 360, 12,56 metrekare.
+
+7
+00:01:20,519 --> 00:01:33,648
+Çim: 160 eksi 28,26 eksi 12,56, 119,18 metrekare. Tahminimize yakın. 40 metrekare için 1 kilogramdan yaklaşık 3 kilogram tohum gerekir.
+
+8
+00:01:35,648 --> 00:01:44,248
+Aynı stratejiyi yeni bir bahçede deneyelim: 10 metrelik kare, yarım daire çiçeklik ve köşegenleri 4 ve 3 metre olan eşkenar dörtgen havuz.
+
+9
+00:01:46,225 --> 00:01:55,791
+Çim: 100 eksi 39,25 eksi 6, 54,75 metrekare. Bütünden içteki şekilleri çıkarmak her planda işliyor.
+
+10
+00:01:57,791 --> 00:02:04,817
+Aklında kalsın: bileşenleri belirle, tahmin et, hesapla ve kontrol et; işe yaramayan stratejiyi değiştir.
+
+11
+00:02:06,817 --> 00:02:11,017
+Kalan alan: bütün eksi içteki şekiller!

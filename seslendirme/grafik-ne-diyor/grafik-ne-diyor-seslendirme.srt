@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:18,775
+Okul gazetesinde üç iddia var: boy ortalaması 1,80 metre; en çok öğrenci 150 ile 170 santimetre arasında; öğrencilerin yarıdan fazlası 8 saatten az uyuyor. Her birini veriyle sınayalım.
+
+2
+00:00:20,775 --> 00:00:33,084
+Birinci iddianın verisi: ölçülenler basketbol takımının 12 oyuncusu, ortalamaları yaklaşık 183 santimetre. Sınıftaki 30 öğrencinin boyları ise çoğunlukla 140 ile 180 arasında.
+
+3
+00:00:35,084 --> 00:00:41,884
+Örneklem okulu temsil etmiyor; bu bir yanlılık. Birinci iddia çürütüldü.
+
+4
+00:00:42,884 --> 00:00:53,046
+İkinci iddianın grafiğinde en uzun sütun 150–170 santimetre: 13 öğrenci. Ama bu aralık 20 santimetre, diğerleri 10 santimetre.
+
+5
+00:00:55,046 --> 00:01:06,400
+Aralıkları eşit yapalım: 8, 7, 6 ve 9. En kalabalık aralık 170–180. İkinci iddia çürütüldü; hata eşit olmayan aralıklarda.
+
+6
+00:01:08,400 --> 00:01:19,106
+Üçüncü iddianın verisi sınıfın 30 öğrencisi, aralıklar eşit. 8 saatten az uyuyanlar 4 artı 14, 18 kişi. 30’un yarısı 15.
+
+7
+00:01:21,106 --> 00:01:27,906
+18, 15’ten büyük. Üçüncü iddia kabul edildi: veriler destekliyor.
+
+8
+00:01:29,745 --> 00:01:38,745
+Bir iddiayı kabul etmeden önce soralım: örneklem kimi temsil ediyor? Aralıklar eşit mi? Sayılar iddiayı destekliyor mu?
+
+9
+00:01:40,257 --> 00:01:46,057
+Hataları ve yanlılıkları bul; sonucu çürüt ya da kabul et, ama gerekçen veri olsun.
+
+10
+00:01:47,627 --> 00:01:53,427
+Aklında kalsın: örneklem, aralıklar ve sayılar.
+
+11
+00:01:53,827 --> 00:01:58,027
+Veriyle çürüt ya da kabul et!

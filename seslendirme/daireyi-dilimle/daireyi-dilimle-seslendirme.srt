@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,895
+Bu dairenin alanı ne kadar? Karelerle saymak zor, çünkü kenarı eğri. Bildiğimiz şekillerden yardım alalım.
+
+2
+00:00:12,895 --> 00:00:21,457
+Dikdörtgenin alanı a çarpı b. Paralelkenardan bir üçgen kesip öbür yana taşıyınca dikdörtgen olur: taban çarpı yükseklik.
+
+3
+00:00:23,457 --> 00:00:32,857
+Çemberin uzunluğu 2 çarpı pi çarpı r. Şekli dikdörtgene dönüştürmek işe yaradı; daireyi de dönüştürebilir miyiz?
+
+4
+00:00:33,857 --> 00:00:43,457
+Daireyi 8 eş dilime keselim ve dilimleri bir yukarı, bir aşağı dizelim.
+
+5
+00:00:43,657 --> 00:00:50,857
+16 dilim, sonra 32 dilim. Dilimler inceldikçe kenarlar düzleşiyor, şekil bir dikdörtgene benziyor.
+
+6
+00:00:52,233 --> 00:01:00,834
+Dikdörtgenin tabanı çemberin yarısı: pi çarpı r. Yüksekliği yarıçap: r. Alanı pi çarpı r çarpı r.
+
+7
+00:01:02,834 --> 00:01:11,634
+Dairenin alanı pi çarpı r kare.
+
+8
+00:01:12,634 --> 00:01:22,296
+Yarıçapı 10 santimetre olan daire: 3,14 çarpı 100, 314 santimetrekare. Yarıçaplı karenin 3 katından biraz fazla.
+
+9
+00:01:24,296 --> 00:01:33,342
+Yarıçap 5 santimetre olursa 3,14 çarpı 25, 78,5 santimetrekare. Bağıntı her dairede işliyor.
+
+10
+00:01:35,342 --> 00:01:41,836
+Aklında kalsın: daireyi dilimleyip dizince tabanı pi r, yüksekliği r olan bir dikdörtgene benzer.
+
+11
+00:01:43,836 --> 00:01:48,036
+Dairenin alanı pi çarpı r kare!

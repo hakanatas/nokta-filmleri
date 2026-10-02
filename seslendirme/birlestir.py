@@ -24,8 +24,10 @@ def main():
     js = f"console.log(JSON.stringify(require({json.dumps(str(repo / 'captions.js'))})))"
     caps = json.loads(subprocess.check_output(['node', '-e', js]))
     d = HERE / film
+    voice = (d / 'ses.txt').read_text().strip()   # tts.py'nin son kullandığı ses
     (d / 'trim').mkdir(exist_ok=True)
-    clips = sorted((d / 'clips').glob('*.wav'))
+    for old in (d / 'trim').glob('*.wav'): old.unlink()
+    clips = sorted((d / 'clips' / voice).glob('*.wav'))
     assert len(clips) == len(caps), 'ses sayısı altyazı sayısıyla eşleşmiyor; önce tts.py çalıştırın'
     trimmed = []
     for c in clips:   # baştaki ve sondaki sessizliği kırp
@@ -58,7 +60,7 @@ def main():
         ms = int(round(s * 1000))
         fc.append(f'[{i+1}:a]aformat=sample_rates=48000:channel_layouts=mono,adelay={ms}:all=1[a{i}]')
         alabels.append(f'[a{i}]')
-    fc.append(''.join(alabels) + f'amix=inputs={len(alabels)}:normalize=0:duration=longest,apad=whole_dur={total + shift:.3f},atrim=end={total + shift:.3f}[a]')
+    fc.append(''.join(alabels) + f'amix=inputs={len(alabels)}:normalize=0:duration=longest,alimiter=limit=0.89:level=0,apad=whole_dur={total + shift:.3f},atrim=end={total + shift:.3f}[a]')
 
     out = d / f'{film}-sesli.mp4'
     cmd = ['ffmpeg', '-v', 'error', '-y', '-i', str(video)]
@@ -77,7 +79,7 @@ def main():
         srt.append(f"{i+1}\n{ts(s)} --> {ts(e)}\n{c['note']}\n")
     (d / f'{film}-seslendirme.srt').write_text('\n'.join(srt))
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', str(out), '-vn', '-c:a', 'libmp3lame', '-q:a', '3', str(d / f'{film}-seslendirme.mp3')], check=True)
-    print(f'✓ {out.name}: {dur(out):.1f} sn (özgün {total:.1f} sn, {shift:.1f} sn dondurma, cümle sonrası en az {pause} sn)')
+    print(f'✓ {out.name} [{voice}]: {dur(out):.1f} sn (özgün {total:.1f} sn, {shift:.1f} sn dondurma, cümle sonrası en az {pause} sn)')
     for k, (a, b, ext) in enumerate(segs):
         if ext: print(f'   {b:5.1f} sn’de {ext:.1f} sn dondurma')
 

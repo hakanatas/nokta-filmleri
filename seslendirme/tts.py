@@ -39,8 +39,9 @@ def main():
     t = tier(voice)
     caps = load_captions(repo)
 
-    out = HERE / film / 'clips'
+    out = HERE / film / 'clips' / voice
     out.mkdir(parents=True, exist_ok=True)
+    (HERE / film / 'ses.txt').write_text(voice + '\n')   # birlestir.py bu sesi kullanır
     ledger_path = HERE / 'kota.json'
     ledger = json.loads(ledger_path.read_text()) if ledger_path.exists() else {}
     month = date.today().strftime('%Y-%m')

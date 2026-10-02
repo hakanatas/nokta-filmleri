@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:13,215
+Bir kargo şirketi 2 kilograma kadar 40 lira alıyor; 2 kilogramdan sonraki her kilogram için 12 lira ekliyor. 5 kilogramlık paket kaç lira?
+
+2
+00:00:15,215 --> 00:00:32,870
+Adımları açıklayalım: önce fazla ağırlığı bul, 5 eksi 2, 3 kilogram. Fazlanın ücreti 3 çarpı 12, 36 lira. Toplam 40 artı 36, 76 lira. Bu adımlar tek bir ifadede birleşir: 40 artı 12 çarpı w eksi 2.
+
+3
+00:00:34,870 --> 00:00:41,670
+5 kilogramlık paket 76 lira.
+
+4
+00:00:42,470 --> 00:00:54,884
+Aynı adımları 1,5 kilogram için deneyelim: 40 artı 12 çarpı 1,5 eksi 2, yani 34 lira. Ama 2 kilograma kadar ücret 40 lira olmalı. Formül her ağırlık için doğru değil.
+
+5
+00:00:56,884 --> 00:01:06,596
+Bir karar adımı gerekiyor: ağırlık 2 kilogram ya da daha az mı? Evetse 40 lira, değilse formül. Karar adımı algoritmayı her ağırlık için doğru yapar.
+
+6
+00:01:08,596 --> 00:01:21,332
+Algoritmayı adım adım yazalım: başla; ağırlığı al; w 2’den küçük ya da eşitse ücret 40; değilse ücret 40 artı 12 çarpı w eksi 2; ücreti yaz; bitir.
+
+7
+00:01:23,332 --> 00:01:30,132
+Algoritma, bir işi yapan sıralı ve açık adımlardır. Her adım bir öncekinin sonucunu kullanır.
+
+8
+00:01:31,347 --> 00:01:46,672
+Aynı algoritmayı akış şemasıyla çizelim. Oval başla ve bitir, paralelkenar girdi ve çıktı, eşkenar dörtgen karar. 5 kilogram hayır yolundan geçer: 76 lira. 1,5 kilogram evet yolundan: 40 lira.
+
+9
+00:01:48,672 --> 00:01:53,472
+Adım listesi ve akış şeması aynı algoritmayı anlatır.
+
+10
+00:01:54,272 --> 00:02:03,364
+Aklında kalsın: adımları ve ilişkileri açıkla, her girdi için dene, gerekirse karar adımı ekle, adım listesi ya da akış şemasıyla yaz.
+
+11
+00:02:05,364 --> 00:02:09,564
+Algoritma sıralı, açık ve eksiksiz olmalı!

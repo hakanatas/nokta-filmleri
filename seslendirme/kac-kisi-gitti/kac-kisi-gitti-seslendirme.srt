@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,491
+Sınıf gezisi için otobüse 150 lira, kişi başı bilete 25 lira ödendi. Toplam 650 lira. Geziye kaç kişi katıldı?
+
+2
+00:00:14,491 --> 00:00:26,484
+Nicelikleri belirleyelim: kişi sayısına x diyelim. Biletler 25x lira, toplam 150 artı 25x. Şerit modelde 150 ve 25x birlikte 650 ediyor.
+
+3
+00:00:28,484 --> 00:00:35,284
+Denklem: 150 artı 25x eşittir 650.
+
+4
+00:00:36,084 --> 00:00:49,052
+Bir strateji deneyelim: önce 650’yi 25’e bölelim, 26; sonra 150’yi çıkaralım: eksi 124. Kişi sayısı negatif olamaz. Bu strateji çözüme götürmedi; değiştirelim.
+
+5
+00:00:51,052 --> 00:01:03,596
+Denge stratejisi: eşitliğin iki tarafından 150 çıkaralım: 25x eşittir 500. İki tarafı 25’e bölelim: x eşittir 20. Geziye 20 kişi katıldı.
+
+6
+00:01:05,596 --> 00:01:19,773
+Kontrol edelim: 150 artı 25 çarpı 20, 650. Başka stratejiler de var: ters işlemle 650’den 150 çıkar, 25’e böl; ya da bir tablo yap. Hepsi 20 buluyor.
+
+7
+00:01:21,773 --> 00:01:28,573
+Genelleme: sabit ücretli bu tür problemlerde x, toplamdan sabiti çıkarıp birim fiyata bölerek bulunur.
+
+8
+00:01:30,321 --> 00:01:46,597
+Bütçe en fazla 800 lira olsaydı? 150 artı 25x, 800’den küçük ya da eşit. 25x en fazla 650, x en fazla 26. 0’dan 26’ya kadar her kişi sayısı olur; 27 kişi 825 lira tutar.
+
+9
+00:01:48,597 --> 00:01:57,293
+Toplam 660 lira olsaydı x 20,4 çıkardı. Kişi sayısı böyle olamaz: genellemenin sonucunu bağlamda kontrol etmeliyiz.
+
+10
+00:01:59,293 --> 00:02:08,101
+Aklında kalsın: nicelikleri belirle, denklemi kur, iki tarafa aynı işlemi uygula, kontrol et; gerekirse stratejiyi değiştir.
+
+11
+00:02:10,101 --> 00:02:14,301
+Çözümün bağlamda anlamlı olup olmadığına bak!

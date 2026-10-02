@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:11,048
+Büyük hacimleri metreküple ölçeriz: ayrıtı 1 metre olan bir küp. Sıvıları ise litreyle ölçeriz.
+
+2
+00:00:13,048 --> 00:00:21,207
+Metreküpün ayrıtı 1 metre, yani 10 desimetre. Bir sırada 10, bir katta 100, bütün küpte 1000 desimetreküp var.
+
+3
+00:00:23,207 --> 00:00:32,607
+Ayrıtı 1 desimetre olan küp tam 1 litre su alır. Öyleyse 1 metreküp 1000 litredir.
+
+4
+00:00:33,607 --> 00:00:41,007
+Desimetreküpün ayrıtı 10 santimetre. İçinde 10 çarpı 10 çarpı 10, 1000 santimetreküp var.
+
+5
+00:00:42,550 --> 00:00:51,950
+Ayrıtı 1 santimetre olan küp 1 mililitre su alır. 1 litre, 1000 mililitredir.
+
+6
+00:00:52,950 --> 00:01:07,036
+Hacim birimlerinde her basamak 1000 kat: metreküp, desimetreküp, santimetreküp, milimetreküp. Sıvı ölçülerinde her basamak 10 kat: litre, desilitre, santilitre, mililitre.
+
+7
+00:01:09,036 --> 00:01:16,836
+İki merdiven iki yerde buluşur: 1 desimetreküp 1 litre, 1 santimetreküp 1 mililitre.
+
+8
+00:01:17,836 --> 00:01:26,836
+Akvaryum 50, 30 ve 40 santimetre. Hacmi 60 bin santimetreküp, yani 60 desimetreküp: 60 litre su alır.
+
+9
+00:01:28,770 --> 00:01:38,531
+Hangisi daha çok: 0,3 litre mi, 250 mililitre mi? 0,3 litre 300 mililitredir; 300, 250’den büyük.
+
+10
+00:01:40,531 --> 00:01:46,331
+Aklında kalsın: hacim birimlerinde her basamak 1000 kat, sıvı ölçülerinde 10 kat.
+
+11
+00:01:48,177 --> 00:01:52,377
+1 desimetreküp 1 litre, 1 santimetreküp 1 mililitre!

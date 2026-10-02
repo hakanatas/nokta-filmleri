@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:13,015
+Ayrıtları 4 cm, 3 cm ve 2 cm olan bir hediye kutusunu kâğıtla kaplayacağız. Kaç santimetrekare kâğıt gerekir?
+
+2
+00:00:15,015 --> 00:00:26,669
+Kutuyu ayrıtlarından kesip düz bir kâğıt gibi açalım. Bu şekle yüzey açınımı denir. Altı dikdörtgen yüz var: iki tane 4’e 3, iki tane 4’e 2, iki tane 3’e 2.
+
+3
+00:00:28,669 --> 00:00:36,869
+Kutu başka biçimde de açılabilir. Yüzler aynı, yalnızca yerleri farklı. Her açınım katlanınca aynı kutuyu verir.
+
+4
+00:00:37,869 --> 00:00:45,968
+Kutunun yüzey alanı, açınımdaki dikdörtgenlerin alanlarının toplamıdır. Birim karelerle sayalım: 12, 8 ve 6.
+
+5
+00:00:47,968 --> 00:00:57,968
+Karşılıklı yüzler eştir: 12 ile 12, 8 ile 8, 6 ile 6. Her yüz çiftinin alanı iki kez sayılır.
+
+6
+00:00:58,968 --> 00:01:10,144
+Hesaplayalım: 2 çarpı 4 çarpı 3, artı 2 çarpı 4 çarpı 2, artı 2 çarpı 3 çarpı 2. Yani 24 artı 16 artı 12.
+
+7
+00:01:12,144 --> 00:01:18,744
+Toplam 52 santimetrekare. Kutuyu kaplamak için 52 santimetrekare kâğıt gerekir.
+
+8
+00:01:20,174 --> 00:01:28,265
+Şimdi üstü açık bir kutu: 5 cm, 4 cm, 3 cm. Kapağı olmadığı için açınımında yalnızca 5 yüz var.
+
+9
+00:01:30,265 --> 00:01:40,334
+Taban 20, ön ve arka yüzler 15’er, yan yüzler 12’şer. 20 artı 30 artı 24, yüzey alanı 74 santimetrekare.
+
+10
+00:01:42,334 --> 00:01:48,134
+Aklında kalsın: yüzey alanı, açınımdaki yüzlerin alanlarının toplamıdır.
+
+11
+00:01:48,769 --> 00:01:52,969
+Karşılıklı yüzler eş olduğu için her alan iki kez sayılır!

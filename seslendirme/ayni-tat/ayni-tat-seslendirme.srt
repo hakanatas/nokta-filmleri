@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:14,157
+İki fidan bir ayda büyüdü. Fidan A 4 santimetreden 8 santimetreye, fidan B 10 santimetreden 14 santimetreye çıktı. Hangisi daha çok büyüdü?
+
+2
+00:00:16,157 --> 00:00:32,381
+Farka bakarsak ikisi de 4 santimetre uzadı; bu toplamsal, yani mutlak karşılaştırma. Orana bakarsak A, 8 bölü 4, 2 katına; B, 14 bölü 10, 1,4 katına çıktı; bu çarpımsal, yani bağıl karşılaştırma.
+
+3
+00:00:34,381 --> 00:00:41,181
+Oran, iki niceliği çarpımsal olarak karşılaştırır. Bağıl olarak A daha çok büyüdü.
+
+4
+00:00:41,981 --> 00:00:53,302
+Limonata için 2 bardak şurup, 3 bardak su. Şurubun suya oranı 2’ye 3, yani 2 bölü 3. İkisi de bardakla ölçüldüğü için bu birimsiz bir oran.
+
+5
+00:00:55,302 --> 00:01:05,212
+Bir bisikletli 30 kilometreyi 2 saatte gidiyor. Kilometre ile saatin oranı birimli bir orandır: saatte 15 kilometre. 1 saatteki değer birim orandır.
+
+6
+00:01:07,212 --> 00:01:19,469
+Ece 4 bardak şurup, 6 bardak su koyuyor. Çift sayı doğrusunda 2’nin karşısında 3, 4’ün karşısında 6 var. 2 çarpı 2, 3 çarpı 2: tat aynı.
+
+7
+00:01:21,469 --> 00:01:32,210
+Can her birine 1 ekleyip 3’e 4 yapıyor. Ama 3 şurubun karşısında 4,5 su olmalı. 3’e 4 daha şekerli. Denk oran için ekleme değil, çarpma gerekir.
+
+8
+00:01:34,210 --> 00:01:46,450
+Oran tablosunu sürdürelim: 6’ya 9, 8’e 12, 10’a 15. 1 bardak su için 2 bölü 3 bardak şurup gerekir: bu birim oran. Tarifi istediğimiz kadar büyütüp küçültebiliriz.
+
+9
+00:01:48,450 --> 00:01:54,302
+Önerme: bir oranın iki terimi aynı sayıyla çarpılırsa ya da bölünürse denk bir oran elde edilir.
+
+10
+00:01:56,302 --> 00:02:07,929
+Aklında kalsın: fark toplamsal, oran çarpımsal karşılaştırmadır. Aynı birimler birimsiz, farklı birimler birimli oran verir. Denk oran için iki terimi aynı sayıyla çarp.
+
+11
+00:02:09,929 --> 00:02:14,129
+Oranı korursan tat aynı kalır!

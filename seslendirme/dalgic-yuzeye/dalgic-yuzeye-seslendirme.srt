@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:14,409
+Bir dalgıç deniz seviyesinin 18 metre altında, yani eksi 18 metrede. Dakikada 2,4 metre yükseliyor. 5 dakika sonra nerede olur?
+
+2
+00:00:16,409 --> 00:00:27,109
+Önce problemi anlayalım. Başlangıç eksi 18 metre, hız dakikada 2,4 metre yukarı, süre 5 dakika. İstenen: 5 dakika sonraki konum.
+
+3
+00:00:29,109 --> 00:00:40,231
+Yukarı çıkmak konuma eklemek demek. 5 dakikada 5 kez 2,4 eklenir: yeni konum eksi 18 artı 5 çarpı 2,4.
+
+4
+00:00:42,231 --> 00:00:57,015
+Birinci strateji: sayı doğrusunda 2,4’er 2,4’er yukarı sayalım. Eksi 15,6, eksi 13,2, eksi 10,8, eksi 8,4, eksi 6.
+
+5
+00:00:59,015 --> 00:01:11,182
+İkinci strateji: önce toplam yükselmeyi bulalım: 5 çarpı 2,4, 12 metre. Eksi 18 artı 12, eksi 6. İki strateji de aynı sonucu verdi.
+
+6
+00:01:13,182 --> 00:01:25,748
+Sonucu kontrol edelim: eksi 6’dan 12 metre geri inersek eksi 18’e döneriz. Başka bir yol: yüzeye olan uzaklık 18 eksi 12, 6 metre; yani yüzeyin 6 metre altı.
+
+7
+00:01:27,748 --> 00:01:34,548
+Kontrol doğru. Üç strateji de dalgıcın 5 dakika sonra eksi 6 metrede olduğunu buldu.
+
+8
+00:01:35,348 --> 00:01:53,150
+Genelleyelim: t dakika sonra konum, eksi 18 artı 2,4 çarpı t. t 5 iken eksi 6. 18 bölü 2,4, 7,5: dalgıç 7,5 dakikada yüzeye çıkar. Peki t 10 olursa? Artı 6 metre: dalgıç havada olamaz.
+
+9
+00:01:55,150 --> 00:01:59,950
+Demek ki kural yalnızca 0 ile 7,5 dakika arasında geçerli.
+
+10
+00:02:01,417 --> 00:02:07,341
+Aklında kalsın: verilenleri ve istenen ayır, uygun bir temsil seç, çöz ve kontrol et.
+
+11
+00:02:09,341 --> 00:02:13,541
+Genellemenin nerede geçerli olduğunu sına!

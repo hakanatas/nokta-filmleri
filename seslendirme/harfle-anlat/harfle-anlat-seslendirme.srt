@@ -1,0 +1,47 @@
+1
+00:00:04,400 --> 00:00:13,733
+Nokta’nın kumbarasında 20 TL var. Her hafta 5 TL daha atıyor. Bilinenler bunlar. Bilinmeyen: n hafta sonra kumbarada kaç TL olacak?
+
+2
+00:00:15,733 --> 00:00:24,017
+Bir tablo yapalım. Başta 20 TL. Birinci hafta 25, ikinci hafta 30, üçüncü hafta 35, dördüncü hafta 40 TL.
+
+3
+00:00:26,017 --> 00:00:36,817
+Tabloda iki nicelik var: hafta sayısı ve para. Hafta sayısı 1 artınca para 5 TL artıyor.
+
+4
+00:00:37,417 --> 00:00:48,264
+Birinci hafta 20 artı 5 çarpı 1, ikinci hafta 20 artı 5 çarpı 2. Hafta sayısına n dersek, n. hafta 20 artı 5 çarpı n olur.
+
+5
+00:00:50,264 --> 00:01:00,064
+Bunu kısaca 20 + 5n diye yazarız. Bu bir cebirsel ifadedir. 20, başlangıçtaki para; 5n, n haftada eklenen para.
+
+6
+00:01:01,546 --> 00:01:12,968
+Bir varsayımda bulunalım: 10. haftada 70 TL olur mu? n yerine 10 koyalım: 20 artı 50, 70. Evet! 100 TL’ye de 16. haftada ulaşır.
+
+7
+00:01:14,968 --> 00:01:24,968
+n yerine hangi sayıyı koyarsak o haftanın parasını buluruz. n bir değişkendir, her hafta farklı bir değer alır.
+
+8
+00:01:25,768 --> 00:01:40,431
+Aynı durumu farklı yazabilir miyiz? 5n + 20 de olur, sadece sıra değişti. Peki 25n? n = 3 için 75 çıkıyor ama tabloda 35 var. 25n doğru değil.
+
+9
+00:01:42,431 --> 00:01:51,655
+Harfi değiştirebiliriz: 20 + 5h de aynı anlama gelir. Sözle de söyleyebiliriz: 20 TL’den başla, her hafta 5 TL ekle.
+
+10
+00:01:53,655 --> 00:02:01,705
+Cebirsel ifadeler matematiğin her yerinde işimize yarar: karenin çevresi 4a, 5 yıl sonraki yaşımız y + 5.
+
+11
+00:02:03,705 --> 00:02:11,341
+Aklında kalsın: bilineni ve bilinmeyeni belirle, tabloyla ilişkiyi bul, cebirsel ifadeyle yaz ve değer vererek sına.
+
+12
+00:02:13,341 --> 00:02:17,541
+Bir harf, sonsuz sayıda durumu tek seferde anlatabilir!

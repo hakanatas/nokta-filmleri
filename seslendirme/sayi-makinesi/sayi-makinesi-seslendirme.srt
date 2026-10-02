@@ -1,0 +1,47 @@
+1
+00:00:04,400 --> 00:00:12,552
+Bu bir sayı makinesi. İçine 5 attık, önce 10 oldu, sonra 13 olarak çıktı. Makinenin içinde hangi adımlar var?
+
+2
+00:00:14,552 --> 00:00:26,186
+Makinenin algoritması iki adım: önce 2 ile çarp, sonra 3 ekle. 1, 2, 3 ve 4’ü atalım: 5, 7, 9 ve 11 çıkıyor.
+
+3
+00:00:28,186 --> 00:00:37,186
+Tabloya bakalım: giren sayı 1 artınca çıkan sayı 2 artıyor. Çıkan sayı, giren sayının 2 katının 3 fazlası.
+
+4
+00:00:37,874 --> 00:00:47,291
+Giren sayıya n diyelim. 2 ile çarpınca 2n, 3 ekleyince 2n + 3 olur. Bu cebirsel ifade makinenin algoritmasını anlatır.
+
+5
+00:00:49,291 --> 00:01:04,952
+Adımların sırasını değiştirirsek ne olur? Önce 3 ekleyip sonra 2 ile çarparsak (n + 3) × 2, yani 2n + 6 olur. n = 1 için biri 5, öteki 8 verir. Sıra önemli!
+
+6
+00:01:06,952 --> 00:01:17,307
+Bir sihir numarası: aklından bir sayı tut. 3 ekle, 2 ile çarp, 6 çıkar, 2’ye böl. 7 tuttuk: 10, 20, 14 ve yine 7!
+
+7
+00:01:19,307 --> 00:01:27,652
+12 tutsak da 12 çıkıyor. Nedenini cebirle görelim: n, n + 3, 2n + 6, 2n ve yine n.
+
+8
+00:01:29,652 --> 00:01:36,542
+Eklenen 6, çıkarılan 6 ile; 2 ile çarpma, 2’ye bölme ile geri alınıyor. Geriye tuttuğun sayı kalıyor.
+
+9
+00:01:38,542 --> 00:01:49,112
+İçini göremediğimiz bir makine: 1 girince 2, 2 girince 5, 3 girince 8 çıkıyor. Giren 1 artınca çıkan 3 artıyor; demek ki içinde 3 ile çarpma var.
+
+10
+00:01:51,112 --> 00:02:00,629
+1 çarpı 3, 3 eder ama çıkan 2; demek ki sonra 1 çıkarılıyor. Makine 3n − 1. n = 10 için 29 çıkar.
+
+11
+00:02:02,629 --> 00:02:12,521
+Aklında kalsın: algoritma sırayla yapılan adımlardır. Tabloya döküp ilişkiyi bulur, cebirsel ifadeyle yazarız. Adımların sırası önemlidir.
+
+12
+00:02:14,521 --> 00:02:18,721
+Artık sayı makinelerinin sırrını çözebilirsin!

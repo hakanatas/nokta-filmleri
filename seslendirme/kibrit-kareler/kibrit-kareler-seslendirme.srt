@@ -1,0 +1,47 @@
+1
+00:00:04,400 --> 00:00:10,567
+Kibrit çöpleriyle bir kare yapalım: 4 çöp. Yanına bir kare daha ekleyelim. Şimdi kaç çöp kullandık?
+
+2
+00:00:12,567 --> 00:00:22,967
+Adım adım kare ekleyelim. Birinci adımda 4, ikinci adımda 7, üçüncü adımda 10, dördüncü adımda 13 çöp var.
+
+3
+00:00:23,167 --> 00:00:31,567
+Yeni kare eklerken 4 değil, 3 çöp kullanıyoruz; çünkü bir kenarı öncekiyle ortak. Çöp sayısı her adımda 3 artıyor.
+
+4
+00:00:33,180 --> 00:00:43,143
+Aynı örüntüyü tabloyla gösterelim. Adım sayısı ve çöp sayısı yan yana. Sözle de anlatabiliriz: ilk karede 4 çöp, sonra her karede 3 çöp daha.
+
+5
+00:00:45,143 --> 00:00:52,543
+Tabloda adım 1 arttığında çöp sayısı 3 artıyor.
+
+6
+00:00:53,343 --> 00:01:02,343
+Bir de grafik çizelim. Yatay eksende adım, dikey eksende çöp sayısı. Her noktadan sonrakine 1 sağa, 3 yukarı gidiyoruz.
+
+7
+00:01:03,325 --> 00:01:09,325
+Noktalar bir doğru üzerinde sıralanıyor. Doğruyu uzatınca 5. adımı tahmin edebiliriz: 16 çöp.
+
+8
+00:01:11,228 --> 00:01:24,389
+Şekle bakalım: baştaki 1 çöp ve her kare için 3 çöp. 4. adımda 1 artı 3 çarpı 4, 13. n. adımda 1 artı 3 çarpı n, yani 3n + 1.
+
+9
+00:01:26,389 --> 00:01:32,075
+Artık çizmeden bulabiliriz: 10. adımda 31 çöp, 100. adımda 301 çöp.
+
+10
+00:01:34,075 --> 00:01:43,494
+Sayı örüntülerini de aynı yolla yazabiliriz: 2, 6, 10, 14 her adımda 4 artıyor; kuralı 4n − 2.
+
+11
+00:01:45,494 --> 00:01:52,480
+Aklında kalsın: bir örüntüyü şekille, tabloyla, grafikle, sözle ve cebirsel ifadeyle gösterebiliriz.
+
+12
+00:01:54,480 --> 00:01:58,680
+Kuralı bulursan, hiç çizmeden her adımı bilirsin!

@@ -1,0 +1,63 @@
+1
+00:00:03,600 --> 00:00:09,600
+Haberlerde, haritalarda, uzay kitaplarında çok büyük sayılar görürüz. Bu sayıları nasıl okuruz?
+
+2
+00:00:10,600 --> 00:00:17,782
+Dünya ile Ay arasındaki uzaklık yaklaşık 384 400 kilometre. Bu altı basamaklı bir sayı.
+
+3
+00:00:18,132 --> 00:00:25,001
+Basamakları sağdan üçer üçer ayıralım. Sağdaki üç basamak birler bölüğü, soldaki üç basamak binler bölüğü.
+
+4
+00:00:25,351 --> 00:00:31,222
+Her bölüğü üç basamaklı bir sayı gibi okuyup bölüğün adını söyleriz: üç yüz seksen dört bin, dört yüz.
+
+5
+00:00:31,572 --> 00:00:37,518
+Dünya ile Güneş arası çok daha uzak: yaklaşık 150 000 000 kilometre. Dokuz basamak var.
+
+6
+00:00:37,868 --> 00:00:45,892
+Dikkat edin: her bölükte basamaklar aynı sırayla gider: yüzler, onlar, birler. Bu bir örüntü.
+
+7
+00:00:46,242 --> 00:00:50,842
+Binler bölüğünün soluna yeni bir bölük geldi: milyonlar bölüğü.
+
+8
+00:00:51,242 --> 00:00:56,842
+Milyonlar bölüğünde 150 var: yüz elli milyon. Diğer bölükler sıfır olduğu için okunmaz.
+
+9
+00:00:57,842 --> 00:01:05,383
+3 241 123 sayısını okuyalım: üç milyon, iki yüz kırk bir bin, yüz yirmi üç.
+
+10
+00:01:07,642 --> 00:01:14,841
+Peki 3 000 085? Binler bölüğündeki üç basamak da sıfır. Sıfır olan bölükten ve adından hiç söz etmeyiz.
+
+11
+00:01:15,191 --> 00:01:19,144
+Bu yüzden sayı “üç milyon seksen beş” diye okunur. “Bin” demeyiz.
+
+12
+00:01:19,791 --> 00:01:25,457
+Dünya’da sekiz milyardan fazla insan yaşıyor. Sekiz milyarı yazmak için on basamak gerekiyor.
+
+13
+00:01:25,807 --> 00:01:28,800
+Milyonlar bölüğünün soluna da milyarlar bölüğü geliyor.
+
+14
+00:01:29,150 --> 00:01:36,862
+Örüntüyü gördük: sağdan her üç basamakta yeni bir bölük başlıyor: birler, binler, milyonlar, milyarlar.
+
+15
+00:01:37,350 --> 00:01:45,142
+Çok basamaklı bir sayıyı okumak için: sağdan üçer üçer ayır, her bölüğü üç basamaklı sayı gibi oku, sonra bölüğün adını söyle.
+
+16
+00:01:45,492 --> 00:01:49,692
+Bu kuralla ne kadar büyük olursa olsun her sayıyı okuyabiliriz!

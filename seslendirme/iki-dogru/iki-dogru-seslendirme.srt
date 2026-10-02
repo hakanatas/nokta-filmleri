@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:15,195
+y eşittir 2x artı 1 ve y eşittir 2x eksi 3. Eğimleri aynı, sabitleri farklı. Varsayalım: bir yerde kesişirler mi?
+
+2
+00:00:17,195 --> 00:00:27,195
+x arttıkça iki doğru da 2 artıyor; aralarındaki dikey uzaklık hep 4. Eğimi 2 olan üçüncü bir doğru da aynı yöne gidiyor.
+
+3
+00:00:27,693 --> 00:00:34,493
+Eğimleri eşit, sabitleri farklı doğrular hiç kesişmez: paraleldir. Varsayımımız yanlıştı.
+
+4
+00:00:36,276 --> 00:00:48,533
+y eşittir 2x artı 1 ile y eşittir eksi x artı 4. 2x artı 1, eksi x artı 4’e eşit olunca x 1, y 3: doğrular (1, 3) noktasında kesişir.
+
+5
+00:00:50,533 --> 00:00:58,333
+Başka bir eğimle de tek nokta. Eğimleri farklı iki doğru tek bir noktada kesişir.
+
+6
+00:00:59,333 --> 00:01:08,333
+2y eşittir 4x artı 2 denklemini sadeleştirelim: y eşittir 2x artı 1. Aynı doğru!
+
+7
+00:01:09,852 --> 00:01:17,652
+Eğimleri ve sabitleri aynı iki doğrunun bütün noktaları ortaktır: çakışıktır.
+
+8
+00:01:18,652 --> 00:01:32,038
+y eşittir 3x eksi 2 ile 3x artı 5: eğim aynı, sabit farklı, paralel. y eşittir x artı 2 ile eksi 2x artı 5: eğimler farklı, (1, 3)’te kesişir.
+
+9
+00:01:34,038 --> 00:01:42,223
+y eşittir eksi x artı 1 ile 1 eksi x: aynı doğru, çakışık. Grafik çizmeden karar verdik.
+
+10
+00:01:44,223 --> 00:01:52,256
+Aklında kalsın: eğim eşit sabit farklıysa paralel; eğim farklıysa tek noktada kesişir; ikisi de aynıysa çakışık.
+
+11
+00:01:54,256 --> 00:01:58,456
+Denkleme bak, durumu söyle!

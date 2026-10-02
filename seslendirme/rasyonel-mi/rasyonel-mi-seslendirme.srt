@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,916
+Kesirler, ondalık sayılar, kökler ve pi. Bunlardan hangileri rasyonel? Karar vermek için bir ölçüt lazım: ondalık gösterim.
+
+2
+00:00:14,916 --> 00:00:26,531
+3’ü 8’e bölelim: 0,375. Ondalık gösterim bitiyor. 2’yi 11’e bölelim: 0,1818… 18 sonsuza kadar tekrar ediyor.
+
+3
+00:00:28,531 --> 00:00:35,331
+a bölü b biçiminde yazılabilen sayılar rasyoneldir; ondalık gösterimleri ya biter ya tekrar eder.
+
+4
+00:00:36,524 --> 00:00:50,260
+Hesap makinesiyle karekök 2’ye bakalım: 1,41421356… Pi: 3,14159265… Basamaklar ne bitiyor ne de tekrar ediyor.
+
+5
+00:00:52,260 --> 00:01:01,354
+Karekök 16 ise tam 4. Ondalık gösterimi ne biten ne tekrar eden sayılar irrasyoneldir; a bölü b biçiminde yazılamazlar.
+
+6
+00:01:03,354 --> 00:01:16,939
+Sayıları ölçüte göre ayıralım. Rasyonel: 3/8, 2/11, 0,75, karekök 16 ve eksi 5. İrrasyonel: karekök 2, pi ve karekök 3.
+
+7
+00:01:18,939 --> 00:01:25,739
+Tam kare olmayan sayıların karekökleri irrasyoneldir.
+
+8
+00:01:26,739 --> 00:01:34,494
+0,1010010001… Bir düzeni var ama hiçbir blok tekrar etmiyor: bu sayı irrasyonel.
+
+9
+00:01:36,494 --> 00:01:49,770
+22 bölü 7: 3,142857142857… 142857 tekrar ediyor, yani rasyonel. Pi’ye yakın ama pi değil!
+
+10
+00:01:51,770 --> 00:02:00,088
+Aklında kalsın: ondalık gösterim biterse ya da tekrar ederse sayı rasyonel, ne biter ne tekrar ederse irrasyonel.
+
+11
+00:02:02,088 --> 00:02:06,288
+Karekök 2 ve pi irrasyonel!

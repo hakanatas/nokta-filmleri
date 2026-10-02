@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,347
+Bir zar atılıyor. 3’ten büyük gelirse Ali, 3’ten küçük gelirse Ayşe kazanıyor. İkisinin kazanma şansı eşit mi?
+
+2
+00:00:14,347 --> 00:00:25,398
+Önce bir ölçüt belirleyelim: iki olayın olasılıkları eşitse bu olaylar eşit olasılıklıdır. Zarın çıktıları eşit olasılıklı olduğu için çıktı sayılarını karşılaştırabiliriz.
+
+3
+00:00:27,398 --> 00:00:36,198
+Zarda tek sayı gelmesi 3 bölü 6, çift sayı gelmesi 3 bölü 6. Bu iki olay eşit olasılıklı.
+
+4
+00:00:37,198 --> 00:00:48,356
+Oyundaki olaylar: 3’ten büyük gelmesi 4, 5, 6: 3 bölü 6. 3’ten küçük gelmesi 1, 2: 2 bölü 6. 3 gelirse kimse kazanmıyor.
+
+5
+00:00:50,356 --> 00:00:57,356
+3 bölü 6, 2 bölü 6’ya eşit değil. Bu iki olay eşit olasılıklı değil; oyun Ali’nin lehine.
+
+6
+00:00:58,775 --> 00:01:08,775
+Bu çarkın bölmeleri eşit değil; olasılık açıyla orantılı. Kırmızı 180 derece: 1 bölü 2. Mavi ve sarı 90’ar derece: 1 bölü 4.
+
+7
+00:01:10,684 --> 00:01:17,642
+Mavi ile sarı eşit olasılıklı, kırmızı ile mavi değil. Bölme sayısına değil, bölmenin büyüklüğüne bakmalıyız.
+
+8
+00:01:19,642 --> 00:01:28,642
+Oyunu adil yapalım: 3 gelirse de Ayşe kazansın. Ali 4, 5, 6; Ayşe 1, 2, 3.
+
+9
+00:01:29,921 --> 00:01:36,320
+3 bölü 6 eşittir 3 bölü 6. Kazanma olayları eşit olasılıklı: oyun artık adil.
+
+10
+00:01:38,320 --> 00:01:44,561
+Aklında kalsın: iki olay eşit olasılıklı mı diye bakmak için olasılıklarını hesapla ve karşılaştır.
+
+11
+00:01:46,561 --> 00:01:50,761
+Hesapla, karşılaştır, karar ver!

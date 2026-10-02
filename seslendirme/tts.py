@@ -13,7 +13,7 @@ daha önce seslendirildiyse önbellekten gelir, kotadan düşmez.
 Not: bu sayaç yalnızca bu betiklerle yapılan istekleri bilir; aynı Google
 projesinde başka TTS kullanımı varsa Cloud Console'dan kontrol edin.
 """
-import base64, hashlib, json, os, subprocess, sys, time, urllib.error, urllib.request
+import base64, hashlib, http.client, json, os, subprocess, sys, time, urllib.error, urllib.request
 from datetime import date
 from pathlib import Path
 
@@ -51,7 +51,7 @@ def synth(text, voice, key):
             return base64.b64decode(json.load(urllib.request.urlopen(req, timeout=60))['audioContent'])
         except urllib.error.HTTPError as e:
             if e.code not in (429, 500, 503) or attempt == 5: raise
-        except (urllib.error.URLError, TimeoutError):
+        except (urllib.error.URLError, TimeoutError, ConnectionError, http.client.HTTPException):
             if attempt == 5: raise
         time.sleep(2 ** attempt)
 

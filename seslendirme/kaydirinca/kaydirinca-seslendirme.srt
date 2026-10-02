@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:11,756
+Bir şekli döndürmeden, ters çevirmeden kaydırmaya öteleme diyoruz. Kaydırınca neler değişir, neler aynı kalır?
+
+2
+00:00:13,756 --> 00:00:22,156
+ABC üçgeninin her köşesini 5 birim sağa, 2 birim yukarı taşıyalım. Görüntüsü A′B′C′ üçgeni.
+
+3
+00:00:23,041 --> 00:00:31,441
+Karşılıklı kenarlar eşit, karşılıklı açılar eşit. Üçgen ile görüntüsü eş: öteleme şekli bozmaz.
+
+4
+00:00:32,441 --> 00:00:40,878
+Her köşeyi görüntüsüyle birleştirelim. AA′, BB′ ve CC′ eşit uzunlukta ve birbirine paralel.
+
+5
+00:00:42,878 --> 00:00:51,278
+AC ile A′C′ paralel; her kenar görüntüsüne paralel. A, B, C sırası da aynı: yön korunuyor.
+
+6
+00:00:52,278 --> 00:01:00,478
+Yamuğu 4 birim sola, 3 birim aşağı öteleyelim. Kenarlar ve açılar yine korunuyor.
+
+7
+00:01:00,678 --> 00:01:09,278
+Bu üçgen ters dönmüş. KK′ ile LL′ eşit değil: bu bir öteleme değil.
+
+8
+00:01:10,278 --> 00:01:17,478
+Önce 3 birim sağa, sonra 2 birim yukarı. Sonuç tek bir öteleme: 3 sağa, 2 yukarı.
+
+9
+00:01:18,698 --> 00:01:26,298
+Aynı ötelemeyi tekrar tekrar yapınca bir desen oluşuyor. Kenar süslerinde bunu sık görürüz.
+
+10
+00:01:27,098 --> 00:01:33,547
+Aklında kalsın: ötelemede her nokta aynı yönde, aynı uzaklığa gider; kenarlar ve açılar korunur.
+
+11
+00:01:35,547 --> 00:01:39,747
+Şekil ile görüntüsü eştir ve yönü aynıdır!

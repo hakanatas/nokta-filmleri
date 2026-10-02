@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:11,481
+3, 4 ve 5 birimlik çubuklar bir üçgen oluşturuyor. Varsayalım: her üç çubuktan bir üçgen olur.
+
+2
+00:00:13,481 --> 00:00:26,145
+En uzun çubuğu tabana koyup diğer ikisini kaldıralım. 2, 3 ve 7: kısa çubuklar birbirine yetişemiyor. 4, 4 ve 8: uçlar ancak tabanın üstünde, düz kalıyor.
+
+3
+00:00:28,145 --> 00:00:35,945
+5, 6 ve 10: çubuklar buluşuyor, üçgen oluşuyor. Varsayımımız yanlıştı.
+
+4
+00:00:36,945 --> 00:00:49,388
+Kısa iki kenarın toplamını uzun kenarla karşılaştıralım: 3 artı 4 büyüktür 5; 2 artı 3 küçüktür 7; 4 artı 4 eşittir 8; 5 artı 6 büyüktür 10.
+
+5
+00:00:51,388 --> 00:00:59,188
+Toplam eşit olunca bile üçgen oluşmuyor. İki kenarın toplamı üçüncüden büyük olmalı.
+
+6
+00:01:00,188 --> 00:01:08,995
+Kenarlar 5 ve 8 ise üçüncü kenar ne olabilir? Tabanı uzatıp kısaltalım: çok kısa ya da çok uzunken üçgen olmuyor.
+
+7
+00:01:10,995 --> 00:01:19,195
+Üçüncü kenar farktan büyük, toplamdan küçük olmalı: 3 ile 13 arasında.
+
+8
+00:01:20,195 --> 00:01:33,058
+6, 9 ve 16: 15 küçüktür 16, üçgen olmaz. 7, 7 ve 13: 14 büyüktür 13, olur. 5 ve 8 ile tam sayı kenarlar 4’ten 12’ye.
+
+9
+00:01:35,058 --> 00:01:42,858
+Önerme sayesinde çizmeden karar verdik: zaman kazandırır, hatayı önler.
+
+10
+00:01:43,658 --> 00:01:49,458
+Aklında kalsın: bir üçgende herhangi iki kenarın toplamı üçüncü kenardan büyüktür.
+
+11
+00:01:50,990 --> 00:01:55,190
+Fark küçüktür üçüncü kenar küçüktür toplam: üçgen eşitsizliği!

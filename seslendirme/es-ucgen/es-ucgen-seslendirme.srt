@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,130
+Bu ABC üçgeninin eşini çizmek istiyoruz. Varsayalım: üç eleman yeter. Ama hangi üç eleman?
+
+2
+00:00:14,130 --> 00:00:26,138
+Yalnızca üç kenar uzunluğunu kullanalım. BC’yi çizip B ve C’den AB ve AC uzunluğunda yaylar çizelim; kesiştikleri yer A. Başka bir üçgen çizilemez.
+
+3
+00:00:28,138 --> 00:00:35,287
+Kopyamızı asılla üst üste koyalım: tam örtüşüyor. Üç kenarı eşit üçgenler eştir.
+
+4
+00:00:37,287 --> 00:00:47,500
+İki kenar ve aralarındaki açı: AB, B açısı ve BC. Üçüncü kenar kendiliğinden belirleniyor; kopya asılla örtüşüyor.
+
+5
+00:00:49,500 --> 00:00:58,300
+İki açı ve aralarındaki kenar: B açısı, BC ve C açısı. Işınlar tek bir noktada buluşuyor; yine eş bir üçgen.
+
+6
+00:00:59,626 --> 00:01:07,026
+Üç açısı eşit ama daha büyük bir üçgen. Asılla örtüşmüyor: açılar boyutu belirlemiyor.
+
+7
+00:01:07,703 --> 00:01:17,103
+AB, BC ve arada olmayan C açısı: B’den çizilen yay ışını iki yerde kesiyor. İki farklı üçgen çıkıyor.
+
+8
+00:01:18,103 --> 00:01:27,910
+Eş üçgen için yeter: kenar kenar kenar, kenar açı kenar, açı kenar açı. Yetmez: açı açı açı ve kenar kenar açı.
+
+9
+00:01:29,910 --> 00:01:40,894
+İki üçgende AB 5, BC 7 ve B açısı 40 derece ise KAK’a göre bu üçgenler eştir. Üst üste koymadan karar verdik.
+
+10
+00:01:42,894 --> 00:01:50,529
+Aklında kalsın: üç kenar, iki kenar ve arasındaki açı ya da iki açı ve arasındaki kenar bir üçgeni belirler.
+
+11
+00:01:52,529 --> 00:01:56,729
+Bunlardan biri eşse üçgenler eştir!

@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,220
+Bir cismi kenarlarından kesip düzleme açarsak hangi şekiller çıkar? Buna yüzey açınımı diyoruz.
+
+2
+00:00:12,220 --> 00:00:20,620
+Dik üçgen prizmayı açalım. İki eş üçgen: bunlar tabanlar.
+
+3
+00:00:20,820 --> 00:00:29,319
+Yan yüzler üç dikdörtgen. Enleri taban kenarları, boyları prizmanın yüksekliği. Taban beşgen olsaydı beş dikdörtgen olurdu.
+
+4
+00:00:31,319 --> 00:00:39,719
+Dikdörtgen dik piramidin tepe noktası tabanın ortasının tam üstünde. Açınca ortada bir dikdörtgen taban var.
+
+5
+00:00:40,048 --> 00:00:48,448
+Yan yüzler dört ikizkenar üçgen; karşılıklı olanlar eş. Kapatınca hepsi tepe noktasında buluşur.
+
+6
+00:00:49,448 --> 00:00:57,648
+Silindirin yan yüzünü açalım. Daire bir tur yuvarlanınca çevresi kadar yol alıyor: yan yüz bir dikdörtgen.
+
+7
+00:00:58,355 --> 00:01:06,955
+İki eş daire tabanlar. Dikdörtgenin eni silindirin yüksekliği, boyu tabanın çevresi: 2 pi r.
+
+8
+00:01:07,955 --> 00:01:15,155
+Koninin yan yüzü açılınca bir daire dilimi oluyor. Tabanı bir daire.
+
+9
+00:01:15,355 --> 00:01:22,955
+Dilimin yarıçapı koninin ana doğrusu. Yayın uzunluğu tabanın çevresine eşit, çünkü kapanınca üst üste gelirler.
+
+10
+00:01:24,353 --> 00:01:30,253
+Aklında kalsın: prizma iki taban ve dikdörtgenler, piramit bir taban ve üçgenler.
+
+11
+00:01:32,253 --> 00:01:36,677
+Silindir iki daire ve bir dikdörtgen; koni bir daire ve bir daire dilimi!

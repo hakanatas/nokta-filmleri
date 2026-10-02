@@ -1,0 +1,63 @@
+1
+00:00:03,600 --> 00:00:10,558
+Gazetelerde, afişlerde, duyurularda veriye dayanan yorumlar görürüz. Hemen inanmayalım; önce veriye bakalım.
+
+2
+00:00:12,558 --> 00:00:23,282
+Okul gazetesi 30 öğrenciye sormuş: 16 kişi yürüyerek, 9 kişi servisle, 5 kişi arabayla geliyor. Gazete, çoğumuzun yürüyerek geldiğini yazmış.
+
+3
+00:00:25,282 --> 00:00:30,882
+Çoğu demek, yarısından fazlası demek. Toplam 30 kişi; yarısı 15.
+
+4
+00:00:32,794 --> 00:00:39,994
+16, 15’ten fazla. Sayılar yorumu destekliyor; bu yorumu kabul ediyoruz.
+
+5
+00:00:41,194 --> 00:00:45,801
+Bir afişte bu grafik var: kırmızı sütun, mavi sütunun iki katı gibi görünüyor.
+
+6
+00:00:47,801 --> 00:00:54,184
+Ama dikkat! Grafiğin ekseni sıfırdan değil, 10’dan başlıyor. Bu, farkı olduğundan büyük gösteriyor.
+
+7
+00:00:56,184 --> 00:01:02,610
+Ekseni sıfırdan başlatalım. Kırmızı 12, mavi 11. İki katı değil, neredeyse eşit.
+
+8
+00:01:04,610 --> 00:01:09,610
+Grafik yanıltıcı çizilmiş, yorum da yanlış. Bu yorumu çürütüyoruz.
+
+9
+00:01:10,610 --> 00:01:17,471
+Bir duyuruda okulun en sevdiği sporun basketbol olduğu yazıyor. 12 kişiye sorulmuş, 12’si de basketbol demiş.
+
+10
+00:01:19,471 --> 00:01:24,695
+Soralım: Kime sorulmuş? Okulda 60 öğrenci var ama sadece 12 kişiye sorulmuş.
+
+11
+00:01:26,695 --> 00:01:33,647
+Üstelik bu 12 kişinin hepsi basketbol takımından. Böyle seçilen bir grup, bütün okulu temsil etmez. Buna yanlılık denir.
+
+12
+00:01:35,647 --> 00:01:39,447
+Bu veri bütün okul için bir şey söylemez. Yorumu çürütüyoruz.
+
+13
+00:01:40,858 --> 00:01:45,458
+Bir yorumu okurken üç soru soralım.
+
+14
+00:01:45,858 --> 00:01:51,503
+Kime ve kaç kişiye soruldu? Grafik doğru çizilmiş mi? Sayılar yorumu destekliyor mu?
+
+15
+00:01:53,503 --> 00:01:57,503
+Cevaplara göre yorumu ya kabul ederiz ya da çürütürüz.
+
+16
+00:01:58,179 --> 00:02:02,179
+Her yoruma hemen inanmayalım; önce veriye bakalım!

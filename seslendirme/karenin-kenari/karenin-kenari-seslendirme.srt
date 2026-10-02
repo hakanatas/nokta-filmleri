@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:13,179
+25 birimkareyi bir kareye dizelim: kenarı 5 birim olan bir kare. Alan 25 ise kenar 5: karekök 25, 5.
+
+2
+00:00:15,179 --> 00:00:27,075
+Kenar 1, 2, 3 diye büyüdükçe alan 1, 4, 9, 16, 25, 36 oluyor. 4’ün karesi 16, öyleyse karekök 16, 4.
+
+3
+00:00:29,075 --> 00:00:35,875
+Bunlar tam kare sayılar; karekökleri birer doğal sayı. Karekök, alandan kenara gider.
+
+4
+00:00:36,875 --> 00:00:45,974
+Şimdi 20 birimkareyi kareye dizmeye çalışalım. 4’e 4’lük kare 16, 5’e 5’lik kare 25. 20 bu ikisinin arasında.
+
+5
+00:00:47,974 --> 00:00:55,774
+Karekök 20 bir tam sayı değil: 4 ile 5 arasında bir sayı.
+
+6
+00:00:56,774 --> 00:01:08,748
+Ondalıklı sayıların karelerini deneyelim: 4,4’ün karesi 19,36; 4,5’in karesi 20,25. 20 bu ikisinin arasında.
+
+7
+00:01:10,748 --> 00:01:22,124
+Karekök 20, 4,4 ile 4,5 arasında; yaklaşık 4,47. 4,47 çarpı 4,47 yaklaşık 19,98: çok yakın.
+
+8
+00:01:24,124 --> 00:01:37,015
+50, 49 ile 64 arasında; öyleyse karekök 50, 7 ile 8 arasında. 7,1’in karesi 50,41: karekök 50 yaklaşık 7,07.
+
+9
+00:01:39,015 --> 00:01:44,815
+Karekök a: alanı a olan karenin kenar uzunluğu.
+
+10
+00:01:45,615 --> 00:01:51,415
+Aklında kalsın: karekök, alanı bilinen karenin kenarını verir.
+
+11
+00:01:51,815 --> 00:01:56,498
+Tam kare değilse önce hangi iki doğal sayı arasında olduğunu bul, sonra yaklaş!

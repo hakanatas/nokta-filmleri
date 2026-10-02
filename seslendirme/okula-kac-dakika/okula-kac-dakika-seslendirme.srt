@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:15,573
+“Nasıl geliyorsun?” sorusunun cevapları kategoriktir: yürüyerek, servisle. “Kaç dakikada geliyorsun?” sorusunun cevabı ölçülür, 12,5 dakika gibi: nicel ve sürekli bir veri.
+
+2
+00:00:17,573 --> 00:00:26,573
+Araştırma sorumuz: sınıfımız okula kaç dakikada geliyor? Yürüyenler ile servisle gelenler arasında fark var mı?
+
+3
+00:00:26,773 --> 00:00:34,573
+Plan: 24 öğrenciye aynı anket sorusunu soralım. Her nokta bir öğrencinin süresi.
+
+4
+00:00:35,573 --> 00:00:47,584
+Sürekli veride değerleri eşit aralıklara gruplarız: 0–10, 10–20, 20–30 ve 30–40 dakika. Sıklıklar 5, 8, 7 ve 4.
+
+5
+00:00:49,584 --> 00:00:58,379
+Sıklıkları histogramla gösterelim. Aralıklar kesintisiz olduğu için sütunlar bitişik. En çok öğrenci 10–20 dakikada geliyor.
+
+6
+00:01:00,379 --> 00:01:11,379
+Yürüyenleri ve servisle gelenleri ayrı renkle gösterelim. Yürüyenlerin 11’i 20 dakikadan az; servisle gelenlerin 10’u 20 dakikadan fazla sürede geliyor.
+
+7
+00:01:12,812 --> 00:01:18,612
+Kararımız: servisle gelmek daha uzun sürüyor. Gerekçemiz veriler.
+
+8
+00:01:19,790 --> 00:01:28,790
+Araştırma sorumuza cevap verdik mi? Farkı gördük ama nedenini bilmiyoruz: veride evin uzaklığı yok.
+
+9
+00:01:28,990 --> 00:01:34,790
+Planı yenileyelim: ankete “Evin okula kaç kilometre uzakta?” sorusunu ekleyelim.
+
+10
+00:01:35,814 --> 00:01:42,726
+Aklında kalsın: soru sor, plan yap, veri topla; sürekli veriyi aralıklara grupla ve histogram çiz.
+
+11
+00:01:44,726 --> 00:01:48,926
+Kararını veriyle gerekçelendir, gerekirse planı yenile!

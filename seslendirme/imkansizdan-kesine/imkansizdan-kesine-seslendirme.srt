@@ -1,0 +1,63 @@
+1
+00:00:03,600 --> 00:00:10,284
+Nokta’nın elinde dört toplu bir torba var. Bakmadan bir top çekersek amber gelir mi? Bu ne kadar olası?
+
+2
+00:00:12,284 --> 00:00:19,245
+Olasılıkları bir çizgiye yerleştirelim. Çizginin bir ucu 0, yani imkânsız; öbür ucu 1, yani kesin.
+
+3
+00:00:21,245 --> 00:00:29,098
+Bu torbadaki dört topun dördü de amber. Hangi topu çekersek çekelim amber gelir. Bu kesin; olasılığı 1.
+
+4
+00:00:31,098 --> 00:00:37,298
+Bu torbada hiç amber top yok. Amber gelmesi imkânsız; olasılığı 0.
+
+5
+00:00:38,898 --> 00:00:44,586
+Şimdi dört topun ikisi amber, ikisi siyah. Olası durumlar dört; istediğimiz durumlar iki.
+
+6
+00:00:46,586 --> 00:00:52,937
+Dörtte iki, yani yarım. Amber gelme olasılığı yarı yarıya; çizginin tam ortası.
+
+7
+00:00:54,937 --> 00:01:00,555
+Şimdiye kadar üç torbamız çizgiye yerleşti: 0, 1/2 ve 1.
+
+8
+00:01:02,555 --> 00:01:10,035
+Bu torbada dört toptan yalnızca biri amber. Olasılık dörtte bir; 0’a yakın, düşük bir olasılık.
+
+9
+00:01:12,035 --> 00:01:14,635
+Olabilir ama pek olası değil.
+
+10
+00:01:15,601 --> 00:01:21,311
+Bu torbada dört toptan üçü amber. Olasılık dörtte üç; 1’e yakın, yüksek bir olasılık.
+
+11
+00:01:23,311 --> 00:01:26,111
+Kesin değil ama büyük ihtimalle amber gelir.
+
+12
+00:01:27,934 --> 00:01:34,828
+Günlük olaylara bakalım. Zarda 1’den 6’ya kadar sayılar var. 7 gelmesi imkânsız; olasılığı 0.
+
+13
+00:01:36,828 --> 00:01:42,946
+Parayı atınca iki olası durum var: yazı ya da tura. Tura gelmesi yarı yarıya; 1/2.
+
+14
+00:01:44,946 --> 00:01:50,546
+Yarın sabah güneşin doğması kesin; olasılığı 1.
+
+15
+00:01:51,746 --> 00:01:57,481
+Her olayın olasılığı 0 ile 1 arasındadır. 0 ve 1 de bu aralığa dâhildir.
+
+16
+00:01:59,481 --> 00:02:05,881
+İmkânsız olaylar 0’da, kesin olaylar 1’de, geri kalan her şey bu ikisinin arasında!

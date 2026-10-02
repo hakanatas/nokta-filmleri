@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:16,177
+Ece ardışık üç sayıyı topluyor: 4, 5, 6 toplamı 15; 7, 8, 9 toplamı 24. İkisi de 3’ün katı. Hep böyle mi?
+
+2
+00:00:18,177 --> 00:00:33,630
+Bir varsayım: ardışık üç sayının toplamı 3’ün katıdır. Örnekleri listeleyelim: 6, 9, 12, 15, 18, 33. Her toplam, ortadaki sayının 3 katı.
+
+3
+00:00:35,630 --> 00:00:42,430
+Örnekler varsayımı destekliyor. Ama sonsuz sayıda örneği tek tek deneyemeyiz: bir ispat gerekiyor.
+
+4
+00:00:43,353 --> 00:00:58,132
+4, 5, 6 noktayı sütunlara dizelim. Son sütundaki fazla noktayı ilk sütuna verelim: 5, 5, 5. Aynı şeyi n, n artı 1, n artı 2 çubuklarıyla yapalım: üç çubuk da n artı 1 olur.
+
+5
+00:01:00,132 --> 00:01:06,132
+Demek ki toplam, ortadaki sayının 3 katıdır.
+
+6
+00:01:06,932 --> 00:01:26,263
+Cebirle yazalım: n artı n artı 1 artı n artı 2, 3n artı 3. Bu da 3 çarpı n artı 1. n artı 1 bir doğal sayı olduğu için toplam 3’ün katıdır. Örneğin 99, 100, 101’in toplamı 3 çarpı 100, 300.
+
+7
+00:01:28,263 --> 00:01:37,389
+Önerme: ardışık üç doğal sayının toplamı 3’ün katıdır. İspat bütün sayılar için geçerli; tek tek denemeye gerek yok.
+
+8
+00:01:39,389 --> 00:01:59,937
+Önermeyi uyarlayalım. Ardışık dört sayı: 1 artı 2 artı 3 artı 4, 10; 4’ün katı değil. Ama 4n artı 6, 2 çarpı 2n artı 3: toplam hep çift. Ardışık beş sayı: 5n artı 10, 5 çarpı n artı 2: hep 5’in katı.
+
+9
+00:02:01,937 --> 00:02:06,737
+Ardışık tek sayıda sayının toplamı, sayı adedinin katıdır.
+
+10
+00:02:07,537 --> 00:02:13,761
+Aklında kalsın: örneklerden bir varsayım kur, örüntüyü listele ve sına, sonra cebirle ispatla.
+
+11
+00:02:15,761 --> 00:02:19,961
+Örnek destekler, ispat kanıtlar!

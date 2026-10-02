@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:11,713
+Kareli kâğıtta F biçiminde bir şekil ve bir simetri doğrusu var. Şeklin bu doğruya göre görüntüsü nerede olur?
+
+2
+00:00:13,713 --> 00:00:22,694
+Bir varsayım: görüntü, şeklin sağa kaydırılmış hali. Ama kaydırınca F aynı yöne bakıyor; aynadaki gibi ters dönmüyor. Varsayım tutmadı.
+
+3
+00:00:24,694 --> 00:00:35,744
+Görüntüyü nokta nokta oluşturalım: A köşesini doğruya dik olarak karşıya, aynı uzaklığa taşıyalım: A üssü. B ve C için de aynısı. Köşeleri birleştirince görüntü oluşur.
+
+4
+00:00:37,744 --> 00:00:54,871
+Karşılaştıralım: AB ile A üssü B üssü 3 birim, AC ile A üssü C üssü 5 birim, açılar aynı. Şekil ile görüntüsü eş. Ama dönüş yönü ters: biri saat yönünde, öteki tersine.
+
+5
+00:00:56,871 --> 00:01:01,671
+Yansımada şekil ve görüntüsü eştir, yönleri terstir.
+
+6
+00:01:02,471 --> 00:01:14,201
+A doğrudan 6 birim uzakta, A üssü de 6 birim. A ile A üssünü birleştiren doğru parçası simetri doğrusuna dik ve ondan tam ortasından geçiyor. B ve C için de öyle.
+
+7
+00:01:16,201 --> 00:01:22,601
+Önerme: simetri doğrusu, bir noktayı görüntüsüne bağlayan doğru parçasının orta dikmesidir.
+
+8
+00:01:23,815 --> 00:01:39,649
+Önermeyi kullanalım. Eş iki üçgenin karşılıklı noktalarını birleştirelim: orta noktalar bir doğru üzerinde ve bağlar ona dik; üçgenler simetrik. Simetrik bir evde karşılıklı iki noktayı birleştirip ortasından dik çizersek simetri doğrusunu buluruz.
+
+9
+00:01:41,649 --> 00:01:46,377
+Önerme, iki şeklin simetrik olup olmadığını sınamaya ve simetri doğrusunu çizmeye yarar.
+
+10
+00:01:48,377 --> 00:01:56,177
+Aklında kalsın: her noktayı doğruya dik ve eşit uzaklığa taşı. Şekil ile görüntüsü eştir, yönü terstir.
+
+11
+00:01:58,177 --> 00:02:02,377
+Simetri doğrusu orta dikmedir!

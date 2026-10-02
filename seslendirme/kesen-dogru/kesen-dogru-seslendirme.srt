@@ -1,0 +1,51 @@
+1
+00:00:04,400 --> 00:00:10,637
+a ve b doğruları paraleldir, hiç kesişmezler. k doğrusu ikisini de keser; k’ye kesen denir.
+
+2
+00:00:12,637 --> 00:00:22,094
+k doğrusu a’yı ve b’yi keserken iki kesişim noktası oluşur. Her noktada 4 açı var: toplam 8 açı. Onları 1’den 8’e numaralayalım.
+
+3
+00:00:24,094 --> 00:00:36,765
+Açıları ölçelim. 1, 4, 5 ve 8 numaralı açılar 120°; 2, 3, 6 ve 7 numaralı açılar 60°. Sekiz açıda yalnızca iki farklı ölçü var!
+
+4
+00:00:38,765 --> 00:00:46,965
+Açıları ayıralım. İki paralelin arasında kalan 3, 4, 5 ve 6 numaralı açılara iç açılar denir.
+
+5
+00:00:48,292 --> 00:00:57,092
+Paralellerin dışında kalan 1, 2, 7 ve 8 numaralı açılara dış açılar denir.
+
+6
+00:00:57,892 --> 00:01:11,755
+Üstteki kesişimi kaydırıp alttakinin üzerine koyalım: tam üst üste gelir. Aynı yöne bakan bu açılara yöndeş açılar denir: 1 ve 5, 2 ve 6, 3 ve 7, 4 ve 8. Ölçüleri eşittir.
+
+7
+00:01:13,755 --> 00:01:23,218
+Paralellerin arasında, kesenin iki yanında kalan 3 ve 6, 4 ve 5 numaralı açılara iç ters açılar denir. Ölçüleri eşittir.
+
+8
+00:01:25,218 --> 00:01:33,278
+Paralellerin dışında, kesenin iki yanında kalan 1 ve 8, 2 ve 7 numaralı açılara dış ters açılar denir. Onlar da eşittir.
+
+9
+00:01:35,278 --> 00:01:45,507
+Kesenin aynı yanında kalan 3 ve 5, 4 ve 6 iç; 1 ve 7, 2 ve 8 dış karşı durumlu açılardır. Toplamları 180°.
+
+10
+00:01:47,507 --> 00:01:56,479
+Kesen biraz dönsün ve 2 numaralı açı 70° olsun. Yöndeş ve ters açılar eşit olduğu için 3, 6 ve 7 de 70°.
+
+11
+00:01:58,479 --> 00:02:05,325
+Diğer dört açı ise 180 eksi 70, yani 110°. Bir açıyı bilen, sekizini de bilir.
+
+12
+00:02:07,325 --> 00:02:15,704
+Aklında kalsın: yöndeş açılar, iç ters açılar ve dış ters açılar eşittir. Karşı durumlu açıların toplamı 180°dir.
+
+13
+00:02:17,704 --> 00:02:21,904
+Paralel doğrular ve bir kesen: sekiz açı, yalnızca iki ölçü!

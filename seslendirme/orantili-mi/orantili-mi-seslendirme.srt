@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,944
+Üç durum: kalemlerin fiyatı, iki kardeşin yaşları ve taksi ücreti. Üçünde de iki nicelik birlikte değişiyor. Hepsi orantılı mı?
+
+2
+00:00:14,944 --> 00:00:28,819
+Kalemleri tabloya yazalım. Her satırda fiyatı adede bölelim: 6 bölü 1, 12 bölü 2, 18 bölü 3, 24 bölü 4; hepsi 6. Adet 2 katına çıkınca fiyat da 2 katına çıkıyor.
+
+3
+00:00:30,819 --> 00:00:37,619
+Karşılık gelen değerlerin oranı hep aynı olduğu için kalem sayısı ile fiyat orantılıdır.
+
+4
+00:00:38,419 --> 00:00:53,569
+Ece 4, kardeşi 1 yaşında: oran 4. Bir yıl sonra 5 ve 2: oran 2,5. On yaşında kardeşi 7: oran yaklaşık 1,43. Fark hep 3 ama oran değişiyor: orantılı değil.
+
+5
+00:00:55,569 --> 00:01:12,285
+Taksi 20 lira açılış ücreti alıyor, kilometre başına 10 lira. 1 kilometre 30, 2 kilometre 40, 3 kilometre 50 lira. Ücretin kilometreye oranı 30, 20, 16,7: değişiyor. Birlikte artmak yetmez, oran sabit kalmalı.
+
+6
+00:01:14,285 --> 00:01:25,682
+Kalemleri grafiğe yerleştirelim. Noktalar başlangıç noktasından geçen bir doğru üzerinde: fiyat eşittir 6 çarpı adet. Taksinin doğrusu ise 20’den başlıyor.
+
+7
+00:01:27,682 --> 00:01:35,284
+Orantılı bir durumun grafiği başlangıç noktasından geçen bir doğrudur. Tablo, grafik ve eşitlik aynı ilişkiyi gösterir.
+
+8
+00:01:37,284 --> 00:01:49,026
+Orantı, iki oranın eşitliğidir: 12 bölü 2, 24 bölü 4’e eşit. Biri kaç katına çıkarsa diğeri de o kadar katına çıkar. Yaşlarda ve taksi ücretinde oranlar eşit değil.
+
+9
+00:01:51,026 --> 00:01:55,826
+Orantılı durumlarda karşılık gelen değerlerin oranı hep aynıdır.
+
+10
+00:01:56,959 --> 00:02:03,968
+Aklında kalsın: karşılık gelen değerlerin oranı hep aynıysa durum orantılıdır. Birlikte artmak yetmez.
+
+11
+00:02:05,968 --> 00:02:10,168
+Orantı, iki oranın eşitliğidir!

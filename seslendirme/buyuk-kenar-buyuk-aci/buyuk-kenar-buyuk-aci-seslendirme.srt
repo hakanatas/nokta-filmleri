@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,895
+Bir ABC üçgeninin kenar uzunluklarını ve açı ölçülerini ölçelim. İç açıların toplamı 180 derece.
+
+2
+00:00:12,895 --> 00:00:21,895
+Kenarları uzundan kısaya, açıları büyükten küçüğe sıralayalım. En uzun kenar BC, en büyük açı A: BC, A’nın karşısında.
+
+3
+00:00:23,571 --> 00:00:31,371
+En kısa kenar da en küçük açının karşısında. Büyük kenarın karşısında büyük açı var.
+
+4
+00:00:32,371 --> 00:00:42,171
+A köşesini sağa sola kaydıralım; kenarlar ve açılar değişiyor, sıralamalar da değişiyor.
+
+5
+00:00:42,371 --> 00:00:49,371
+Ama en uzun kenar her zaman en büyük açının karşısında. İlişki her üçgende geçerli.
+
+6
+00:00:50,371 --> 00:00:59,371
+A köşesi BC’nin ortasının üstüne geldi: AB ile AC eşit. B ve C açıları da eşit.
+
+7
+00:00:59,571 --> 00:01:07,371
+İkizkenar üçgende eşit kenarların karşısındaki taban açıları eşittir.
+
+8
+00:01:08,371 --> 00:01:16,371
+Bir üçgenin açıları 80, 60 ve 40 derece olsun. En uzun kenar 80 derecelik açının karşısında.
+
+9
+00:01:17,770 --> 00:01:24,570
+En kısa kenar 40 derecelik açının karşısında. Kenarları ölçmeden, yalnızca açılara bakarak sıraladık.
+
+10
+00:01:26,306 --> 00:01:33,015
+Aklında kalsın: bir üçgende büyük kenarın karşısında büyük açı, küçük kenarın karşısında küçük açı bulunur.
+
+11
+00:01:35,015 --> 00:01:39,215
+Eşit kenarların karşısında eşit açılar!

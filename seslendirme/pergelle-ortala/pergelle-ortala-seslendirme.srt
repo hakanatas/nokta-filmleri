@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,684
+Bir AB doğru parçası var. Kâğıdı öyle katlayalım ki A, B’nin üstüne gelsin. Katlama çizgisi AB’nin simetri doğrusudur.
+
+2
+00:00:14,684 --> 00:00:31,771
+Yansımadan hatırlayalım: simetri doğrusu AB’ye diktir ve onu M noktasında ikiye böler: MA eşittir MB. Doğru üzerindeki her nokta, örneğin K, A’ya ve B’ye eşit uzaklıktadır: KA eşittir KB.
+
+3
+00:00:33,771 --> 00:00:39,571
+Simetri doğrusu dik, ortalıyor ve üzerindeki noktalar iki uca eşit uzaklıkta.
+
+4
+00:00:40,579 --> 00:00:59,015
+Bu özellikten bir inşa çıkar. Pergeli AB’nin yarısından fazla açalım. A merkezli bir yay, aynı açıklıkla B merkezli bir yay çizelim. Yaylar C ve D’de kesişir. C ve D, A’ya ve B’ye eşit uzaklıkta; ikisi de simetri doğrusunda.
+
+5
+00:01:01,015 --> 00:01:06,215
+C ile D’yi birleştiren doğru, AB’nin orta dikmesidir.
+
+6
+00:01:07,015 --> 00:01:19,768
+Bir açının da simetri doğrusu var. O merkezli bir yay kolları P ve Q’da kessin: OP eşittir OQ. P ve Q merkezli eşit yaylar R’de kesişir. O ile R’yi birleştirelim.
+
+7
+00:01:21,768 --> 00:01:29,545
+OR açının simetri doğrusudur, yani açıortaydır: 70 derecelik açıyı 35’er derecelik iki eş açıya böler.
+
+8
+00:01:31,545 --> 00:01:47,796
+Farklı örneklerde deneyelim. Eğik bir EF doğru parçası: aynı adımlarla orta dikme; NE eşittir NF ve açı 90 derece. 120 derecelik bir açı: aynı adımlarla açıortay, 60 artı 60.
+
+9
+00:01:49,796 --> 00:01:54,596
+Yöntem her doğru parçası ve her açı için işler.
+
+10
+00:01:55,396 --> 00:02:01,196
+Aklında kalsın: orta dikme için iki uçtan, açıortay için kollardan eşit yaylar çiz.
+
+11
+00:02:03,018 --> 00:02:07,218
+Orta dikme ve açıortay, ikisi de bir simetri doğrusudur!

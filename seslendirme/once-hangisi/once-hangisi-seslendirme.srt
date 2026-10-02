@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:14,365
+Ece ile Can aynı işlemi yaptı: 3 artı 4 çarpı 5. Ece önce topladı ve 35 buldu; Can önce çarptı ve 23 buldu. Hangisi doğru?
+
+2
+00:00:16,365 --> 00:00:27,533
+Bu işlem bir alışverişi anlatıyor olsun: 3 liralık bir silgi ve 5 liralık 4 defter. Defterler 4 çarpı 5, 20 lira. Toplam 3 artı 20, 23 lira.
+
+3
+00:00:29,533 --> 00:00:38,943
+Doğru cevap 23: önce çarpma yapılır. 35 bulmak için 3 ile 4’ü toplamak gerekirdi; bu 7 tane 5 liralık ürün demek olurdu.
+
+4
+00:00:40,943 --> 00:00:53,438
+İşlem önceliği kuralı: önce parantez içi, sonra çarpma ve bölme, en son toplama ve çıkarma. 20 eksi 12 bölü 4: önce bölme, 3; sonra 20 eksi 3, 17.
+
+5
+00:00:55,438 --> 00:01:04,610
+Parantez varsa önce parantez içi yapılır: 20 eksi 12, 8; 8 bölü 4, 2. Parantez sonucu değiştirdi.
+
+6
+00:01:06,610 --> 00:01:20,344
+Çarpma ve bölme aynı önceliktedir; soldan sağa yapılır. 18 bölü 3, 6; 6 çarpı 2, 12. Toplama ve çıkarma da öyle: 10 eksi 4, 6; 6 artı 3, 9.
+
+7
+00:01:22,344 --> 00:01:28,744
+Aynı öncelikte olan işlemleri soldan sağa yaparız.
+
+8
+00:01:29,544 --> 00:01:40,291
+Problemlerde de işlem önceliğini kullanırız. 5 paket, her birinde 6 kalem, 4 kalem kayıp: 5 çarpı 6, 30; 30 eksi 4, 26 kalem.
+
+9
+00:01:42,291 --> 00:01:54,011
+30 lirayla 8 liralık 3 kitap: önce kitapların tutarı, 3 çarpı 8, 24; para üstü 30 eksi 24, 6 lira. İşlem sırası problemin anlamına uyar.
+
+10
+00:01:56,011 --> 00:02:04,537
+Aklında kalsın: önce parantez içi, sonra çarpma ve bölme, en son toplama ve çıkarma; aynı öncelikte soldan sağa.
+
+11
+00:02:06,537 --> 00:02:10,737
+Önce hangisi? Kurala uy!

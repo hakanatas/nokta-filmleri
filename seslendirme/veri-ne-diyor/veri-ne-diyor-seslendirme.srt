@@ -1,0 +1,59 @@
+1
+00:00:03,600 --> 00:00:10,137
+Nokta’nın sınıfı geziye gidecek. Ama nereye? Herkes farklı bir şey söylüyor. Bunu tahminle değil, veriyle bulalım.
+
+2
+00:00:12,137 --> 00:00:16,155
+Önce araştırma sorumuzu yazalım: Sınıfımız en çok nereye gitmek istiyor?
+
+3
+00:00:18,155 --> 00:00:22,716
+Sonra plan yapalım: Kime soracağız? Sınıfımızdaki 20 öğrencinin hepsine.
+
+4
+00:00:24,716 --> 00:00:33,659
+Bir anket hazırladık: Müze, Akvaryum, Planetaryum. Herkes yalnızca birini seçecek. Bu cevaplar kategorik veridir; sayı değil, isim.
+
+5
+00:00:35,659 --> 00:00:41,859
+Şimdi veri toplayalım. Her öğrencinin oyu, seçtiği yerin satırına bir çetele çizgisi olarak düşüyor.
+
+6
+00:00:43,093 --> 00:00:49,443
+Dört çizgiden sonra beşinci çizgi hepsini çapraz keser. Böylece beşer beşer saymak kolaylaşır.
+
+7
+00:00:51,443 --> 00:00:56,643
+Sayalım: Müze 4, Akvaryum 9, Planetaryum 7 oy aldı.
+
+8
+00:00:57,748 --> 00:01:04,512
+Bu veriyi bir sütun grafiğiyle gösterelim. Her yer için bir sütun, sütunun boyu oy sayısı kadar.
+
+9
+00:01:06,512 --> 00:01:12,112
+Neden sütun grafiği? Çünkü kategorileri yan yana karşılaştırmak bir bakışta kolaylaşıyor.
+
+10
+00:01:13,509 --> 00:01:18,309
+En uzun sütun hangisi? Akvaryum, 9 oyla.
+
+11
+00:01:19,309 --> 00:01:24,309
+Veriye dayanarak kararımızı verelim: Akvaryum’a gidelim.
+
+12
+00:01:24,709 --> 00:01:29,907
+Gerekçemiz: 20 kişiden 9’u Akvaryum’u seçti; bu, öteki seçeneklerden daha fazla.
+
+13
+00:01:31,907 --> 00:01:41,197
+Sonucun soruya cevap verip vermediğini kontrol edelim: 4 artı 9 artı 7, 20. Sınıftaki herkes cevap vermiş; soruya cevap bulduk.
+
+14
+00:01:43,197 --> 00:01:49,694
+İşte araştırma döngüsü: soru sor, plan yap, veri topla, grafik çiz, yorumla ve karar ver.
+
+15
+00:01:51,694 --> 00:01:58,094
+Tahminle değil, veriye dayanarak karar verdik. Sıradaki sorunuzu siz sorun!

@@ -1,0 +1,51 @@
+1
+00:00:04,400 --> 00:00:13,933
+Ali masayı karışıyla ölçüyor: 7 karış. Ayşe de ölçüyor: 9 karış. Masa aynı ama sonuçlar farklı, çünkü herkesin karışı farklı.
+
+2
+00:00:15,933 --> 00:00:22,062
+Herkesin aynı sonucu bulması için standart bir ölçü birimi gerekir. Uzunlukta ölçüt birim metredir.
+
+3
+00:00:24,062 --> 00:00:38,651
+Metrenin büyükleri ve küçükleri var: kilometre, hektometre, dekametre; desimetre, santimetre, milimetre. 1 kilometre 1000 metre, 1 metre 100 santimetre, 1 santimetre 10 milimetre.
+
+4
+00:00:40,651 --> 00:00:47,094
+Birimler 10’ar 10’ar değişir. Küçük birime geçerken 10 ile çarparız, büyük birime geçerken 10’a böleriz.
+
+5
+00:00:49,094 --> 00:00:59,294
+Masayı metre cetveliyle ölçelim: bir metre, artı 20 santimetre. Yani 120 santimetre ya da 1,2 metre.
+
+6
+00:00:59,494 --> 00:01:06,433
+Kalemi milimetrik cetvelle ölçelim: 14 santimetre. Bu 140 milimetre, ya da 0,14 metre eder.
+
+7
+00:01:08,433 --> 00:01:17,882
+İki kurdele var: biri 1,5 metre, öteki 145 santimetre. Hangisi daha uzun? 145 büyük görünüyor ama birimler farklı!
+
+8
+00:01:19,882 --> 00:01:29,515
+Aynı birime çevirelim: 1,5 metre 150 santimetre eder. 150 santimetre, 145 santimetreden 5 santimetre uzun.
+
+9
+00:01:31,516 --> 00:01:40,374
+Okul 1,2 kilometre, park 950 metre uzakta. 1,2 kilometre 1200 metre eder; okul 250 metre daha uzak.
+
+10
+00:01:42,374 --> 00:01:49,574
+Hangi birimi seçeceğimize de karar vermeliyiz. Kalemin boyunu kilometreyle, iki şehir arasını santimetreyle söylemeyiz.
+
+11
+00:01:51,261 --> 00:01:57,061
+Uygun birim, sayıyı kolay okunur ve karşılaştırılabilir yapar.
+
+12
+00:01:57,861 --> 00:02:07,068
+Aklında kalsın: uzunlukta ölçüt birim metredir. Birimler 10’ar 10’ar değişir. Karşılaştırmadan önce aynı birime çevir ve duruma uygun birimi seç.
+
+13
+00:02:09,068 --> 00:02:13,268
+Artık her uzunluğu doğru birimle ölçebilir ve karşılaştırabilirsin!

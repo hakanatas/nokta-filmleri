@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:17,635
+Saat 18’de hava 3 derece, saat 22’de eksi 4 derece. 4 saatte sıcaklık 7 derece düştü. Saatte ortalama eksi 7 bölü 4 derece değişti. Bu sayı ondalık gösterimle kaç?
+
+2
+00:00:19,635 --> 00:00:35,430
+Bir kesrin ondalık gösterimini bulmak için pay paydaya bölünür. 7 bölü 4: 1, kalan 3. 30 bölü 4: 7, kalan 2. 20 bölü 4: 5, kalan 0. Kalan 0 oldu, bölme bitti: 1,75.
+
+3
+00:00:37,430 --> 00:00:49,355
+Eksi 7 bölü 4, eksi 1,75. Sıcaklık saatte 1,75 derece düştü. Her rasyonel sayı, pay paydaya bölünerek ondalık gösterime çevrilir.
+
+4
+00:00:51,355 --> 00:01:06,007
+Şimdi 5 bölü 6. 50 bölü 6: 8, kalan 2. 20 bölü 6: 3, kalan 2. Yine 20, yine 3, yine kalan 2. Bölme hiç bitmiyor: 0,8333 diye sürüp gidiyor.
+
+5
+00:01:08,007 --> 00:01:14,792
+Tekrar eden 3 rakamının üstüne bir çizgi çekeriz: devir çizgisi. Bu bir devirli ondalık gösterimdir.
+
+6
+00:01:16,792 --> 00:01:28,834
+Eksi 2 bölü 11: kalanlar 2, 9, 2, 9 diye tekrar ediyor. Rakamlar da 1, 8, 1, 8. Tekrar eden 18’in üstüne devir çizgisi çekeriz.
+
+7
+00:01:30,834 --> 00:01:44,061
+1 bölü 7’de kalanlar 1, 3, 2, 6, 4, 5 ve yine 1. 7’ye bölerken kalan en çok 6 farklı değer alabilir; bu yüzden kalan ya 0 olur ya da bir yerde tekrar eder.
+
+8
+00:01:46,061 --> 00:02:02,496
+3 bölü 8, 0,375: bölme bitti, devirsiz. Eksi 7 bölü 4, eksi 1,75: devirsiz. 5 bölü 6, eksi 2 bölü 11, 1 bölü 7: kalan tekrar etti, devirli.
+
+9
+00:02:04,496 --> 00:02:09,296
+Her rasyonel sayının ondalık gösterimi ya devirsizdir ya da devirlidir.
+
+10
+00:02:10,916 --> 00:02:19,748
+Aklında kalsın: ondalık gösterim için pay paydaya bölünür. Kalan 0 olursa devirsiz, kalan tekrar ederse devirli bir gösterim çıkar.
+
+11
+00:02:21,748 --> 00:02:25,948
+Tekrar eden rakamların üstüne devir çizgisi!

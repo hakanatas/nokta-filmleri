@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:14,578
+Bu üçgenle aynı biçimde ama 1,5 kat büyük bir üçgen çizmek istiyoruz. Hangi elemanları bilmek yeter? Varsayalım: açılar eşitse biçim aynı olur.
+
+2
+00:00:16,578 --> 00:00:25,148
+Yalnızca B ve C açılarını kullanalım. Işınlar tek bir noktada buluşuyor; üçüncü açı da kendiliğinden eşit, çünkü toplam 180 derece.
+
+3
+00:00:27,148 --> 00:00:35,548
+Büyük üçgeni küçültüp asılın üstüne koyalım: örtüşüyor. İki açısı eşit üçgenler benzerdir.
+
+4
+00:00:36,548 --> 00:00:45,573
+Üç kenarı da 1,5 katına çıkaralım ve yaylarla çizelim. Küçültünce asılla örtüşüyor: kenarları orantılı üçgenler benzerdir.
+
+5
+00:00:47,573 --> 00:00:56,373
+İki kenarı 1,5 katı, aralarındaki açı eşit: yine benzer. Her kenarın oranı aynı olmalı.
+
+6
+00:00:57,373 --> 00:01:05,573
+Her kenara 1,5 ekleyelim. Oran değil fark aynı; küçültünce örtüşmüyor, açılar değişti.
+
+7
+00:01:05,773 --> 00:01:14,373
+Yalnızca bir açısı eşit olan üçgenin biçimi belirlenmiyor. Ya açılar eşit ya da kenarlar orantılı olmalı.
+
+8
+00:01:15,968 --> 00:01:26,855
+2 metrelik bir çubuğun gölgesi 3 metre, ağacın gölgesi 12 metre. Güneş ışınları aynı açıyla geldiği için üçgenler benzer: 12 bölü 3, 4 kat.
+
+9
+00:01:28,855 --> 00:01:35,655
+Ağaç 2 çarpı 4, 8 metre. Ölçemediğimiz bir yüksekliği benzerlikle bulduk.
+
+10
+00:01:36,455 --> 00:01:42,255
+Aklında kalsın: iki açı eşitse ya da kenarlar orantılıysa üçgenler benzerdir.
+
+11
+00:01:43,643 --> 00:01:47,843
+Benzerlik: aynı biçim, farklı boyut!

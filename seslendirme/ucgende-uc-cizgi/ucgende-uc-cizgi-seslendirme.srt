@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,702
+Bir ABC üçgeni. A köşesinden karşıdaki BC kenarına üç özel çizgi çizebiliriz.
+
+2
+00:00:12,702 --> 00:00:22,302
+Kenarortay karşı kenarın orta noktasına gider: BK eşittir KC. Açıortay A açısını iki eş parçaya böler.
+
+3
+00:00:23,543 --> 00:00:30,743
+Yükseklik karşı kenara diktir. Üçü de A’dan çıkar ve BC’ye gider; genelde üç farklı çizgidir.
+
+4
+00:00:31,743 --> 00:00:41,543
+A köşesini sağa sola kaydıralım. Kenarortay, açıortay ve yüksekliğin ayakları da yer değiştiriyor.
+
+5
+00:00:41,743 --> 00:00:48,743
+Ama sıra değişmiyor: açıortay hep yükseklik ile kenarortayın arasında.
+
+6
+00:00:49,743 --> 00:00:57,743
+A, BC’nin tam ortasının üstüne geldi: AB eşittir AC. Kenarortay, açıortay ve yükseklik çakıştı.
+
+7
+00:00:59,602 --> 00:01:08,402
+İkizkenar üçgende tepe köşesinden çizilen üç çizgi aynıdır. Eşkenar üçgende bu her köşe için geçerlidir.
+
+8
+00:01:09,402 --> 00:01:18,402
+A, B’nin dışına kaydı; B açısı geniş açı oldu. Yükseklik üçgenin dışına düştü: BC’nin uzantısına dik.
+
+9
+00:01:19,059 --> 00:01:24,859
+Kenarortay ve açıortay ise hep üçgenin içinde kalır.
+
+10
+00:01:25,659 --> 00:01:31,459
+Aklında kalsın: kenarortay ortaya gider, açıortay açıyı ikiye böler, yükseklik diktir.
+
+11
+00:01:33,370 --> 00:01:37,570
+İkizkenar üçgende tepeden çizilen üçü çakışır!

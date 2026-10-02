@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,200
+Bu silindir biçimindeki kutuyu kapaklarıyla birlikte kaplamak istiyoruz. Ne kadar kâğıt gerekir?
+
+2
+00:00:11,978 --> 00:00:21,313
+Yarıçap 2, yükseklik 5 santimetre. Yan yüzü açalım: taban dairesi bir tur yuvarlanıyor, 2 pi r, yaklaşık 12 santimetre.
+
+3
+00:00:23,313 --> 00:00:31,713
+Açınım iki daire ve bir dikdörtgen. Kutunun yüzey alanı, açınımın alanına eşit.
+
+4
+00:00:32,713 --> 00:00:41,479
+Pi yaklaşık 3. Yan yüz 12 çarpı 5, 60 santimetrekare. Bir taban pi r kare, 3 çarpı 4, 12.
+
+5
+00:00:43,479 --> 00:00:54,057
+İki taban 24. Toplam 60 artı 24, 84 santimetrekare. Genel olarak: 2 pi r kare artı 2 pi r h.
+
+6
+00:00:56,057 --> 00:01:04,584
+Yarıçapı 3, yüksekliği 4 santimetre olan kapaksız bir bardak. Yan yüz 2 çarpı 3 çarpı 3 çarpı 4, 72.
+
+7
+00:01:06,584 --> 00:01:16,222
+Kapak yok, tek taban: 3 çarpı 9, 27. Toplam 99 santimetrekare. Önce açınıma bakıp parçaları topluyoruz.
+
+8
+00:01:18,222 --> 00:01:25,422
+İlk kutunun yüksekliği 10 olsun. Yan yüz 12 çarpı 10, 120; toplam 144.
+
+9
+00:01:26,549 --> 00:01:34,149
+144, 84 ün iki katı değil. Yalnızca yan yüz iki katına çıktı, tabanlar aynı kaldı.
+
+10
+00:01:35,171 --> 00:01:40,971
+Aklında kalsın: silindirin yüzey alanı yan yüz ile iki tabanın alanları toplamı.
+
+11
+00:01:42,241 --> 00:01:46,441
+S eşittir 2 pi r kare artı 2 pi r h!

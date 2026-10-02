@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:11,923
+Ali A noktasında. Nehirden su alıp B noktasındaki çadıra gidecek. Nehrin neresine uğrarsa yolu en kısa olur?
+
+2
+00:00:13,923 --> 00:00:25,577
+Ali A(1, 4), çadır B(7, 2). Nehir x ekseni. Nehirde bir P noktası arıyoruz: AP artı PB en kısa olsun.
+
+3
+00:00:27,577 --> 00:00:37,112
+P(1, 0) olursa yaklaşık 10,3; P(7, 0) olursa yaklaşık 9,2 birim. Denemek yavaş, bir strateji gerekli.
+
+4
+00:00:39,112 --> 00:00:48,022
+Çadırı nehre göre yansıtalım: B′(7, −2). Nehirdeki her P için PB, PB′ ne eşit.
+
+5
+00:00:50,022 --> 00:00:58,422
+A’dan B′ne en kısa yol düz çizgi. Bu çizgi nehri P(5, 0) noktasında kesiyor. Ali oraya uğramalı.
+
+6
+00:00:59,422 --> 00:01:11,148
+AP yaklaşık 5,66, PB yaklaşık 2,83: toplam 8,49. P(4, 0) için 8,61: daha uzun.
+
+7
+00:01:13,148 --> 00:01:21,748
+Kısa yol: toplam, AB′ uzunluğu, 6 kök 2. Gelen ve giden yollar nehirle eşit açı yapıyor, bilardo topu gibi.
+
+8
+00:01:23,345 --> 00:01:31,744
+Ali ve çadırı birlikte 2 birim sağa öteleyelim: A(3, 4), B(9, 2). Yansıma B′(9, −2).
+
+9
+00:01:33,744 --> 00:01:41,521
+Yeni P(7, 0): o da 2 sağa gitti. Yol aynı uzunlukta, yalnızca taşındı. Strateji her konumda işe yarar.
+
+10
+00:01:43,521 --> 00:01:50,286
+Aklında kalsın: bileşenleri belirle, düzlemde göster, tahmin et, strateji seç, uygula ve kontrol et.
+
+11
+00:01:52,286 --> 00:01:56,486
+En kısa yol: A, P(5, 0), B!

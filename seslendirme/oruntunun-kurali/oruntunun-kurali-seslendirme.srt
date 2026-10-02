@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:11,125
+Karelerle bir örüntü: birinci adımda 3 kare, ikincide 5, üçüncüde 7, dördüncüde 9 kare var.
+
+2
+00:00:13,125 --> 00:00:27,492
+Terimleri bir tabloya yazalım: 3, 5, 7, 9, 11. Her adımda 2 kare ekleniyor. Ece bir varsayımda bulunuyor: 10. adım, 5. adımın 2 katıdır; 11 çarpı 2, 22 kare.
+
+3
+00:00:29,492 --> 00:00:36,692
+Bu varsayım doğru mu? Kabul etmeden önce sınayalım.
+
+4
+00:00:37,492 --> 00:00:48,955
+5. adımı kuralım: yukarı 5, sağa 5, köşede 1: 11 kare. 10. adımı kuralım: yukarı 10, sağa 10, köşede 1: 21 kare.
+
+5
+00:00:50,955 --> 00:00:58,755
+21 kare çıktı, 22 değil. Varsayım tutmadı; çünkü köşedeki kare iki kez sayılmaz.
+
+6
+00:00:59,555 --> 00:01:07,955
+Kural şeklin içinde saklı: yukarıda adım sayısı kadar, sağda adım sayısı kadar kare var, köşede de 1 kare.
+
+7
+00:01:08,355 --> 00:01:19,449
+Önermemiz: kare sayısı, adım sayısının 2 katının 1 fazlasıdır. Bu kural çizmeden bulmamızı sağlar: 100. adımda 2 çarpı 100 artı 1, 201 kare.
+
+8
+00:01:21,449 --> 00:01:32,537
+Kuralı kapsayıcı örneklerle sınayalım: 1. adım 2 çarpı 1 artı 1, 3 kare. 7. adım 2 çarpı 7 artı 1, 15 kare. Kural tutuyor.
+
+9
+00:01:34,537 --> 00:01:46,583
+Benzer bir örüntü: 4, 7, 10, 13. Her adımda 3 artıyor; kural adımın 3 katının 1 fazlası. Aynı doğrulama yöntemi bu örüntüde de işe yarıyor.
+
+10
+00:01:48,583 --> 00:01:55,573
+Aklında kalsın: terimleri incele, varsayımını sına, kuralı sözle ve sembolle yaz, örneklerle doğrula.
+
+11
+00:01:57,573 --> 00:02:01,773
+Kural, çizmeden bulmayı sağlar!

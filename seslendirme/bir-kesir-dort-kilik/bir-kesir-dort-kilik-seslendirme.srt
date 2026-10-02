@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:16,116
+Kesirler hayatta farklı kılıklarda karşımıza çıkar: tarifte 2 tam 1 bölü 4 bardak un, markette 0,75 kilo peynir, mağazada yüzde 25 indirim, şişede 5 bölü 4 litre süt.
+
+2
+00:00:18,116 --> 00:00:31,401
+0,75 kilo peyniri yüzlük kartla gösterelim. Yüzlük kart 100 eşit kareden oluşur ve bir bütündür. 75 kareyi boyarız: 75 bölü 100, yani 0,75.
+
+3
+00:00:33,401 --> 00:00:47,073
+Yüzde, yüzde kaç demektir: %75. Kartı dört eşit parçaya bölersek boyalı kısım dörtte üç. 0,75, yüzde 75 ve 3 bölü 4 aynı miktardır.
+
+4
+00:00:49,073 --> 00:01:01,090
+Tarifteki 2 tam 1 bölü 4 bardak unu bardaklarla gösterelim: 2 dolu bardak ve bir çeyrek. Kaç çeyrek var? 4 artı 4 artı 1, 9 çeyrek.
+
+5
+00:01:03,090 --> 00:01:11,890
+Sayı doğrusunda da gösterelim: 2’den sonra bir çeyrek. 2 tam 1 bölü 4, 9 bölü 4 ve 2,25 aynı noktadır.
+
+6
+00:01:13,404 --> 00:01:21,596
+Yüzde 25 indirim: yüzlük kartta 25 kare. 25 kare, kartın tam dörtte biri: 1 bölü 4.
+
+7
+00:01:23,596 --> 00:01:32,996
+80 liralık ürünü dört eşit parçaya bölelim: her parça 20 lira. Yüzde 25 indirim, bir parça: 20 lira.
+
+8
+00:01:33,889 --> 00:01:45,195
+Modelleri karşılaştıralım. Yüzlük kart ondalık ve yüzde gösterimlerini okumayı kolaylaştırır. Sayı doğrusu 1’den büyük kesirleri yerleştirmeye uygundur. Somut model günlük durumu canlandırır.
+
+9
+00:01:47,195 --> 00:01:54,595
+Karar verelim: her durumda en kullanışlı modeli seçeriz.
+
+10
+00:01:55,395 --> 00:02:02,548
+Aklında kalsın: 3 bölü 4, 0,75 ve yüzde 75 aynı miktarın farklı gösterimleridir.
+
+11
+00:02:04,548 --> 00:02:08,748
+Duruma uygun modeli seç!

@@ -1,0 +1,67 @@
+1
+00:00:04,400 --> 00:00:14,586
+Aynı duraktan iki otobüs kalkıyor: mavi otobüs 4 dakikada bir, turuncu otobüs 6 dakikada bir. Saat 09.00’da birlikte kalktılar. Yine ne zaman birlikte kalkarlar?
+
+2
+00:00:16,586 --> 00:00:24,385
+Sayı doğrusunda 4’er 4’er atlayalım: 4, 8, 12, 16… Bunlar 4’ün katları.
+
+3
+00:00:26,385 --> 00:00:34,192
+Şimdi de 6’şar 6’şar atlayalım: 6, 12, 18, 24… Bunlar 6’nın katları.
+
+4
+00:00:36,192 --> 00:00:44,327
+İki atlama 12’de, 24’te ve 36’da buluşuyor. Bu sayılar hem 4’ün hem 6’nın katı: ortak katlar.
+
+5
+00:00:46,327 --> 00:00:52,327
+Ortak katların en küçüğü 12.
+
+6
+00:00:52,927 --> 00:00:59,735
+Sayı doğrusunu dakika gibi düşünelim. Otobüsler ilk kez 12 dakika sonra, yani 09.12’de yine birlikte kalkar.
+
+7
+00:01:01,735 --> 00:01:09,144
+Sonra 09.24’te, 09.36’da… Ortak katlar hiç bitmez. Ortak kat, iki sayının da katı olan sayıdır.
+
+8
+00:01:11,144 --> 00:01:22,798
+12 cm ve 18 cm’lik iki kurdeleyi, hiç artık kalmadan aynı uzunlukta parçalara kesmek istiyoruz. 2’şer cm olur: 6 parça ve 9 parça.
+
+9
+00:01:24,798 --> 00:01:34,441
+4’er cm keselim: 12 cm tam 3 parça olur ama 18 cm’den 2 cm artar. 4, 18’i tam bölmez.
+
+10
+00:01:36,441 --> 00:01:40,864
+6’şar cm keselim: 2 parça ve 3 parça, hiç artık yok.
+
+11
+00:01:42,864 --> 00:01:48,163
+Tabloda 12’nin ve 18’in bölenlerini yazalım. İkisinde de olanları işaretleyelim.
+
+12
+00:01:50,163 --> 00:02:03,935
+12’nin ve 18’in ortak bölenleri 1, 2, 3 ve 6. Ortak bölen, iki sayıyı da tam bölen sayıdır. En büyüğü 6: kurdeleleri en uzun 6’şar cm kesebiliriz.
+
+13
+00:02:05,935 --> 00:02:12,558
+24 kalem ve 36 silgi artmadan eşit paketlere ayrılacak. Paket sayısı iki sayıyı da bölmeli.
+
+14
+00:02:14,558 --> 00:02:23,526
+Ortak bölenler 1, 2, 3, 4, 6 ve 12. En çok 12 paket yapılır; her pakette 2 kalem ve 3 silgi olur.
+
+15
+00:02:25,526 --> 00:02:31,505
+Ortak katlar sonsuza kadar sürer; ortak bölenler ise sayılardan büyük olamaz, sınırlıdır.
+
+16
+00:02:33,505 --> 00:02:39,305
+Aklında kalsın: ortak kat iki sayının da katıdır; ortak bölen iki sayıyı da tam böler.
+
+17
+00:02:40,754 --> 00:02:44,954
+Artık sayıların nerede buluştuğunu bulabilirsin!

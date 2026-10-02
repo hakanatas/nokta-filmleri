@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,774
+Bir araç 5 litre benzinle 60 kilometre gidiyor. 18 litre benzinle kaç kilometre gider?
+
+2
+00:00:12,774 --> 00:00:29,389
+Nicelikler benzin ve yol. 5 litreyle 60, 10 litreyle 120, 15 litreyle 180 kilometre. Benzin 2 katına çıkınca yol da 2 katına çıkıyor: doğru orantılı. Grafikte noktalar başlangıçtan geçen bir doğru üzerinde.
+
+3
+00:00:31,389 --> 00:00:38,189
+Tablo ve grafik aynı ilişkiyi gösteriyor: her litre benzin 12 kilometre yol demek.
+
+4
+00:00:38,989 --> 00:00:48,543
+Birinci strateji birim oran: 60 bölü 5, litre başına 12 kilometre. 18 litreyle 18 çarpı 12, 216 kilometre.
+
+5
+00:00:50,543 --> 00:01:10,657
+İkinci strateji oran tablosu: 5 litre 60 kilometre. 3 katı: 15 litre 180. 5’e bölelim: 1 litre 12; 3 katı: 3 litre 36. 15 artı 3, 18 litre; 180 artı 36, 216 kilometre. İki strateji de aynı sonucu verdi.
+
+6
+00:01:12,657 --> 00:01:29,667
+Başka bir yolla doğrulayalım: orantı kuralım. 5 bölü 60, 18 bölü x’e eşit. 5 çarpı x, 60 çarpı 18. x, 1080 bölü 5, 216. Grafikte de 18 litrenin karşısı 216 kilometre.
+
+7
+00:01:31,667 --> 00:01:38,467
+Üçüncü yol da doğruladı: 18 litre benzinle 216 kilometre gidilir.
+
+8
+00:01:39,267 --> 00:01:57,559
+Genelleyelim: yol eşittir 12 çarpı benzin. Aynı strateji elmada da işler: 4 kilogram 100 lira, 1 kilogram 25 lira, 7 kilogram 175 lira. Ama toptan indirimde 10 kilogram 225 lira; 25 çarpı 10, 250 tutmuyor.
+
+9
+00:01:59,559 --> 00:02:04,359
+Bu strateji yalnızca doğru orantılı durumlarda geçerlidir.
+
+10
+00:02:05,159 --> 00:02:13,041
+Aklında kalsın: nicelikleri ve ilişkiyi belirle; tablo, grafik, birim oran ya da orantıyla çöz; farklı bir stratejiyle doğrula.
+
+11
+00:02:15,041 --> 00:02:19,241
+Önce durumun doğru orantılı olup olmadığını kontrol et!

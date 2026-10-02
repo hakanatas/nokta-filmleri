@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,455
+Evin ön duvarı boyanacak. Bir kutu boya 10 metrekarelik yeri boyuyor. Kaç kutu boya almalıyız?
+
+2
+00:00:12,455 --> 00:00:24,238
+Önce problemi anlayalım. Duvar, 8 metreye 3 metrelik bir dikdörtgen ile tepede yüksekliği 2 metre olan bir üçgenden oluşuyor. 1 metreye 2 metrelik kapı boyanmayacak.
+
+3
+00:00:26,238 --> 00:00:38,122
+Önce alanı metrekare olarak, sonra kutu sayısını bulacağız. Bir tahmin yapalım: duvar 8’e 5’lik dikdörtgenin içine sığıyor, yani 40 metrekareden az. 4 kutudan az boya yeter.
+
+4
+00:00:40,122 --> 00:00:53,088
+Duvarı parçalara ayıralım. Dikdörtgen 8 çarpı 3, 24 metrekare. Üçgen 8 çarpı 2 bölü 2, 8 metrekare. Kapı 1 çarpı 2, 2 metrekare; onu çıkaracağız.
+
+5
+00:00:55,088 --> 00:01:02,672
+24 artı 8 eksi 2, 30 metrekare. 30 bölü 10, 3 kutu. Tahminimizle de uyumlu: 4’ten az.
+
+6
+00:01:04,672 --> 00:01:15,772
+Başka bir yolla kontrol edelim. Duvarı 8’e 5’lik büyük bir dikdörtgenin içine koyalım: 40 metrekare. Üst köşelerde boş kalan iki üçgen 4’er metrekare, toplam 8.
+
+7
+00:01:17,772 --> 00:01:25,972
+40 eksi 8 eksi kapının 2 metrekaresi: yine 30 metrekare. İki yol aynı sonuca vardı.
+
+8
+00:01:26,772 --> 00:01:37,373
+Aynı stratejiyi başka bir duvarda deneyelim: 6 metre genişlik, pencere 1’e 1. Dikdörtgen 18, üçgen 6, pencere 1: 23 metrekare.
+
+9
+00:01:39,373 --> 00:01:48,973
+23 bölü 10, 2,3 kutu. Ama 2,3 kutu satın alamayız ve 2 kutu yetmez. Kutu sayısını yukarı yuvarlarız: 3 kutu.
+
+10
+00:01:49,773 --> 00:01:56,766
+Aklında kalsın: bileşenleri belirle, tahmin et, şekli parçalara ayırıp hesapla, başka bir yolla kontrol et.
+
+11
+00:01:58,766 --> 00:02:02,966
+Ve sonucu duruma göre yorumla: yarım kutu boya satılmaz!

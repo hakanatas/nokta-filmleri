@@ -1,0 +1,59 @@
+1
+00:00:04,400 --> 00:00:15,462
+3 pizzayı 4 kişi eşit paylaşırsa her biri dörtte üç pizza alır. Kesir çizgisi aslında bir bölme işaretidir: 3 bölü 4, 3 ÷ 4 demek.
+
+2
+00:00:17,462 --> 00:00:29,880
+3’ü 4’e bölelim: 0 tam, kalan 3. Kalanın yanına 0 ekleyip devam edelim: 30 ÷ 4 = 7, kalan 2. 20 ÷ 4 = 5, kalan 0.
+
+3
+00:00:31,880 --> 00:00:38,215
+Kalan 0 oldu, bölme bitti. Hesap makinesiyle de kontrol edelim: 0,75.
+
+4
+00:00:40,215 --> 00:00:47,615
+Bu kesrin ondalık gösterimi biter. Buna sonlu ondalık gösterim denir.
+
+5
+00:00:48,415 --> 00:01:01,177
+Şimdi 1’i 3’e bölelim. 10 ÷ 3 = 3, kalan 1. Yine 10 ÷ 3, yine kalan 1… Bölme hiç bitmiyor. Hesap makinesi de 0,3333 gösteriyor.
+
+6
+00:01:03,177 --> 00:01:07,387
+Rakam hep 3. Tekrar eden kısmın üstüne çizgi çekerek yazarız.
+
+7
+00:01:09,387 --> 00:01:18,947
+2’yi 11’e bölelim. Kalanlar 2, 9, 2, 9 diye tekrar ediyor; rakamlar da 1, 8, 1, 8 diye tekrar ediyor.
+
+8
+00:01:20,947 --> 00:01:26,551
+Bir kalan tekrar edince rakamlar da tekrar eder. Bu bir devirli ondalık gösterimdir.
+
+9
+00:01:28,551 --> 00:01:37,751
+Birçok kesri bölelim ve iki gruba ayıralım: biten ondalık gösterimler ve tekrar edenler. Bir örüntü görüyor musunuz?
+
+10
+00:01:38,406 --> 00:01:47,543
+Paydaları asal çarpanlarına ayıralım. Soldakilerde yalnızca 2 ve 5 var. Sağdakilerde 3, 7 ya da 11 gibi başka asallar var.
+
+11
+00:01:49,543 --> 00:01:59,223
+Genelleyelim: sadeleştirilmiş bir kesrin paydasında yalnızca 2 ve 5 çarpanları varsa ondalık gösterim biter; başka bir asal çarpan varsa tekrar eder.
+
+12
+00:02:01,223 --> 00:02:12,627
+Kuralımızı sınayalım. 7/40’ın paydası 2 × 2 × 2 × 5; tahminimiz: biter. Bölünce 0,175 çıkıyor. Doğru!
+
+13
+00:02:14,627 --> 00:02:25,432
+5/12’nin paydası 2 × 2 × 3; içinde 3 var, tahminimiz: tekrar eder. Bölünce 0,41666… çıkıyor. Yine doğru!
+
+14
+00:02:27,432 --> 00:02:34,678
+Aklında kalsın: kesir bir bölmedir. Kalan 0 olursa bölme biter; bir kalan tekrar ederse rakamlar devreder.
+
+15
+00:02:36,678 --> 00:02:41,545
+Artık paydaya bakarak ondalık gösterimin biteceğini ya da devredeceğini tahmin edebilirsin.

@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,501
+Bir bisiklet tekerleğinin çapı 60 santimetre. Tekerlek 100 tur dönünce bisiklet kaç metre yol alır?
+
+2
+00:00:12,501 --> 00:00:21,301
+Bileşenleri belirleyelim: çap, tur sayısı ve gidilen yol. Tekerlek bir tur dönünce, çemberinin uzunluğu kadar yol alır.
+
+3
+00:00:22,360 --> 00:00:31,440
+Tahmin edelim: pi yerine 3 kullanırsak bir tur yaklaşık 3 çarpı 60, 180 santimetre. 100 tur yaklaşık 180 metre.
+
+4
+00:00:33,440 --> 00:00:46,759
+Şimdi hesaplayalım: bir tur 3,14 çarpı 60, 188,4 santimetre. 100 tur, 18 840 santimetre, yani 188,4 metre.
+
+5
+00:00:48,759 --> 00:00:58,040
+Kontrol edelim: tahminimiz 180 metreydi, sonuç 188,4 metre. Pi, 3’ten biraz büyük olduğu için sonuç da biraz büyük: tutarlı.
+
+6
+00:01:00,040 --> 00:01:09,446
+Başka bir yol: yarıçap 30 santimetre. Çember uzunluğu 2 çarpı 3,14 çarpı 30, yine 188,4 santimetre.
+
+7
+00:01:11,446 --> 00:01:18,846
+Çap yarıçapın iki katı olduğu için iki yol da aynı sonucu verir: 188,4 metre.
+
+8
+00:01:19,646 --> 00:01:31,177
+Stratejiyi ters bir probleme uygulayalım: bisiklet 942 metre gittiyse kaç tur dönmüştür? 94 200 santimetreyi 188,4’e bölelim: 500 tur.
+
+9
+00:01:33,177 --> 00:01:48,367
+Başka bir tekerlek: çapı 50 santimetre. 100 turda 3,14 çarpı 50 çarpı 100, 15 700 santimetre, yani 157 metre. Yol, tur sayısı çarpı pi çarpı çap: her tekerlekte geçerli.
+
+10
+00:01:50,367 --> 00:01:59,145
+Aklında kalsın: tekerleğin bir turu, çember uzunluğu kadardır: pi çarpı çap. Tahmin için pi yerine 3 kullanabilirsin.
+
+11
+00:02:01,145 --> 00:02:05,345
+Yol, tur sayısı çarpı pi çarpı çap!

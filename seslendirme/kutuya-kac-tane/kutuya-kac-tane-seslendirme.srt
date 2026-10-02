@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:11,382
+İki kutu var: biri uzun, biri küp biçiminde. Hangisinin içine daha çok şey sığar? Uzun kutu daha büyük görünüyor, öyle mi?
+
+2
+00:00:13,382 --> 00:00:23,382
+İki kutuyu da eş küplerle dolduralım ve sayalım. Uzun kutuya 24 küp, küp biçimli kutuya 27 küp sığdı.
+
+3
+00:00:23,582 --> 00:00:31,612
+Kutuyu dolduran eş nesnelerin sayısı, kutunun hacmini söyler. 27, 24’ten büyük: küp biçimli kutunun hacmi daha büyük.
+
+4
+00:00:33,612 --> 00:00:43,212
+Aynı uzun kutuyu bu kez tuğlalarla dolduralım: 12 tuğla sığdı. Küplerle doldurunca 24 küp.
+
+5
+00:00:43,412 --> 00:00:52,121
+Bir tuğla iki küp kadar. 12 tuğla, 24 küp eder. Hacmi söylerken hangi eş nesneyle saydığımızı da söyleriz.
+
+6
+00:00:54,121 --> 00:01:02,721
+12 eş küple farklı dikdörtgenler prizmaları oluşturalım: 12’ye 1’e 1, 6’ya 2’ye 1, 3’e 2’ye 2.
+
+7
+00:01:03,942 --> 00:01:12,142
+Biçimleri farklı ama üçü de 12 küpten oluşuyor. Prizmanın hacmi, onu oluşturan eş nesnelerin sayısıdır: 12 küp.
+
+8
+00:01:13,782 --> 00:01:21,582
+Aynı kutuları toplarla ve küplerle dolduralım. İkisine de 16 tane sığdı.
+
+9
+00:01:21,782 --> 00:01:29,361
+Toplar arasında boşluk kalıyor, küpler kutuyu tam dolduruyor. Hacmi ölçmek için boşluksuz dolduran eş nesneler seçeriz.
+
+10
+00:01:31,361 --> 00:01:37,161
+Aklında kalsın: prizmanın hacmi, onu boşluksuz dolduran eş nesnelerin sayısıdır.
+
+11
+00:01:38,504 --> 00:01:42,704
+Eş nesneler boşluk bırakmadan doldurmalı!

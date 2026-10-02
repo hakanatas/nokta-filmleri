@@ -1,0 +1,55 @@
+1
+00:00:04,400 --> 00:00:14,495
+Bir kurdelenin boyu 2,375 metre. Virgülün solundaki 2 tam metreyi gösteriyor. Peki virgülden sonraki 3, 7 ve 5 ne anlatıyor?
+
+2
+00:00:16,495 --> 00:00:25,295
+Rakamları basamak tablosuna yerleştirelim. Virgülün solunda birler, sağında onda birler, yüzde birler ve binde birler basamakları var.
+
+3
+00:00:27,295 --> 00:00:38,175
+3, onda birler basamağında: değeri 3 bölü 10. 7, yüzde birler basamağında: 7 bölü 100. 5, binde birler basamağında: 5 bölü 1000.
+
+4
+00:00:40,175 --> 00:00:45,575
+Sağa doğru her basamak, solundakinin 10’da biri kadardır.
+
+5
+00:00:46,375 --> 00:00:52,910
+Bir metreyi 10 eşit parçaya bölelim; her parça 1 desimetre. 3 desimetre, metrenin onda üçü.
+
+6
+00:00:54,910 --> 00:01:01,465
+Sıradaki desimetreyi büyütelim: 10 santimetre. 7 santimetre, metrenin yüzde yedisi.
+
+7
+00:01:03,465 --> 00:01:08,865
+Bir santimetreyi de büyütelim: 10 milimetre. 5 milimetre, metrenin binde beşi.
+
+8
+00:01:10,556 --> 00:01:19,341
+Yani virgülden sonraki 375, 3 desimetre, 7 santimetre ve 5 milimetre demek. Her basamak solundakinin 10’da biri.
+
+9
+00:01:21,341 --> 00:01:31,563
+Aynı sayıyı paydası 10, 100 ve 1000 olan kesirlerin toplamı olarak yazabiliriz: 2 artı 3 bölü 10 artı 7 bölü 100 artı 5 bölü 1000.
+
+10
+00:01:33,563 --> 00:01:44,415
+Hepsini bindelik yaparsak 300, 70 ve 5 binde bir eder: toplam binde 375. Sayı “iki tam binde üç yüz yetmiş beş” diye okunur.
+
+11
+00:01:46,415 --> 00:01:57,434
+4,05 mi büyük, 4,5 mi? 4,05’te onda birler basamağı 0, yüzde birler 5. 4,5’te onda birler 5; bu da 50 yüzde bir demek.
+
+12
+00:01:59,434 --> 00:02:08,947
+50 yüzde bir, 5 yüzde birden çok olduğu için 4,5 daha büyük. 4,05’teki 0, onda birler basamağının boş olduğunu gösterir.
+
+13
+00:02:10,947 --> 00:02:19,690
+Aklında kalsın: virgülden sonra onda birler, yüzde birler ve binde birler gelir. Her basamak solundakinin 10’da biridir.
+
+14
+00:02:21,690 --> 00:02:26,157
+Ondalık gösterim, paydası 10, 100, 1000 olan kesirlerin kısa yazılışıdır.

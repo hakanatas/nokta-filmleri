@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:11,570
+Bir depoda 200 litre su var ve dakikada 15 litre boşalıyor. Kaç dakika sonra depoda 50 litre kalır?
+
+2
+00:00:13,570 --> 00:00:29,459
+Önce değişkenleri belirleyelim: x geçen dakika, y kalan su. Fonksiyon: y eşittir 200 eksi 15x. 50 eşittir 200 eksi 15x; 15x eşittir 150; x eşittir 10.
+
+3
+00:00:31,459 --> 00:00:39,659
+Kontrol edelim: 200 eksi 15 çarpı 10, 50. Her adım bir öncekine dayanıyor: 10 dakika sonra 50 litre kalır.
+
+4
+00:00:40,659 --> 00:00:47,894
+Hedef 20 litre olursa x eşittir 12. Hedef 250 litre olursa x eksi 3,3 çıkıyor.
+
+5
+00:00:49,894 --> 00:01:00,294
+Zaman negatif olamaz; depo boşalırken 250 litreye ulaşılmaz. Algoritmaya bir karar adımı gerekiyor: x sıfırdan büyük ya da eşit mi?
+
+6
+00:01:01,294 --> 00:01:11,294
+Algoritmayı adım adım yazalım: başla; başlangıç değerini ve değişimi al; fonksiyonu yaz; hedefi yerine koyup x’i çöz.
+
+7
+00:01:11,587 --> 00:01:18,919
+x sıfırdan küçükse bu değere ulaşılmaz; değilse sonucu yaz ve bitir. Bu adımlar her depo sorusunda işler.
+
+8
+00:01:20,919 --> 00:01:29,319
+Aynı algoritmayı akış şemasıyla gösterelim. Hedef 50 litre: x eşittir 10, evet yolundan sonuç yazılır.
+
+9
+00:01:30,469 --> 00:01:37,632
+Hedef 250 litre: x negatif, hayır yolundan ulaşılamaz diye yazılır. Aynı algoritma, iki ifade biçimi.
+
+10
+00:01:39,632 --> 00:01:46,543
+Aklında kalsın: adımları ve ilişkileri açıkla, kontrol ekle, adım listesi ya da akış şemasıyla yaz.
+
+11
+00:01:48,543 --> 00:01:52,743
+Algoritma: sıralı, açık, eksiksiz!

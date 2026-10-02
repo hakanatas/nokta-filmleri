@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,486
+Bir zar atıyoruz. A olayı: çift sayı gelmesi. B olayı: 3’ten büyük gelmesi. 4 ve 6 iki olayda da var.
+
+2
+00:00:14,486 --> 00:00:22,588
+Ölçütümüz: iki olayın ortak çıktısı var mı? Tek ve çift sayı gelmesinin ortak çıktısı yok. Bu olaylar ayrık.
+
+3
+00:00:24,588 --> 00:00:33,388
+Çift ve 3’ten büyük gelmesinin ortak çıktıları 4 ve 6. Bu olaylar ayrık değil.
+
+4
+00:00:34,388 --> 00:00:42,988
+6 gelmesi ile 5 gelmesi: ortak çıktı yok, ayrık. Asal sayı ile çift sayı: ortak çıktı 2, ayrık değil.
+
+5
+00:00:43,949 --> 00:00:52,149
+1 gelmesi ile tek sayı: ortak çıktı 1, ayrık değil. 5’ten büyük ile 3’ten küçük: ortak çıktı yok, ayrık.
+
+6
+00:00:53,520 --> 00:01:04,520
+Olayları ortak çıktılarına göre iki sütuna ayıralım: ortak çıktısı olmayanlar ayrık, olanlar ayrık değil.
+
+7
+00:01:04,720 --> 00:01:10,520
+Her olay çifti bir etiket aldı.
+
+8
+00:01:11,520 --> 00:01:20,520
+Kümelerle gösterelim: tek ve çift sayıların kümeleri kesişmez. Çift ve 3’ten büyük sayıların kümeleri 4 ve 6’da kesişir.
+
+9
+00:01:21,703 --> 00:01:27,503
+Ayrık olaylar aynı anda gerçekleşemez: bir zar hem tek hem çift gelemez.
+
+10
+00:01:28,962 --> 00:01:34,762
+Aklında kalsın: ortak çıktı yoksa olaylar ayrık, varsa ayrık değil.
+
+11
+00:01:35,162 --> 00:01:39,362
+Ayrık olaylar aynı anda olamaz!

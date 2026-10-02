@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:14,071
+A köşesinden BC kenarına kenarortay çizmek istiyoruz. Kenarortay BC’nin orta noktasına gider. Orta noktayı ölçmeden bulabilir miyiz?
+
+2
+00:00:16,071 --> 00:00:24,401
+Orta dikme inşasını hatırlayalım: P ve Q merkezli, aynı açıklıkta iki yay çizelim. Yaylar iki noktada kesişir; bu noktaları birleştirelim.
+
+3
+00:00:26,401 --> 00:00:36,001
+Orta dikme PQ’yu M noktasında ikiye böler: PM eşittir MQ. Orta noktayı ölçmeden bulduk.
+
+4
+00:00:37,155 --> 00:00:46,145
+Şimdi aynı adımları üçgenin BC kenarına uygulayalım. Orta dikme BC’yi K noktasında keser: BK eşittir KC.
+
+5
+00:00:48,145 --> 00:00:56,545
+A ile K’yi birleştirelim: AK, A köşesinden çizilen kenarortaydır.
+
+6
+00:00:57,545 --> 00:01:09,545
+Aynı yöntemi AC ve AB kenarlarına uygulayalım: orta noktalar L ve N. BL ve CN de kenarortay.
+
+7
+00:01:09,745 --> 00:01:14,815
+Üç kenarortay aynı noktada kesişti: G. Yöntem her kenarda işliyor.
+
+8
+00:01:16,815 --> 00:01:25,815
+Başka bir üçgende deneyelim: B açısı geniş. Yine BC’nin orta dikmesini çizip K’yi bulalım.
+
+9
+00:01:26,015 --> 00:01:32,253
+BK eşittir KC; AK yine kenarortay. Yöntem her üçgende işliyor.
+
+10
+00:01:34,253 --> 00:01:40,053
+Aklında kalsın: kenarın orta dikmesini çiz, kestiği noktayı karşı köşeyle birleştir.
+
+11
+00:01:41,475 --> 00:01:45,675
+İşte kenarortay!

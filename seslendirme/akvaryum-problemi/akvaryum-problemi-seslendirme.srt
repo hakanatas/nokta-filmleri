@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:14,525
+Üstü açık cam bir akvaryum: 60, 30 ve 40 santimetre. Kaç santimetrekare cam gerekir? Üstten 5 santimetre boş kalırsa kaç litre su alır?
+
+2
+00:00:16,525 --> 00:00:26,785
+Önce bileşenleri belirleyelim. Cam: taban ve dört yan yüz, üstü açık. Su: taban aynı, yükseklik 40 eksi 5, 35 santimetre.
+
+3
+00:00:28,785 --> 00:00:41,118
+Camı bir açınımla gösterelim: 5 dikdörtgen. Suyu tahmin edelim: 1800 çarpı 35 yaklaşık 2000 çarpı 30, yani 60 bin santimetreküp, yaklaşık 60 litre.
+
+4
+00:00:43,118 --> 00:00:58,416
+Taban 60 çarpı 30, 1800. Ön ve arka yüzler 2 çarpı 60 çarpı 40, 4800. Yan yüzler 2 çarpı 30 çarpı 40, 2400. Toplam 9000 santimetrekare.
+
+5
+00:01:00,416 --> 00:01:09,855
+Başka yolla kontrol edelim: kapalı kutunun yüzey alanı 10 800, kapak 1800. 10 800 eksi 1800, yine 9000.
+
+6
+00:01:11,855 --> 00:01:24,986
+Bütün kutunun hacmi 72 bin, ama su tam dolu değil; bu strateji yanlış. Su yüksekliği 35: 1800 çarpı 35, 63 bin santimetreküp, 63 litre. Tahminimizle uyumlu.
+
+7
+00:01:26,986 --> 00:01:34,786
+Başka yol: boş kısım 1800 çarpı 5, 9 litre. 72 eksi 9, yine 63 litre.
+
+8
+00:01:36,215 --> 00:01:47,162
+Aynı stratejileri yeni bir akvaryumda deneyelim: 50, 40, 30 santimetre. Cam 2000 artı 3000 artı 2400, 7400 santimetrekare.
+
+9
+00:01:49,162 --> 00:01:56,021
+Su 25 santimetre: 2000 çarpı 25, 50 litre. Stratejilerimiz her akvaryumda işliyor.
+
+10
+00:01:58,021 --> 00:02:03,821
+Aklında kalsın: bileşenleri belirle, çizimle göster, tahmin et, çöz ve kontrol et.
+
+11
+00:02:05,323 --> 00:02:09,523
+Çözümü başka bir yolla da dene!

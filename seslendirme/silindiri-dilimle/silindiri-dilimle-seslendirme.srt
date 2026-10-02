@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,200
+Bir silindirin hacmini nasıl bulabiliriz? Dairenin alanını nasıl bulduğumuzu hatırlayalım.
+
+2
+00:00:11,310 --> 00:00:19,710
+Daireyi 16 dilime bölüp dilimleri ters düz dizdik. Dizi bir paralelkenara benziyor.
+
+3
+00:00:19,910 --> 00:00:28,310
+Tabanı çevrenin yarısı, pi r; yüksekliği r. Alan pi r kare. Silindirin tabanı da bir daire.
+
+4
+00:00:29,310 --> 00:00:37,710
+Aynı yolu silindirde deneyelim: pasta gibi 16 dilime bölüp ters düz dizelim. Bir prizmaya benziyor.
+
+5
+00:00:38,502 --> 00:00:46,902
+Prizmanın taban alanı pi r kare, yüksekliği h. Hacim pi r kare çarpı h.
+
+6
+00:00:47,902 --> 00:00:56,102
+Başka bir bakış: silindiri madeni paralar gibi üst üste konmuş ince dairelerden oluşmuş düşünelim.
+
+7
+00:00:56,302 --> 00:01:04,902
+Her katın alanı pi r kare, h yüksekliğe kadar üst üste. Prizmadaki gibi: taban alanı çarpı yükseklik.
+
+8
+00:01:06,792 --> 00:01:15,464
+Yarıçapı 5, yüksekliği 10 santimetre olan bir bardak. Pi yaklaşık 3,14; taban alanı 78,5 santimetrekare.
+
+9
+00:01:17,464 --> 00:01:26,586
+78,5 çarpı 10, 785 santimetreküp. Bir santimetreküp bir mililitre: bardak 785 mililitre su alır.
+
+10
+00:01:28,586 --> 00:01:35,759
+Aklında kalsın: daireyi dilimleyip dizince pi r kare, silindiri dilimleyip dizince pi r kare h.
+
+11
+00:01:37,759 --> 00:01:41,959
+Silindirin hacmi: taban alanı çarpı yükseklik!

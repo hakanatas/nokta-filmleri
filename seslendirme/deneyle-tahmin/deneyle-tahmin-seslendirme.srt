@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:14,100
+Bir raptiyeyi masaya atalım. Ya ucu yukarı gelir ya da yan düşer. İki durum var ama eşit şanslı değiller; olasılığı hesaplayamayız. O halde deneyle tahmin edelim.
+
+2
+00:00:16,100 --> 00:00:25,100
+Raptiyeyi 10 kez atalım ve sonuçları yazalım: 6 kez ucu yukarı geldi, 4 kez yan düştü.
+
+3
+00:00:25,500 --> 00:00:36,529
+Bir olayın göreli sıklığı, o olayın gerçekleşme sayısının deneme sayısına bölümüdür: 6 bölü 10, 0,6. Bu, olasılık için ilk tahminimiz.
+
+4
+00:00:38,529 --> 00:00:48,529
+Deneme sayısını artıralım. Grafik her atıştan sonraki göreli sıklığı gösteriyor. İlk atışlarda çok iniş çıkış var.
+
+5
+00:00:48,929 --> 00:00:57,795
+Deneme arttıkça çizgi sakinleşiyor. 1000 atışta 618 kez ucu yukarı geldi: göreli sıklık yaklaşık 0,62’ye yerleşti.
+
+6
+00:00:59,795 --> 00:01:11,891
+Olasılığını bildiğimiz bir deneyle karşılaştıralım. Madeni parada yazı gelme olasılığı 1 bölü 2, yani 0,5. İlk 10 atışta göreli sıklık 0,7 çıktı.
+
+7
+00:01:13,891 --> 00:01:22,291
+1000 atışta ise 502 kez yazı geldi: 0,50. Deneme sayısı arttıkça göreli sıklık gerçek olasılığa yaklaşıyor.
+
+8
+00:01:23,981 --> 00:01:32,657
+Öyleyse göreli sıklığı olasılık tahmini olarak kullanabiliriz: raptiyenin ucunun yukarı gelme olasılığı yaklaşık 0,62.
+
+9
+00:01:34,657 --> 00:01:43,749
+Ama az denemeyle yapılan tahmin güvenilmez, çünkü sonuç çok değişebilir. Tahmin kesin bir değer değildir; deneme sayısı arttıkça daha güvenilir olur.
+
+10
+00:01:45,749 --> 00:01:53,076
+Aklında kalsın: göreli sıklık, olay sayısı bölü deneme sayısıdır. Deneme arttıkça olasılığa yaklaşır.
+
+11
+00:01:55,076 --> 00:01:59,276
+Hesaplayamadığın olasılığı deneyle tahmin et!

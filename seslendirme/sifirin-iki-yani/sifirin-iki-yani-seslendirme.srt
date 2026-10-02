@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,580
+Öğlen hava 3 derece. Gece sıcaklık sıfırın altına düştü: sıfırın 5 derece altı. Bunu eksi 5 derece diye yazarız.
+
+2
+00:00:14,580 --> 00:00:29,536
+Termometreyi yatıralım: bir sayı doğrusu. Sıfırın sağında doğal sayılar: 1, 2, 3. Sıfırın solunda negatif tam sayılar: eksi 1, eksi 2, eksi 3. Hepsi birlikte tam sayılar.
+
+3
+00:00:31,536 --> 00:00:40,736
+3 ile eksi 3, sıfırın iki yanında, sıfıra eşit uzaklıkta. Bunlara ters sayılar denir. Sıfır ne pozitif ne negatiftir.
+
+4
+00:00:41,928 --> 00:00:51,328
+Eksi 4 sıfırın 4 birim solunda, 4 sıfırın 4 birim sağında. İkisinin de sıfıra uzaklığı 4 birim.
+
+5
+00:00:51,728 --> 00:01:03,985
+Bir sayının sıfıra olan uzaklığına mutlak değer denir. Eksi 4’ün mutlak değeri 4, 4’ün mutlak değeri 4, sıfırın mutlak değeri 0. Uzaklık negatif olmaz.
+
+6
+00:01:05,985 --> 00:01:19,599
+Sayı doğrusuna yakından bakalım. Eksi 1 ile 0 arasında da sayılar var: eksi 1 bölü 2, eksi 3 bölü 4. a bölü b biçiminde, b sıfır olmamak üzere, yazılabilen sayılara rasyonel sayı denir.
+
+7
+00:01:21,599 --> 00:01:33,820
+5, 5 bölü 1 diye yazılabilir; eksi 3, eksi 3 bölü 1. Tam sayılar da rasyonel sayıdır. Eksi 3 bölü 4’ün mutlak değeri 3 bölü 4: sıfıra 3 bölü 4 birim uzakta.
+
+8
+00:01:35,820 --> 00:01:49,342
+Eksi 2 bölü 3’ü bulalım: 0 ile eksi 1 arasını 3 eş parçaya böl, sıfırdan 2 parça sola git. 7 bölü 4 için 1 ile 2 arasını 4 eş parçaya böl, 1’den 3 parça sağa git.
+
+9
+00:01:51,342 --> 00:01:57,342
+Her rasyonel sayı sayı doğrusunda bir noktaya karşılık gelir.
+
+10
+00:01:58,142 --> 00:02:08,598
+Aklında kalsın: tam sayılar sıfırın iki yanına dizilir. Mutlak değer, sıfıra olan uzaklıktır. a bölü b biçiminde yazılabilen sayılar rasyonel sayılardır.
+
+11
+00:02:10,598 --> 00:02:14,798
+Her rasyonel sayının sayı doğrusunda bir yeri var!

@@ -1,0 +1,39 @@
+1
+00:00:09,200 --> 00:00:13,570
+A network starts with data: many examples, drawn and collected by people.
+
+2
+00:00:15,570 --> 00:00:19,097
+Each example carries a label, the correct answer, written by a human.
+
+3
+00:00:27,670 --> 00:00:33,943
+A neuron adds up incoming signals; if the total passes a threshold, it fires.
+
+4
+00:00:35,943 --> 00:00:40,216
+Weights decide how strongly each signal counts. Thick lines count more.
+
+5
+00:00:43,643 --> 00:00:48,395
+The guess is compared with the label. The difference is the error, or loss.
+
+6
+00:00:50,395 --> 00:00:54,108
+The error flows backward, telling every weight how to change a little.
+
+7
+00:00:56,395 --> 00:01:00,003
+Each small change is a step downhill on the error landscape.
+
+8
+00:01:08,195 --> 00:01:12,873
+Early layers detect simple strokes; deeper layers combine them into parts.
+
+9
+00:01:23,995 --> 00:01:27,916
+It recognises a bird it has never seen. That is generalization.
+
+10
+00:01:34,795 --> 00:01:39,452
+Shown something unlike its data, it can be confidently wrong. People stay in the loop.

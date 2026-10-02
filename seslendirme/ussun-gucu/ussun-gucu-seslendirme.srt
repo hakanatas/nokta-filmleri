@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:17,968
+Bir kâğıdı her katlayışımızda kat sayısı ikiye katlanır: 1, 2, 4, 8, 16. Varsayalım: 5 kez katlarsak 2 üssü 5, 32 kat olur. Üslü ifade aynı çarpanın tekrarıdır.
+
+2
+00:00:19,968 --> 00:00:30,100
+2 üssü 3 çarpı 2 üssü 2: çarpanları yazalım. Üç tane 2 ve iki tane 2, toplam beş tane 2: 2 üssü 5.
+
+3
+00:00:32,100 --> 00:00:42,713
+Sayılarla sınayalım: 9 çarpı 81, 729; bu da 3 üssü 6. 100 çarpı 1000, 10 üssü 5. Tabanlar aynıysa çarpmada üsler toplanır.
+
+4
+00:00:44,713 --> 00:00:57,374
+2 üssü 5 bölü 2 üssü 2: ortak çarpanlar sadeleşir, 2 üssü 3 kalır. 2 üssü 3 bölü 2 üssü 3, 1; kurala göre 2 üssü 0. Öyleyse sıfırıncı kuvvet 1.
+
+5
+00:00:59,374 --> 00:01:11,242
+2 üssü 2 bölü 2 üssü 5, 1 bölü 2 üssü 3; kurala göre 2 üssü eksi 3. 10 üssü eksi 2, yüzde bir. Negatif üs sayıyı ters çevirir.
+
+6
+00:01:13,242 --> 00:01:22,909
+2 üssü 3’ün karesi: 2 üssü 3 çarpı 2 üssü 3, yani 2 üssü 6. 10 üssü 2’nin küpü, 10 üssü 6, bir milyon.
+
+7
+00:01:24,909 --> 00:01:33,709
+Kuvvetin kuvvetinde üsler çarpılır. 2 çarpı 5’in küpü, 2 üssü 3 çarpı 5 üssü 3, 8 çarpı 125, 1000.
+
+8
+00:01:35,657 --> 00:01:44,942
+2 üssü 10, 1024; yaklaşık bin. 2 üssü 20, bin çarpı bin: 20 kez katlanabilen bir kâğıt yaklaşık bir milyon kat olurdu!
+
+9
+00:01:46,942 --> 00:01:57,162
+Kurallar hesapları kısaltır: 5 üssü 3 çarpı 2 üssü 3, 10 üssü 3. Önermeleri hem sözle hem sembolle söyleyebiliriz.
+
+10
+00:01:59,162 --> 00:02:05,882
+Aklında kalsın: tabanlar aynıysa çarpmada üsler toplanır, bölmede çıkarılır; kuvvetin kuvvetinde çarpılır.
+
+11
+00:02:07,882 --> 00:02:12,082
+Sıfırıncı kuvvet 1, negatif üs ters çevirir!

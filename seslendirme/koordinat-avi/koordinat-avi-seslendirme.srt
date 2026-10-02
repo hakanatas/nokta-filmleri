@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,205
+Bir parkta çeşme, kafe, kütüphane ve salıncak var. Bir yeri tarif etmek için bir başlangıç noktası ve yön lazım.
+
+2
+00:00:14,205 --> 00:00:26,187
+İki dik sayı doğrusu çizelim: yatay x ekseni, dikey y ekseni. Kesiştikleri nokta başlangıç noktası, O. A noktasına gitmek için 3 sağa, 2 yukarı: A(3, 2).
+
+3
+00:00:28,187 --> 00:00:35,987
+Parantezdeki ilk sayı apsis, yani x; ikinci sayı ordinat, yani y. Her noktanın bir sıralı ikilisi var.
+
+4
+00:00:37,608 --> 00:00:45,250
+Önce 2 sağa, sonra 3 yukarı gidersek B(2, 3) noktasına varırız. A ile B farklı: sıra önemli.
+
+5
+00:00:47,250 --> 00:00:58,269
+Eksenler düzlemi dört bölgeye ayırır. Birinci bölgede iki koordinat da pozitif, ikincide apsis negatif, üçüncüde ikisi de negatif, dördüncüde ordinat negatif.
+
+6
+00:01:00,269 --> 00:01:11,269
+C(4, 0) x ekseni üzerinde: ordinatı 0. D(0, eksi 3) y ekseni üzerinde: apsisi 0. Orijinde ikisi de 0.
+
+7
+00:01:13,059 --> 00:01:18,859
+Bir koordinatı 0 olan nokta eksen üzerindedir; hiçbir bölgeye ait değildir.
+
+8
+00:01:19,859 --> 00:01:27,874
+Parktaki yerlerin koordinatları: çeşme eksi 4, 3; kafe 5, eksi 2. Kafeden 4 sola ve 4 yukarı gidelim.
+
+9
+00:01:29,874 --> 00:01:37,327
+5 eksi 4, 1; eksi 2 artı 4, 2. Buluşma noktası (1, 2).
+
+10
+00:01:39,327 --> 00:01:45,658
+Aklında kalsın: dik koordinat sisteminde her nokta bir sıralı ikilidir; önce apsis, sonra ordinat.
+
+11
+00:01:47,658 --> 00:01:51,858
+Her nokta bir sıralı ikili!

@@ -1,0 +1,51 @@
+1
+00:00:04,400 --> 00:00:12,601
+Aynı çanta 80 TL. Mağaza A yüzde 25 indirim yapıyor, mağaza B fiyatın dörtte üçünü istiyor. Hangisi daha ucuz?
+
+2
+00:00:14,601 --> 00:00:27,375
+Önce verilenleri ve istenenleri ayıralım. Verilen: 80 TL, yüzde 25 indirim, fiyatın dörtte üçü. İstenen: hangisi daha ucuz. Bir tahminde bulunalım: belki ikisi aynıdır?
+
+3
+00:00:29,375 --> 00:00:40,496
+Şekille gösterelim. 80 TL’yi 4 eşit parçaya bölelim; her parça 20 TL. Yüzde 25, dörtte bir demek: A’da bir parça indirim, ödenen 60 TL.
+
+4
+00:00:42,496 --> 00:00:49,605
+B’de fiyatın dörtte üçünü ödüyoruz: 4 parçanın 3’ü, yine 60 TL. Şekle göre ikisi aynı.
+
+5
+00:00:51,605 --> 00:01:00,721
+İşlemle çözelim. 80’in yüzde 25’i 20; 80 eksi 20, 60 TL. B’de 80 çarpı dörtte üç, 60 TL.
+
+6
+00:01:02,721 --> 00:01:11,480
+Kontrol ettik, tahminimiz doğru: ikisi de 60 TL. Çünkü yüzde 25 indirim, fiyatın dörtte birini çıkarmak; bu da dörtte üçünü ödemek demek.
+
+7
+00:01:13,480 --> 00:01:24,921
+Aynı sayıyı üç şekilde yazabiliriz: dörtte bir, sıfır virgül yirmi beş, yüzde yirmi beş. Dörtte üç de sıfır virgül yetmiş beş, yani yüzde yetmiş beş: 100 karenin 75’i.
+
+8
+00:01:26,921 --> 00:01:35,875
+Yüzde 25 indirimde fiyatın yüzde 75’ini ödersin. Kısa yol: 80 çarpı 0,75, tek işlemde 60 TL.
+
+9
+00:01:37,875 --> 00:01:45,334
+Bir genelleme deneyelim: iki kez yüzde 25 indirim, yüzde 50 indirim eder mi? O zaman fiyat 40 TL olurdu.
+
+10
+00:01:47,334 --> 00:01:58,995
+Kontrol edelim. İlk indirimden sonra fiyat 60 TL. İkinci indirim 60 TL’nin yüzde 25’i, yani 15 TL. Fiyat 45 TL oluyor, 40 değil. Genelleme geçersiz.
+
+11
+00:02:00,995 --> 00:02:14,985
+Stratejimizi düzeltelim: her indirimi o anki fiyata uygularız. 0,75 çarpı 0,75, 0,5625; fiyatın yüzde 56,25’ini ödersin.
+
+12
+00:02:16,985 --> 00:02:28,267
+Aklında kalsın: verilenleri ve istenenleri ayır, şekil ya da tabloyla göster, tahmin et, çöz ve kontrol et. Kısa yolları ve genellemeleri de mutlaka sına.
+
+13
+00:02:30,267 --> 00:02:34,467
+Yüzde 25 indirim, fiyatı 0,75 ile çarpmaktır.

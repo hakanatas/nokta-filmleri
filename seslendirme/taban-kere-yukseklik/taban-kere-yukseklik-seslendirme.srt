@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,962
+Bu kutunun hacmi ne kadar? Ölçmek için bir ölçüt seçelim: ayrıtı 1 santimetre olan birim küp. Hacmi 1 santimetreküp.
+
+2
+00:00:14,962 --> 00:00:24,962
+Kutuyu birim küplerle dolduralım ve tek tek sayalım. Kutuya 60 birim küp sığdı.
+
+3
+00:00:25,162 --> 00:00:31,962
+Kutunun hacmi 60 santimetreküp. Ama tek tek saymak uzun sürdü. Daha hızlı sayabilir miyiz?
+
+4
+00:00:33,394 --> 00:00:42,994
+Önce tabandaki katı dolduralım: 5 sıra, 3 sıra, 5 çarpı 3, 15 küp. Üst üste 4 kat var.
+
+5
+00:00:43,310 --> 00:00:50,510
+4 çarpı 15, 60. Aynı sonuç, çok daha hızlı. 15 taban alanı, 4 yükseklik.
+
+6
+00:00:51,997 --> 00:01:00,997
+Başka bir yol: önden dilimler. Her dilimde 5 çarpı 4, 20 küp. 3 dilim var: 3 çarpı 20, 60.
+
+7
+00:01:02,558 --> 00:01:11,089
+Ayrıtlar 5, 3 ve 4 santimetre. Küp sayısı ayrıt uzunluklarının çarpımına eşit: 5 çarpı 3 çarpı 4, 60 santimetreküp.
+
+8
+00:01:13,089 --> 00:01:22,871
+Yeni bir kutu: 6, 2 ve 3 santimetre. Taban alanı 6 çarpı 2, 12 santimetrekare. Yükseklik 3 santimetre.
+
+9
+00:01:24,871 --> 00:01:31,714
+Taban alanı kadar küp, yükseklik kadar kat. Hacim 12 çarpı 3, 36 santimetreküp.
+
+10
+00:01:33,714 --> 00:01:39,514
+Aklında kalsın: hacmi birim küplerle ölçeriz ve onları kat kat sayabiliriz.
+
+11
+00:01:40,579 --> 00:01:44,779
+Dikdörtgenler prizmasının hacmi, taban alanı ile yüksekliğin çarpımıdır!

@@ -1,0 +1,55 @@
+1
+00:00:03,600 --> 00:00:12,804
+Nokta 6’ya 4’lük bir dikdörtgen çizdi. Kehribar ip şeklin etrafını, yani çevresini gösteriyor. Birim kareler de içini, yani alanını.
+
+2
+00:00:14,804 --> 00:00:23,642
+Çevresi 6 artı 4 artı 6 artı 4, yani 20 santimetre. Alanı 6 çarpı 4, yani 24 santimetrekare.
+
+3
+00:00:25,642 --> 00:00:32,042
+Tahmin edelim: aynı 20 santimetrelik iple başka dikdörtgenler yapsak alan da hep 24 mü olur?
+
+4
+00:00:33,842 --> 00:00:41,242
+İpi kaydıralım: 9’a 1, 8’e 2, 7’ye 3… Çevre hep 20 santimetre kalıyor.
+
+5
+00:00:41,642 --> 00:00:52,318
+Ama alanlara bakın: 9, 16, 21, 24 ve 25 santimetrekare. Alan değişiyor. En büyük alan, kenarları eşit olan karede.
+
+6
+00:00:54,318 --> 00:00:59,318
+Demek ki çevreleri aynı olan dikdörtgenlerin alanları farklı olabilir.
+
+7
+00:01:00,318 --> 00:01:09,018
+Şimdi tersini deneyelim. Elimizde 12 birim kare var. Bunlarla 12’ye 1’lik bir dikdörtgen yaptık: çevresi 26 santimetre.
+
+8
+00:01:11,018 --> 00:01:19,000
+Aynı kareleri yeniden dizelim: 6’ya 2, sonra 4’e 3. Kare sayısı değişmediği için alan hep 12 santimetrekare.
+
+9
+00:01:21,000 --> 00:01:26,400
+Ama çevre değişiyor: 26, 16 ve 14 santimetre.
+
+10
+00:01:27,458 --> 00:01:31,858
+Demek ki alanları aynı olan dikdörtgenlerin çevreleri farklı olabilir.
+
+11
+00:01:33,648 --> 00:01:38,848
+Yan yana görelim: 9’a 1 ile 5’e 5’in çevresi aynı, alanları farklı.
+
+12
+00:01:40,321 --> 00:01:45,521
+12’ye 1 ile 4’e 3’ün alanı aynı, çevreleri farklı.
+
+13
+00:01:46,521 --> 00:01:52,354
+Çevre ve alan iki farklı ölçüdür. Çevre santimetreyle, alan santimetrekareyle ölçülür.
+
+14
+00:01:54,354 --> 00:02:02,296
+Bir dikdörtgenin sadece çevresini bilmek alanını söylemez; sadece alanını bilmek de çevresini söylemez. Kenarlarına bakmak gerekir.

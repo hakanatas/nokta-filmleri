@@ -1,0 +1,63 @@
+1
+00:00:04,400 --> 00:00:14,395
+4 356 sayısı 2, 3, 4, 5, 6, 9 ve 10’dan hangilerine tam bölünür? Bölme yapmadan anlayabilir miyiz?
+
+2
+00:00:16,395 --> 00:00:28,046
+10’un, 5’in ve 2’nin katlarını yazalım. Son basamaklarda bir örüntü görüyor musunuz? 10’un katları 0 ile, 5’in katları 0 ya da 5 ile, 2’nin katları çift rakamla biter.
+
+3
+00:00:30,046 --> 00:00:40,303
+4 356’yı 4 350 artı 6 diye ayıralım. 4 350, 10’un katı; 2’ye de 5’e de bölünür. Geriye yalnızca birler basamağı kalır.
+
+4
+00:00:42,303 --> 00:00:49,939
+Birler basamağı 6, çift bir rakam. Sayı 2’ye bölünür; ama 0 ya da 5 olmadığı için 5’e ve 10’a bölünmez.
+
+5
+00:00:51,939 --> 00:01:04,374
+Bir varsayım deneyelim: son basamak 4’e bölünüyorsa sayı da 4’e bölünür mü? 14 ile sınayalım: 14’ün son basamağı 4, ama 14, 4’e tam bölünmez. Varsayım tutmadı.
+
+6
+00:01:06,374 --> 00:01:21,750
+100, 4 çarpı 25. Yüzler ve daha büyük basamaklar hep 4’e bölünür. 4 356 = 4 300 + 56; karar 56’da. 56 = 4 × 14.
+
+7
+00:01:23,750 --> 00:01:30,910
+Son iki basamağı 4’ün katı olan sayı 4’e tam bölünür. 4 356, 4’e bölünür.
+
+8
+00:01:32,910 --> 00:01:41,357
+9’un katlarında rakamları toplayalım: 1 artı 8, 2 artı 7, 3 artı 6… Hepsi 9. İlginç bir örüntü!
+
+9
+00:01:43,357 --> 00:01:51,572
+Nedeni şu: 10, 9’un katından 1 fazla; 100 ve 1000 de öyle. Her basamaktan 9’a bölünmeyen kısım rakamın kendisi olur.
+
+10
+00:01:53,572 --> 00:02:00,331
+4 356’nın rakamlarını toplayalım: 18. 18 hem 9’un hem 3’ün katı.
+
+11
+00:02:02,331 --> 00:02:12,634
+Önermemiz: rakamları toplamı 3’ün katı olan sayı 3’e, 9’un katı olan sayı 9’a tam bölünür. 4 356 ikisine de bölünür.
+
+12
+00:02:14,634 --> 00:02:22,188
+6, 2 çarpı 3. 4 356 hem 2’ye hem 3’e bölündüğü için 6’ya da bölünür.
+
+13
+00:02:24,188 --> 00:02:35,115
+Kurallar ne zaman işe yarar? 4 356 kalem 9 kutuya eşit dağılır mı? Rakamlar toplamı 18, demek ki evet: her kutuya 484 kalem.
+
+14
+00:02:37,115 --> 00:02:43,371
+Her sayı için böyle kısa bir kural yok. 7’ye bölünüp bölünmediğini anlamak için bölmeyi yapmak daha kolay.
+
+15
+00:02:45,371 --> 00:02:56,400
+Aklında kalsın: 2, 5 ve 10 için son basamağa, 4 için son iki basamağa, 3 ve 9 için rakamlar toplamına bak. 6 için 2 ve 3 kuralı birlikte.
+
+16
+00:02:58,400 --> 00:03:02,600
+Artık birçok sayıda bölme yapmadan karar verebilirsin!

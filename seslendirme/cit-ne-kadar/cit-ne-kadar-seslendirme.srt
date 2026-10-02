@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,510
+Dikdörtgen bir bahçenin kısa kenarı x metre, uzun kenarı x artı 3 metre. Çevresine çit çekilecek. Kaç metre tel gerekir?
+
+2
+00:00:14,510 --> 00:00:24,854
+Dört kenarı toplayalım. Cebir karolarıyla gösterelim: x çubukları ve birim kareler. Değişme ve birleşme özellikleriyle x’leri bir araya, sayıları bir araya toplarız.
+
+3
+00:00:26,854 --> 00:00:33,654
+Dört x ve altı birim: çevre 4x artı 6 metre.
+
+4
+00:00:34,454 --> 00:00:47,380
+Aynı bahçeden iki tane olursa çit 2 katına çıkar. Dağılma özelliği: 2 hem 4x’i hem 6’yı çarpar, 8x artı 12. x 5 iken ikisi de 52 verir: denk ifadeler.
+
+5
+00:00:49,380 --> 00:01:03,885
+Çitin yarısı: 1 bölü 2 ile çarpalım. 1 bölü 2 çarpı 4x, 2x; 1 bölü 2 çarpı 6, 3. Yarım çit 2x artı 3. Denk ifadeler her x için aynı sonucu verir.
+
+6
+00:01:05,885 --> 00:01:24,429
+Kapı için 1,5 metre boşluk bırakılırsa 4x artı 6 eksi 1,5, yani 4x artı 4,5. Ece’nin çiti 6x artı 2, Can’ınki 4x artı 6 metre. Farkı bulurken parantezin önündeki eksi her terimin işaretini değiştirir.
+
+7
+00:01:26,429 --> 00:01:33,923
+6x eksi 4x, 2x; 2 eksi 6, eksi 4. Fark 2x eksi 4 metre.
+
+8
+00:01:35,923 --> 00:01:48,119
+x yerine 1, 2, 3 koyalım. İlk üç ifade her seferinde aynı: 10, 14, 18. 10x ise x 1 iken 10 veriyor ama x 2 iken 20: tutmuyor.
+
+9
+00:01:50,119 --> 00:01:57,535
+Tek örnek yetmez: denk ifadeler her x için eşit olmalı. 4x artı 6 ile 10x denk değil.
+
+10
+00:01:59,535 --> 00:02:07,368
+Aklında kalsın: benzer terimleri topla; çarparken dağılma özelliğini kullan; çıkarırken eksi parantezdeki her terime dağılır.
+
+11
+00:02:09,368 --> 00:02:13,568
+Denk ifadeler her x için aynı değeri verir!

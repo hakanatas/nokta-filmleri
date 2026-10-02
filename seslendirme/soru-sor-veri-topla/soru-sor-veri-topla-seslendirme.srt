@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,675
+Nokta merak ediyor: sınıfımızdaki öğrenciler ne kadar kitap okuyor? Herkes aynı sayıda mı okuyor?
+
+2
+00:00:12,675 --> 00:00:24,739
+“Ali geçen hafta kaç kitap okudu?” sorusunun tek bir cevabı var; istatistiksel bir soru değil. “Sınıftakiler geçen hafta kaç kitap okudu?” sorusunun farklı cevapları olur; cevaplamak için veri gerekir.
+
+3
+00:00:26,739 --> 00:00:40,406
+Araştırma sorumuz: öğrenciler bir haftada kaç kitap okuyor? Planımız: 20 öğrenciye anket yapmak, “Geçen hafta kaç kitap okudun?” diye sormak. Cevaplar sayı olacağı için verimiz nicel ve kesikli.
+
+4
+00:00:42,406 --> 00:00:50,860
+Anketi yaptık, 20 cevap geldi: 1, 2, 0, 1, 3... Aynı cevapları bir araya toplayalım.
+
+5
+00:00:52,860 --> 00:01:02,260
+Her cevabı kaç kişinin verdiğini bir sıklık tablosuna yazdık. Sayıları karşılaştırmak istediğimiz için sütun grafiği uygun bir araç.
+
+6
+00:01:03,143 --> 00:01:12,343
+Grafiği çizelim. En çok verilen cevap 1 kitap, 7 kişi. Sınıf geçen hafta toplam 32 kitap okumuş.
+
+7
+00:01:12,743 --> 00:01:22,357
+2, 3 ve 4 kitap okuyanları toplayalım: 6 artı 3 artı 1, 10 kişi. 20 öğrencinin yarısı en az 2 kitap okumuş.
+
+8
+00:01:24,357 --> 00:01:32,556
+Sonuç: öğrencilerin çoğu haftada 1 ya da 2 kitap okuyor. Gerekçemiz: 20 öğrenciden 13’ü bu cevabı verdi.
+
+9
+00:01:34,556 --> 00:01:44,059
+Sonuç sorumuza ne kadar cevap veriyor? Veriyi tek bir haftada topladık; o hafta sınav haftası olabilir. Planı yenileyelim: veriyi 4 hafta boyunca toplayalım.
+
+10
+00:01:46,059 --> 00:01:53,879
+Aklında kalsın: istatistiksel bir soru sor, plan yap, veri topla, uygun grafikle analiz et, sonucunu gerekçelendir.
+
+11
+00:01:55,879 --> 00:02:00,079
+Ve sonunda süreci değerlendir: gerekirse yeniden planla!

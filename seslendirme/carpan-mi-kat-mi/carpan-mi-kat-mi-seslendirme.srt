@@ -1,0 +1,67 @@
+1
+00:00:04,400 --> 00:00:10,292
+Elimizde 12 nokta var. Bu noktaları sıra sıra dizerek kaç farklı dikdörtgen kurabiliriz?
+
+2
+00:00:12,292 --> 00:00:19,071
+Hepsini tek sıraya dizelim: 1 sıra, her sırada 12 nokta. 1 çarpı 12, 12 eder.
+
+3
+00:00:21,071 --> 00:00:25,721
+İki sıraya dizersek her sırada 6 nokta olur: 2 çarpı 6, 12.
+
+4
+00:00:27,721 --> 00:00:35,898
+Üç sıraya dizersek her sırada 4 nokta olur: 3 çarpı 4, 12. Kenar uzunlukları 12’nin çarpanlarıdır.
+
+5
+00:00:37,899 --> 00:00:47,991
+Bir varsayımda bulunalım: 5 de çarpan olabilir mi? 5’erli dizince 2 nokta artıyor, dikdörtgen tamamlanmıyor. Demek ki 5, 12’nin çarpanı değil.
+
+6
+00:00:49,991 --> 00:00:58,720
+Başka dikdörtgen kurulamıyor. 12’nin çarpanları 1, 2, 3, 4, 6 ve 12.
+
+7
+00:01:00,720 --> 00:01:10,830
+Şimdi sayı doğrusunda sıfırdan başlayıp dörder dörder atlayalım: 4, 8, 12, 16, 20, 24.
+
+8
+00:01:12,830 --> 00:01:18,589
+Bu sayılar 4’ün katlarıdır. Her biri 4’ün bir doğal sayıyla çarpımıdır.
+
+9
+00:01:20,589 --> 00:01:30,661
+12 hem burada hem de orada var. 12, 4’ün katıdır; 4 de 12’nin çarpanıdır. Çarpan ve kat aynı çarpmanın iki yüzü.
+
+10
+00:01:32,661 --> 00:01:42,749
+7 noktayla deneyelim. 2’şerli, 3’erli dizince hep 1 nokta artıyor. Yalnızca tek sıra: 7’nin çarpanları 1 ve 7.
+
+11
+00:01:44,749 --> 00:01:51,571
+9 noktayla tek sıra da olur, 3’e 3’lük bir kare de. 9’un çarpanları 1, 3 ve 9.
+
+12
+00:01:53,571 --> 00:02:02,843
+Bir önerme söyleyelim: 1 ve sayının kendisi her zaman o sayının çarpanıdır. Gerekçesi: her sayı tek sıra dizilebilir, 1 çarpı sayı.
+
+13
+00:02:04,843 --> 00:02:11,043
+Sayı doğrusunda 12’nin çarpanlarına bakalım: hepsi 12’ye kadar. Çarpanlar sınırlıdır.
+
+14
+00:02:12,694 --> 00:02:18,904
+4’ün katlarıysa sonsuza kadar devam eder; ne kadar atlarsak atlayalım bir sonraki kat vardır.
+
+15
+00:02:20,904 --> 00:02:31,407
+Aynı gerekçe 7 için de geçerli mi? 7’nin çarpanları 1 ve 7, katları 7, 14, 21 diye sonsuza gider. Evet, geçerli.
+
+16
+00:02:33,407 --> 00:02:42,542
+Aklında kalsın: 3 çarpı 4, 12 ise 3 ve 4, 12’nin çarpanlarıdır; 12 de 3’ün ve 4’ün katıdır.
+
+17
+00:02:44,542 --> 00:02:48,742
+Bir sayının çarpanları sınırlıdır, katları ise sonsuzdur.

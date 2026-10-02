@@ -1,0 +1,55 @@
+1
+00:00:03,600 --> 00:00:12,308
+Nokta’nın bir çarkı var. Çarkın büyük bölümü amber, küçük bir bölümü siyah. Çark döndüğünde hangi renkte durması daha olası?
+
+2
+00:00:14,308 --> 00:00:19,508
+Olayları iki gruba ayıracağız: az olası ve çok olası.
+
+3
+00:00:19,908 --> 00:00:27,708
+Çarkı sekiz kez çevirelim. Altı kez amber, iki kez siyah geldi.
+
+4
+00:00:28,108 --> 00:00:37,635
+Neden? Çünkü amber bölge, çarkın dörtte üçü kadar; siyah bölge ise dörtte biri. Amberde durmak çok olası, siyahta durmak az olası.
+
+5
+00:00:39,635 --> 00:00:44,435
+Bu torbada altı top var. Beşi amber, biri siyah.
+
+6
+00:00:45,010 --> 00:00:50,010
+Bakmadan bir top çekersek siyah gelmesi az olası; çünkü siyah top tek.
+
+7
+00:00:51,586 --> 00:00:57,786
+Amber gelmesi çok olası; çünkü altı topun beşi amber.
+
+8
+00:00:58,986 --> 00:01:03,331
+Bir zar atalım. 6 gelmesi mi daha olası, 6’dan küçük bir sayı gelmesi mi?
+
+9
+00:01:05,331 --> 00:01:13,589
+6 gelmesi tek bir durum. 6’dan küçük gelmesi ise 1, 2, 3, 4 ve 5; yani beş durum.
+
+10
+00:01:15,589 --> 00:01:23,589
+Beş durum, bir durumdan fazla. Zarda 6’dan küçük gelmesi çok olası, 6 gelmesi az olası.
+
+11
+00:01:24,789 --> 00:01:30,821
+Bazen bildiklerimize göre karar veririz. Kar yağması Ocakta mı daha olası, Temmuzda mı?
+
+12
+00:01:32,821 --> 00:01:40,824
+Ocak kış ayı, hava soğuk; Temmuz yaz ayı, hava sıcak. Ocakta kar yağması çok olası, Temmuzda az olası.
+
+13
+00:01:42,824 --> 00:01:48,424
+Bir olayın payı daha büyükse ya da daha çok durumu varsa, o olay daha çok olasıdır.
+
+14
+00:01:49,686 --> 00:01:54,086
+Bir olayın az mı çok mu olası olduğunu söylerken nedenini de söyleyelim!

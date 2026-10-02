@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:16,005
+Köşegenleri 6 ve 4 olan bir eşkenar dörtgen; tabanları 6 ve 2, yüksekliği 4 olan bir yamuk. Tahmin edelim: köşegenleri mi çarpmalı? Tabanların toplamını yükseklikle mi?
+
+2
+00:00:18,005 --> 00:00:29,820
+Eşkenar dörtgeni bir dikdörtgenle tamamlayalım. Dıştaki dört üçgen içtekilere eş. Dikdörtgen 6 çarpı 4, 24; eşkenar dörtgen bunun yarısı, 12.
+
+3
+00:00:31,820 --> 00:00:40,013
+Uzun köşegen boyunca iki üçgene parçalayalım: her biri 6 çarpı 2 bölü 2, 6. Toplam 12.
+
+4
+00:00:42,013 --> 00:00:49,413
+Yamuğu bir köşegenle iki üçgene ayıralım: 12 ve 4. Yamuğun alanı 16.
+
+5
+00:00:50,483 --> 00:01:03,090
+Yamuğun bir eşini çevirip ekleyelim: paralelkenar olur. Tabanı 6 artı 2, yüksekliği 4: 32. Bir yamuk bunun yarısı, 16. Tahmin ettiğimiz 32 değil, yarısıymış.
+
+6
+00:01:05,090 --> 00:01:13,090
+Eşkenar dörtgenin alanı, köşegenlerinin çarpımının yarısıdır: 6 çarpı 4 bölü 2, 12.
+
+7
+00:01:13,782 --> 00:01:22,582
+Yamuğun alanı, tabanlarının toplamının yarısı çarpı yüksekliktir: 6 artı 2 bölü 2 çarpı 4, 16.
+
+8
+00:01:23,582 --> 00:01:33,746
+Yamuğun üst tabanını küçültelim. c sıfır olunca şekil üçgen olur: 6 artı 0 bölü 2 çarpı 4, 12. Üçgenin alanıyla aynı.
+
+9
+00:01:35,746 --> 00:01:45,056
+Üst tabanı 6 yapalım: paralelkenar. 6 artı 6 bölü 2 çarpı 4, 24. Bağıntı başka şekillerin alanını da veriyor.
+
+10
+00:01:47,056 --> 00:01:52,856
+Aklında kalsın: yeni bir şekli tamamlayarak ya da parçalayarak bildiğin şekillere dönüştür.
+
+11
+00:01:54,305 --> 00:02:00,454
+Eşkenar dörtgen: e çarpı f bölü 2. Yamuk: a artı c bölü 2 çarpı h!

@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,635
+Bu çubuk 1 metre. Kenarları 1 metre olan bir kare çizelim: onun alanı 1 metrekare, kısaca 1 m².
+
+2
+00:00:14,635 --> 00:00:24,083
+Önce uzunluk birimlerini gözlemleyelim. 1 metre, 10 eşit parçaya ayrılır: her parça 1 desimetre. 1 m = 10 dm.
+
+3
+00:00:26,083 --> 00:00:35,083
+1 desimetre 10 santimetre, 1 santimetre 10 milimetre. Uzunluk birimlerinde her basamak bir öncekinin 10 katı.
+
+4
+00:00:36,059 --> 00:00:44,859
+Metrekarenin kenarları 10 desimetre. İçini 1 desimetrekarelik karelere bölelim: her sırada 10 kare var, 10 da sıra var.
+
+5
+00:00:45,646 --> 00:00:54,519
+10 sıra çarpı 10 kare, 100 kare. Demek ki 1 metrekare 100 desimetrekaredir. Kenar 10 kat, alan 100 kat!
+
+6
+00:00:56,519 --> 00:01:08,028
+Aynı akıl yürütmeyi bir basamak aşağıda deneyelim. 1 desimetre 10 santimetre; öyleyse 1 desimetrekarenin içine 10 çarpı 10, yani 100 santimetrekare sığar.
+
+7
+00:01:10,028 --> 00:01:23,037
+İki merdiveni yan yana koyalım. Uzunluk birimlerinde her basamak 10 kat, alan birimlerinde her basamak 10 çarpı 10, 100 kat. 1 cm² de 100 mm²dir.
+
+8
+00:01:25,037 --> 00:01:34,915
+Kullanalım: 3 metrekare, 3 çarpı 100, 300 desimetrekare. 2500 santimetrekare ise 2500 bölü 100, 25 desimetrekare.
+
+9
+00:01:36,915 --> 00:01:44,934
+Aynı fikir büyük birimlerde de çalışır: 1 kilometre 1000 metre ise 1 kilometrekare 1000 çarpı 1000, yani 1 milyon metrekaredir.
+
+10
+00:01:46,934 --> 00:01:55,578
+Aklında kalsın: uzunluk birimleri 10’ar 10’ar, alan birimleri 100’er 100’er büyür. Çünkü alan, kenar çarpı kenardır.
+
+11
+00:01:57,578 --> 00:02:01,778
+Kenar 10 kat olunca alan 100 kat olur!

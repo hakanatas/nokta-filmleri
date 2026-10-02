@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,735
+Okula iki otobüs hattıyla gidebiliriz. Hangisini seçmeliyiz? Karar vermek için veri gerekir.
+
+2
+00:00:12,735 --> 00:00:21,135
+Araştırma sorumuz: hangi hat daha güvenilir? Plan: 10 gün boyunca iki hattın kaç dakika geciktiğini kaydedelim.
+
+3
+00:00:21,771 --> 00:00:30,171
+Veriler dakika cinsinden, nicel ve kesikli. Tablomuz hazır.
+
+4
+00:00:31,171 --> 00:00:39,571
+Günden güne değişimi çizgi grafiği gösterir. 2. hat bir iniyor bir çıkıyor.
+
+5
+00:00:39,771 --> 00:00:48,171
+Dağılımı nokta grafiği gösterir. 1. hat 2 ile 4 dakika arasında toplanmış, 2. hat 0 ile 7 arasında dağılmış.
+
+6
+00:00:49,527 --> 00:00:57,727
+İki hattın da ortalaması 3 dakika. Ortanca 3 ve 2. Açıklık 2 ve 7.
+
+7
+00:00:58,685 --> 00:01:07,852
+Her değerin ortalamaya uzaklığının ortalaması: 1. hatta 0,6, 2. hatta 2,4 dakika. Yayılımı bu ölçer.
+
+8
+00:01:09,852 --> 00:01:17,052
+Aynı ortalama, daha küçük sapma: 1. hat daha güvenilir. Kararımızı veriyle gerekçelendirdik.
+
+9
+00:01:18,263 --> 00:01:25,863
+Ama 10 gün az olabilir. Soruyu daha iyi yanıtlamak için bir ay boyunca, farklı saatlerde ölçebiliriz.
+
+10
+00:01:27,073 --> 00:01:32,873
+Aklında kalsın: soru sor, planla, veri topla, grafikle göster ve özetle.
+
+11
+00:01:34,841 --> 00:01:39,041
+Ortalama yetmez, yayılıma da bak: veriye dayalı karar!

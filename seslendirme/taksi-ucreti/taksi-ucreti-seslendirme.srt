@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,424
+Bir taksinin açılış ücreti 20 TL, her kilometresi 5 TL. Ücret gidilen yola bağlı. Bu ilişkiyi nasıl gösterelim?
+
+2
+00:00:14,424 --> 00:00:25,656
+Tabloda her kilometrede ücret 5 TL artıyor: 20, 25, 30, 35, 40. Bu sayı ikililerini grafiğe koyalım: noktalar bir doğru üzerinde.
+
+3
+00:00:27,656 --> 00:00:36,319
+Cebirsel ifade: y eşittir 5x artı 20. Tablo, grafik ve cebirsel ifade aynı doğrusal ilişkiyi gösteriyor.
+
+4
+00:00:38,319 --> 00:00:51,910
+12 kilometre kaç TL? Cebirsel ifade en hızlısı: 5 çarpı 12 artı 20, 80 TL. 60 TL ile kaç kilometre gidilir? Grafikten okuyalım: 8 kilometre.
+
+5
+00:00:53,910 --> 00:01:01,027
+Cebirle doğrulayalım: 5 çarpı 8 artı 20, 60. İlk birkaç kilometre için tablo yeter.
+
+6
+00:01:03,027 --> 00:01:14,499
+B taksisinin açılışı 10 TL, kilometresi 7 TL: y eşittir 7x artı 10. Doğrular 5 kilometrede kesişiyor: ikisi de 45 TL.
+
+7
+00:01:16,499 --> 00:01:24,299
+5 kilometreden kısa yolda B, uzun yolda A daha ucuz. Grafik bu farkı bir bakışta gösterdi.
+
+8
+00:01:25,299 --> 00:01:34,299
+Tablo birkaç değeri hızlıca gösterir. Grafik eğilimi ve karşılaştırmayı gösterir. Cebirsel ifade her değer için kesin sonuç verir.
+
+9
+00:01:35,352 --> 00:01:41,152
+Aynı durum, üç temsil, farklı kolaylıklar: soruya göre en ekonomik ve kullanışlı olanı seç.
+
+10
+00:01:42,887 --> 00:01:49,355
+Aklında kalsın: sabit artış doğrusal bir ilişkidir; tablo, grafik ve cebirsel ifadeyle gösterilebilir.
+
+11
+00:01:51,355 --> 00:01:55,555
+Soruya en uygun temsili seç!

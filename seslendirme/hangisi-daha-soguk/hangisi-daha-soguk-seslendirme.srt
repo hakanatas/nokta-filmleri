@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:18,487
+Bir kış sabahı: Kars eksi 7,5, Erzurum eksi 29 bölü 4, Ağrı eksi 8, Van eksi 3 bölü 2, İzmir 2,5 derece. Hangi şehir daha soğuk? Sayılar farklı gösterimlerde.
+
+2
+00:00:20,487 --> 00:00:30,171
+Önce tam sayılardan başlayalım; tam sayılar paydası 1 olan rasyonel sayılardır. 8, 3’ten büyük. Peki eksi 8, eksi 3’ten büyük mü?
+
+3
+00:00:32,171 --> 00:00:44,969
+Hayır. Eksi 8, eksi 3’ün solunda. Sayı doğrusunda sağdaki sayı daha büyüktür: eksi 8, eksi 3’ten küçük. Sıfırın 8 derece altı daha soğuk.
+
+4
+00:00:46,969 --> 00:01:07,586
+Eksi 8 ile eksi 7 arasına yakından bakalım. Eksi 29 bölü 4, eksi 7,25. Ağrı eksi 8’de, Kars eksi 7,5’te, Erzurum eksi 7,25’te. Soldan sağa: eksi 8, eksi 7,5, eksi 29 bölü 4.
+
+5
+00:01:09,586 --> 00:01:22,846
+Eksi 7,5’in mutlak değeri 7,5; eksi 29 bölü 4’ün mutlak değeri 7,25. Negatif sayılarda mutlak değeri büyük olan daha küçüktür: Kars, Erzurum’dan daha soğuk.
+
+6
+00:01:24,846 --> 00:01:36,646
+Eksi 3 bölü 4 mü büyük, eksi 2 bölü 3 mü? Paydaları eşitleyelim: eksi 9 bölü 12 ve eksi 8 bölü 12. Eksi 9 bölü 12 daha solda.
+
+7
+00:01:38,646 --> 00:01:49,704
+Eksi 3 bölü 4, eksi 2 bölü 3’ten küçük. Her negatif sayı sıfırdan ve her pozitif sayıdan küçüktür: eksi 2 bölü 3, 1 bölü 3’ten küçük.
+
+8
+00:01:51,704 --> 00:02:05,525
+Beş şehri sayı doğrusuna yerleştirelim. Soldan sağa okuyunca küçükten büyüğe sıralarız: eksi 8, eksi 7,5, eksi 29 bölü 4, eksi 3 bölü 2, 2,5.
+
+9
+00:02:07,525 --> 00:02:14,519
+En soğuk şehir Ağrı, eksi 8 derece. En sıcak şehir İzmir, 2,5 derece.
+
+10
+00:02:16,519 --> 00:02:25,791
+Aklında kalsın: sayı doğrusunda sağdaki sayı büyüktür. Negatiflerde mutlak değeri büyük olan küçüktür. Kesirlerde paydaları eşitle.
+
+11
+00:02:27,791 --> 00:02:31,991
+Sıralamak için sayı doğrusuna yerleştir!

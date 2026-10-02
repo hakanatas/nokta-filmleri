@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,814
+Tanıdığımız sayılar: doğal sayılar, tam sayılar, rasyonel ve irrasyonel sayılar. Kümeler iç içe; hepsi birlikte gerçek sayılar.
+
+2
+00:00:14,814 --> 00:00:24,294
+Her doğal sayı bir tam sayıdır. Her tam sayı rasyoneldir: eksi 3, eksi 3 bölü 1. İrrasyoneller ise rasyonellerin dışında.
+
+3
+00:00:26,294 --> 00:00:33,694
+Rasyonel ve irrasyonel sayılar birlikte gerçek sayıları oluşturur.
+
+4
+00:00:34,694 --> 00:00:45,764
+Gerçek sayıları sayı doğrusuna yerleştirelim: eksi 2, eksi karekök 3, eksi yarım, 0,75, karekök 2, 5/3 ve pi.
+
+5
+00:00:47,764 --> 00:00:57,720
+Karekök 2 yaklaşık 1,41, pi yaklaşık 3,14: irrasyoneller de birer nokta. Sayı doğrusunun her noktası bir gerçek sayı.
+
+6
+00:00:59,720 --> 00:01:08,320
+1 ile 3 arası: köşeli parantezle yazılırsa 1 ve 3 dahil, normal parantezle yazılırsa dahil değil.
+
+7
+00:01:08,520 --> 00:01:17,704
+x büyük eşit 2: 2’den başlayıp sonsuza giden aralık. Eksi 1 ile 2 ve 1 ile 4 aralıklarının ortak kısmı 1 ile 2 arası.
+
+8
+00:01:19,704 --> 00:01:28,504
+Karekök 2, 1 ile 2 kapalı aralığında mı? Evet. Pi, 3 ile 4 açık aralığında mı? Evet.
+
+9
+00:01:28,704 --> 00:01:34,704
+Eksi yarım, 0 ile 1 aralığında değil: sıfırın solunda kalıyor.
+
+10
+00:01:35,504 --> 00:01:41,373
+Aklında kalsın: kümeler iç içe; rasyonel ve irrasyonel sayılar birlikte gerçek sayılar.
+
+11
+00:01:43,373 --> 00:01:47,573
+Sayı doğrusunda boşluk yok!

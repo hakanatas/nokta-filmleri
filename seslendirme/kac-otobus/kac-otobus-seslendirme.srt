@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,510
+Okul gezisine 347 öğrenci ve 23 öğretmen katılacak. Otobüsler 45 kişilik. Kaç otobüs kiralamalıyız?
+
+2
+00:00:14,510 --> 00:00:29,437
+Önce problemi anlayalım. Verilenler: 347 öğrenci, 23 öğretmen, 45 kişilik otobüs. İstenen: otobüs sayısı. Önce toplam kişiyi bulalım: 347 artı 23, 370 kişi.
+
+3
+00:00:31,437 --> 00:00:40,224
+Bir tahmin yapalım: yaklaşık 400 kişi, otobüsler yaklaşık 40 kişilik. 400 bölü 40, 10. Yaklaşık 10 otobüs gerekecek.
+
+4
+00:00:42,224 --> 00:00:53,424
+Şimdi bölelim: 370 bölü 45, 8; kalan 10. Otobüsleri dolduralım: 8 otobüs tam doldu, 10 kişi açıkta kaldı.
+
+5
+00:00:53,824 --> 00:01:00,055
+Açıkta kalan 10 kişiyi de götürmeliyiz, o yüzden bir otobüs daha: 9 otobüs. Tahminimize yakın.
+
+6
+00:01:02,055 --> 00:01:16,664
+Kontrol edelim: 8 çarpı 45, 360; 370’ten az, 8 otobüs yetmez. 9 çarpı 45, 405; 370’ten fazla, 9 otobüs yeter. Son otobüste 35 boş koltuk kalır.
+
+7
+00:01:18,664 --> 00:01:27,676
+Kısa bir yol: 10 otobüs 450 kişi alır; bir otobüs eksiği 450 eksi 45, 405. Zihinden kolayca hesaplanır.
+
+8
+00:01:29,676 --> 00:01:39,693
+Stratejiyi başka durumlarda deneyelim. 360 kişi olsaydı: 360 bölü 45, 8, kalan 0. Bu kez bir otobüs daha gerekmez.
+
+9
+00:01:41,693 --> 00:01:51,542
+250 kişi ve 30 kişilik minibüsler: 250 bölü 30, 8, kalan 10; 9 minibüs gerekir. Kural: kalan 0 değilse bölüme 1 ekleriz.
+
+10
+00:01:53,542 --> 00:01:59,459
+Aklında kalsın: verileni ve isteneni belirle, tahmin et, işlemi yap ve kontrol et.
+
+11
+00:02:01,459 --> 00:02:05,659
+Ve kalanı unutma: açıkta kimse kalmasın!

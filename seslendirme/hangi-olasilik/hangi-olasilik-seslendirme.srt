@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:11,091
+Sınıfımız kermeste stant açıyor. Üç karar vermemiz gerekiyor ve her biri için bir olasılık gerekiyor.
+
+2
+00:00:13,091 --> 00:00:21,491
+Zar oyununda iki zarın toplamı 7 gelirse ödül var. 36 çıktı eşit olasılıklı; 7 toplamını veren 6 çıktı var.
+
+3
+00:00:22,643 --> 00:00:31,043
+Olasılık 6 bölü 36, yani 1 bölü 6. 60 oyuncudan yaklaşık 10’u kazanır: 10 ödül hazırlayalım.
+
+4
+00:00:32,043 --> 00:00:41,148
+Raptiye ucu yukarı ya da yan yatık düşebilir, ama bu iki durum eşit olasılıklı değil. Sayamıyoruz, deneyelim: 50 atışta 30 kez ucu yukarı.
+
+5
+00:00:43,148 --> 00:00:51,548
+200 atışta 124 kez ucu yukarı: yaklaşık 0,62. Atış arttıkça sonuç kararlı. Oyun adil değil.
+
+6
+00:00:53,317 --> 00:01:01,517
+Takımımız finali kazanırsa atkı satarız. Eşit çıktı yok, deney de yapılamaz. Bilgi topluyoruz: sezon, rakip, sakatlık.
+
+7
+00:01:03,384 --> 00:01:13,144
+Ayşe yüzde 70, Can yüzde 50, Ece yüzde 60 diyor. Öznel olasılık kişiden kişiye değişir; gerekçeleri sorgulayıp ortak tahminde buluşuyoruz.
+
+8
+00:01:15,144 --> 00:01:22,344
+Eşit çıktılar varsa teorik, deney tekrarlanabiliyorsa deneysel, ikisi de yoksa bilgiye dayalı öznel olasılık.
+
+9
+00:01:23,905 --> 00:01:31,505
+10 ödül hazırlıyoruz, raptiye oyununun kuralını değiştiriyoruz, az sayıda atkı alıyoruz.
+
+10
+00:01:32,305 --> 00:01:38,105
+Aklında kalsın: duruma uygun olasılık yaklaşımını seç.
+
+11
+00:01:38,505 --> 00:01:42,705
+Uygun yaklaşım, doğru karar!

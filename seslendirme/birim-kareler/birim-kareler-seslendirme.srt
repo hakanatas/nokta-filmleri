@@ -1,0 +1,55 @@
+1
+00:00:03,600 --> 00:00:10,837
+Çevre, şeklin etrafıydı. Şimdi içine bakalım: bu dikdörtgenin içi ne kadar büyük? Buna alan diyoruz.
+
+2
+00:00:12,837 --> 00:00:19,082
+Alanı ölçmek için bir birim seçmeliyiz. Dairelerle kaplamayı deneyelim: aralarında boşluklar kalıyor.
+
+3
+00:00:21,082 --> 00:00:25,848
+Karelerle kaplarsak hiç boşluk kalmıyor. Bu yüzden alanı karelerle ölçeriz.
+
+4
+00:00:27,848 --> 00:00:35,998
+Kenarları 1 santimetre olan kareye birim kare denir. Alanı 1 santimetrekaredir, 1 cm² diye yazılır.
+
+5
+00:00:37,998 --> 00:00:44,998
+Dikdörtgeni birim karelerle kaplayalım ve sayalım: 1, 2, 3 … 15.
+
+6
+00:00:45,943 --> 00:00:54,949
+Dikdörtgeni 15 birim kare kapladı. Alanı 15 santimetrekaredir: A(ABCD) = 15 cm².
+
+7
+00:00:56,949 --> 00:01:04,376
+Daha büyük bir dikdörtgende kareleri tek tek saymak çok uzun sürer. Toplam birim kare sayısına nasıl daha hızlı ulaşabiliriz?
+
+8
+00:01:06,376 --> 00:01:11,776
+Kareleri sıra sıra yerleştirelim. Bir sırada 9 kare var ve 6 sıra var.
+
+9
+00:01:13,154 --> 00:01:20,786
+6 sıranın her birinde 9 kare var: 9 çarpı 6, 54 birim kare. Alanı 54 santimetrekare.
+
+10
+00:01:22,786 --> 00:01:31,077
+7 santimetrelik kenara 7 kare, 4 santimetrelik kenara 4 sıra sığıyor. 7 çarpı 4, 28 santimetrekare.
+
+11
+00:01:33,077 --> 00:01:40,428
+Buradan şu sonuca varıyoruz: dikdörtgenin alanı, iki ardışık kenar uzunluğunun çarpımıdır. Uzun kenar çarpı kısa kenar.
+
+12
+00:01:42,428 --> 00:01:48,867
+Sınıf, bahçe gibi büyük yerleri ölçerken kenarı 1 metre olan kareleri kullanırız: 1 metrekare, 1 m².
+
+13
+00:01:50,867 --> 00:01:57,667
+Sınıfımızın tabanı 5 metreye 4 metre olsun. Alanı 5 çarpı 4, 20 metrekare.
+
+14
+00:01:58,667 --> 00:02:06,044
+Unutma: alan birim karelerle ölçülür. Dikdörtgende birim kare sayısı, iki ardışık kenarın çarpımına eşittir.

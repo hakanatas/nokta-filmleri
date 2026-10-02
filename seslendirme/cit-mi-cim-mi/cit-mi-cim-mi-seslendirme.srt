@@ -1,0 +1,63 @@
+1
+00:00:03,600 --> 00:00:09,811
+Nokta’nın dikdörtgen biçiminde bir bahçesi var. Uzun kenarı 8 metre, kısa kenarı 5 metre.
+
+2
+00:00:11,811 --> 00:00:20,767
+Nokta bahçenin etrafına çit çekmek, içine de çim ekmek istiyor. İki soru var: Kaç metre çit lazım? Kaç metrekare çim lazım?
+
+3
+00:00:22,767 --> 00:00:29,142
+Çözmeden önce soruyu anlayalım. Çit bahçenin etrafını sarıyor; çim ise bahçenin içini kaplıyor.
+
+4
+00:00:31,142 --> 00:00:34,942
+Demek ki çit için çevre uzunluğunu, çim için alanı bulmalıyız.
+
+5
+00:00:36,927 --> 00:00:42,168
+Önce bir tahmin yapalım. Kenarlar 8 ve 5; çit 25 metre kadar tutar gibi.
+
+6
+00:00:44,168 --> 00:00:53,352
+Şimdi çözelim. İpi bahçenin etrafında dolaştıralım: 8 artı 5 artı 8 artı 5, 26 metre. Tahminimize çok yakın.
+
+7
+00:00:55,352 --> 00:01:03,482
+Çim için bahçeyi 1 metrekarelik karelerle dolduralım. Her sırada 8 kare, 5 sıra var: 8 çarpı 5, 40 metrekare.
+
+8
+00:01:05,482 --> 00:01:13,882
+Sonucu başka bir yolla kontrol edelim. Uzun ve kısa kenarı toplayıp ikiyle çarparsak da 26 buluruz. Çözüm doğru.
+
+9
+00:01:15,882 --> 00:01:25,534
+Şimdi fayans ustası olalım. Bir odanın tabanı 24 metrekare, bir kenarı 6 metre. Duvar diplerine süpürgelik takılacak. Kaç metre süpürgelik lazım?
+
+10
+00:01:27,534 --> 00:01:41,402
+Diğer kenarı bilmiyoruz. Fayansları 6’şar 6’şar dizelim: 6, 12, 18, 24. Dört sıra oldu. Kısa yoldan: 24 bölü 6, 4 metre.
+
+11
+00:01:43,402 --> 00:01:50,739
+Süpürgelik odanın etrafını sarar, yani çevreyi buluyoruz: 6 artı 4 artı 6 artı 4, 20 metre.
+
+12
+00:01:52,739 --> 00:01:59,565
+Kontrol edelim: 6 çarpı 4, 24 metrekare. Verilen alanla aynı; çözümümüz doğru.
+
+13
+00:02:01,565 --> 00:02:11,476
+Bunu başka problemlere de uygulayabiliriz. Çit, süpürgelik, çerçeve etrafı sarar: çevre. Çim, fayans, halı içini kaplar: alan.
+
+14
+00:02:13,476 --> 00:02:19,265
+Problem çözerken adımlarımız: anla, şeklini çiz, tahmin et, çöz ve kontrol et.
+
+15
+00:02:21,265 --> 00:02:26,865
+Her problemde önce ne sorulduğunu anlayalım: etrafı mı, içi mi?
+
+16
+00:02:27,265 --> 00:02:32,192
+Çit çevreyle, çim alanla bulunur. Çit mi, çim mi? Sen de artık biliyorsun!

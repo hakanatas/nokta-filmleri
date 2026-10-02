@@ -1,0 +1,55 @@
+1
+00:00:03,600 --> 00:00:10,282
+Nokta noktalı kâğıda bir dikdörtgen çizdi. İki nokta arası 1 santimetre. Bu dikdörtgenin çevresi ne kadar?
+
+2
+00:00:12,282 --> 00:00:21,073
+Çevre, şeklin kenarları boyunca bir tur attığımızda aldığımız yoldur. A noktasından başlayıp bir tur atalım ve santimetreleri sayalım.
+
+3
+00:00:23,073 --> 00:00:29,228
+Kenarları toplayalım: 6 artı 4 artı 6 artı 4, toplam 20 santimetre.
+
+4
+00:00:31,228 --> 00:00:40,245
+Bir dikdörtgenin çevre uzunluğu, bütün kenar uzunluklarının toplamıdır. Ç(ABCD) = 20 cm diye yazarız.
+
+5
+00:00:42,245 --> 00:00:48,045
+Bu dikdörtgenin çevresini 20 santimetrelik bir ip gibi düşünelim.
+
+6
+00:00:48,645 --> 00:00:55,045
+Tahmin edelim: aynı ipi kullanarak başka dikdörtgenler de yapabilir miyiz? Kenar uzunlukları kaç olabilir?
+
+7
+00:00:56,845 --> 00:01:03,292
+İpi kaydıralım: uzun kenar 9, kısa kenar 1 santimetre oldu. Çevresi yine 20 santimetre.
+
+8
+00:01:05,292 --> 00:01:12,402
+Kaydırmaya devam edelim: 8 ile 2, 7 ile 3, 6 ile 4. Her birinin çevresi 20 santimetre.
+
+9
+00:01:14,402 --> 00:01:20,211
+Dikkat edin: uzun kenar ile kısa kenarın toplamı hep 10. Çünkü 10, çevrenin yarısı.
+
+10
+00:01:22,211 --> 00:01:27,411
+Son olarak iki kenar da 5 santimetre oldu. Dört kenarı da eşit: bu bir kare.
+
+11
+00:01:29,245 --> 00:01:34,845
+Kare, bütün kenarları eşit olan özel bir dikdörtgendir.
+
+12
+00:01:35,845 --> 00:01:41,645
+Kenar uzunlukları doğal sayı olan, çevresi 20 santimetre olan beş dikdörtgen bulduk.
+
+13
+00:01:42,935 --> 00:01:49,735
+Çevreleri aynı ama şekilleri farklı. Demek ki aynı çevre uzunluğuna sahip farklı dikdörtgenler olabilir.
+
+14
+00:01:50,814 --> 00:01:59,810
+Unutma: çevre uzunluğu verilen bir dikdörtgenin kenarları farklı şekillerde seçilebilir. Uzun ve kısa kenarın toplamı çevrenin yarısıdır.

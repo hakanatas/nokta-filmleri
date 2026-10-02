@@ -1,0 +1,63 @@
+1
+00:00:03,600 --> 00:00:10,057
+Nokta iki nokta işaretledi: A ve B. Cetvelle hiçbir şey ölçmeden bir üçgen kurabilir miyiz?
+
+2
+00:00:12,057 --> 00:00:17,396
+Pergelin sivri ucunu A noktasına koyup bir çember çizelim. A, çemberin merkezi.
+
+3
+00:00:19,396 --> 00:00:28,536
+Çemberin üzerindeki her nokta merkeze aynı uzaklıktadır. Bu uzaklığa yarıçap denir. Çizgilerdeki küçük işaretler eşit uzunlukları gösterir.
+
+4
+00:00:30,536 --> 00:00:36,000
+Bir çemberi A merkezli, diğerini B merkezli çizelim. İki çember iki noktada kesişiyor.
+
+5
+00:00:38,000 --> 00:00:44,280
+Kesişim noktalarından birine C diyelim. A, B ve C noktalarını birleştirince bir üçgen oluştu.
+
+6
+00:00:46,280 --> 00:00:58,885
+AC, A merkezli çemberin yarıçapı; BC, B merkezli çemberin yarıçapı. Bu iki yarıçap farklı ve AB de farklı. Üç kenarı farklı: çeşitkenar üçgen.
+
+7
+00:01:00,885 --> 00:01:03,303
+Şimdi iki çemberi de aynı yarıçapla çizelim.
+
+8
+00:01:05,303 --> 00:01:08,943
+Ölçmeden önce tahmin edelim: bu kez nasıl bir üçgen oluştu?
+
+9
+00:01:10,943 --> 00:01:19,162
+AC ve BC aynı yarıçap olduğu için eşit. İki kenarı eşit olan üçgen ikizkenar üçgendir. Hiç ölçmedik!
+
+10
+00:01:21,162 --> 00:01:27,722
+Yarıçapı büyütüp küçültelim. İki çemberin yarıçapı eşit kaldıkça üçgen hep ikizkenar oluyor.
+
+11
+00:01:29,722 --> 00:01:34,909
+Pergeli A ile B arası kadar açalım. Böylece her çember öbür merkezden geçer.
+
+12
+00:01:36,909 --> 00:01:43,281
+Artık AB, AC ve BC kenarlarının hepsi aynı yarıçap. Üç kenarı eşit: eşkenar üçgen.
+
+13
+00:01:45,281 --> 00:01:48,481
+Eşkenar üçgenin her açısı 60 derecedir.
+
+14
+00:01:49,764 --> 00:01:57,618
+Yarıçapları farklı seçersek çeşitkenar, eşit seçersek ikizkenar, AB kadar seçersek eşkenar üçgen elde ederiz.
+
+15
+00:01:59,618 --> 00:02:04,488
+Hiçbir ölçme aracı kullanmadan, sadece çemberin özelliğini kullanarak bu üçgenleri kurduk.
+
+16
+00:02:06,488 --> 00:02:15,177
+Unutma: kesişen iki çemberin merkezleri ve bir kesişim noktası bir üçgen oluşturur. Kenarlarını çemberlerin yarıçapları belirler.

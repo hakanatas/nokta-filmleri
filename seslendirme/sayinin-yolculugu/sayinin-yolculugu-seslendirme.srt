@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:14,454
+Bir algoritma: bir sayı seç. Sayı 1 ise dur. Değilse: çiftse 2’ye böl, tekse 3 ile çarpıp 1 ekle. Sonra yeniden başa dön.
+
+2
+00:00:16,454 --> 00:00:29,825
+Algoritmayı 6 ile çalıştıralım. 6 çift: 2’ye böl, 3. 3 tek: 3 çarpı 3 artı 1, 10. Sonra 5, 16, 8, 4, 2 ve 1.
+
+3
+00:00:31,825 --> 00:00:38,225
+6’dan başlayan sayı 8 adımda 1’e ulaştı ve algoritma durdu.
+
+4
+00:00:39,025 --> 00:00:55,179
+Adımları bir tabloya yazalım: 0. adımda 6, 1. adımda 3, sonra 10, 5, 16, 8, 4, 2, 1. 5 ile başlarsak: 16, 8, 4, 2, 1; 5 adım.
+
+5
+00:00:57,179 --> 00:01:04,579
+Tabloda her sütun bir adımı gösterir; her adımda ya 2’ye böldük ya da 3 ile çarpıp 1 ekledik.
+
+6
+00:01:05,629 --> 00:01:19,479
+Bir de 7 ile deneyelim: 7 çarpı 3 artı 1, 22. Sonra 11, 34, 17, 52... Sayı önce büyüyor, 52’ye kadar çıkıyor; sonra küçülüyor.
+
+7
+00:01:21,479 --> 00:01:32,626
+26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1. 7’den 1’e 16 adımda ulaştı.
+
+8
+00:01:34,626 --> 00:01:42,607
+İlişkileri sözle ifade edelim: çift sayı her seferinde yarıya iner, yani küçülür. Zincirde çift sayılar turuncu.
+
+9
+00:01:44,607 --> 00:01:54,428
+Tek bir sayının 3 katı tektir; 1 fazlası çift olur. Bu yüzden tek sayıdan sonra hep bir çift sayı gelir ve yarıya iner. Denediğimiz her sayı sonunda 1’e ulaştı.
+
+10
+00:01:56,428 --> 00:02:02,228
+Aklında kalsın: algoritma, sırayla uygulanan adımlardır. Tabloya dökünce ilişkiler görünür.
+
+11
+00:02:04,058 --> 00:02:08,258
+Adımları ve ilişkileri sözle açıklayabilirsin!

@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:16,537
+Dört arkadaş aynı kitabı okuyor. Ali kitabın 3 bölü 4’ünü, Ece 0,7’sini, Can yüzde 72’sini, Deniz 2 bölü 3’ünü okudu. Kim daha çok okudu?
+
+2
+00:00:18,537 --> 00:00:28,767
+Bir varsayım: paydası büyük olan kesir daha büyüktür. Deneyelim: 1 bölü 3 ile 1 bölü 4. Aynı bütünü 3’e ve 4’e bölelim.
+
+3
+00:00:30,767 --> 00:00:41,260
+Bütün daha çok parçaya bölününce parçalar küçülür: 1 bölü 3, 1 bölü 4’ten büyük. Varsayım yanlış. Paylar aynıysa paydası küçük olan büyüktür.
+
+4
+00:00:43,260 --> 00:00:52,725
+Paydalar aynıysa parçalar eşittir; çok parçası olan büyüktür: 5 bölü 8, 3 bölü 8’den büyük. Sayı doğrusunda da sağdaki kesir büyüktür.
+
+5
+00:00:54,725 --> 00:01:02,125
+Peki gösterimler farklıysa? Hepsini aynı gösterime, örneğin yüzdeye çevirelim.
+
+6
+00:01:02,925 --> 00:01:20,478
+3 bölü 4, 75 bölü 100, yani yüzde 75. 0,7, yüzde 70. 2 bölü 3 yaklaşık 0,67, yani yaklaşık yüzde 67. Sayı doğrusunda 0,6 ile 0,8 arasına yakından bakalım.
+
+7
+00:01:22,478 --> 00:01:30,490
+Sıralama: 2 bölü 3, 0,7, yüzde 72, 3 bölü 4. Kitabın en büyük kısmını Ali okudu.
+
+8
+00:01:32,490 --> 00:01:48,636
+Tahmin için bir kısa yol: kesri yarımla karşılaştır. 7’nin yarısı 3,5; 3 daha az, yani 3 bölü 7 yarımdan az. 9’un yarısı 4,5; 5 daha fazla, yani 5 bölü 9 yarımdan fazla.
+
+9
+00:01:50,636 --> 00:01:57,097
+Demek ki 5 bölü 9 daha büyük. Yarımla karşılaştırmak, hesaplamadan hızlı tahmin etmemizi sağlar.
+
+10
+00:01:59,097 --> 00:02:09,345
+Aklında kalsın: payda aynıysa payı büyük olan, pay aynıysa paydası küçük olan büyüktür. Gösterimler farklıysa aynı gösterime çevir.
+
+11
+00:02:11,345 --> 00:02:15,545
+Hızlı tahmin için yarımla karşılaştır!

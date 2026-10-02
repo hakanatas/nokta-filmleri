@@ -1,0 +1,55 @@
+1
+00:00:03,400 --> 00:00:07,600
+Nokta bir doğru çiziyor. Birkaç doğruyla bir şekil kurmayı deneyeceğiz.
+
+2
+00:00:11,600 --> 00:00:18,851
+İkinci doğru birinciyi, üçüncü doğru ikinciyi kesti. Ama üçüncü doğru birinciyi kesmedi. Şekil kapanmadı, açık kaldı.
+
+3
+00:00:20,851 --> 00:00:31,510
+Üçüncü doğruyu çevirdik; artık birinci doğruyu da kesiyor. Doğrular art arda kesişti, son doğru ilk doğruyla buluştu: kapalı bir şekil oluştu. Bu bir üçgen.
+
+4
+00:00:33,510 --> 00:00:39,074
+Şekli çevreleyen doğru parçaları çokgenin kenarlarıdır. Üçgenin 3 kenarı var.
+
+5
+00:00:41,074 --> 00:00:48,492
+İki kenarın buluştuğu noktalar köşelerdir. Köşeleri büyük harflerle adlandırırız: A, B, C.
+
+6
+00:00:50,492 --> 00:00:56,243
+Her köşede, iki kenarın arasında, şeklin içinde kalan bir açı var. Bunlar iç açılardır.
+
+7
+00:00:58,892 --> 00:01:05,908
+Bir doğru daha ekleyelim. Yeni doğru bir köşeyi kesip attı; bir kenar daha oluştu. 4 kenarlı çokgen dörtgendir.
+
+8
+00:01:07,908 --> 00:01:12,708
+Beşinci doğru ile 5 kenarlı bir çokgen oluştu: beşgen.
+
+9
+00:01:13,245 --> 00:01:19,954
+Altıncı doğru ile 6 kenarlı bir çokgen oluştu: altıgen. Kaç doğru kullandıysak o kadar kenar oluştu.
+
+10
+00:01:21,954 --> 00:01:27,849
+Çokgenlere kenar sayılarına göre ad veririz: üçgen, dörtgen, beşgen, altıgen.
+
+11
+00:01:29,849 --> 00:01:37,249
+Bir çokgende kenar sayısı, köşe sayısı ve iç açı sayısı birbirine eşittir.
+
+12
+00:01:38,449 --> 00:01:42,686
+Bu şeklin uçları birleşmiyor, şekil kapalı değil. O yüzden çokgen değil.
+
+13
+00:01:44,686 --> 00:01:51,477
+Bu şekil kapalı ama bir kenarı eğri. Çokgenin bütün kenarları doğru parçasıdır, bu yüzden bu şekil de çokgen değil.
+
+14
+00:01:53,477 --> 00:02:02,136
+Unutma: en az üç doğru art arda kesişir ve son doğru ilk doğruyu keserse kapalı bir şekil oluşur. Bu şekle çokgen denir.

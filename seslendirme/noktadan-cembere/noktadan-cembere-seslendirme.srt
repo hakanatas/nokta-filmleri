@@ -1,0 +1,71 @@
+1
+00:00:02,800 --> 00:00:10,208
+Kalemin ucunu kâğıda değdirdik: bir nokta. Nokta bir yer gösterir; ne kadar yaklaşırsak yaklaşalım büyümez, boyutu yoktur.
+
+2
+00:00:12,208 --> 00:00:17,267
+Noktaları A, B, C gibi büyük harflerle adlandırırız. Bu, A noktası.
+
+3
+00:00:19,267 --> 00:00:23,835
+A ile B arasına pek çok çizgi çizebiliriz ama düz olanı cetvelle çizeriz.
+
+4
+00:00:25,835 --> 00:00:30,065
+İki nokta arasındaki düz çizgiye doğru parçası denir; [AB] diye yazılır.
+
+5
+00:00:32,065 --> 00:00:37,947
+Doğru parçasının iki uç noktası vardır. Cetvelle uzunluğunu ölçebiliriz: 8 santimetre.
+
+6
+00:00:43,265 --> 00:00:48,659
+B noktasında durmayıp aynı yönde devam edersek bir ışın elde ederiz: [AB diye yazılır.
+
+7
+00:00:50,659 --> 00:00:56,472
+Işının başlangıç noktası A’dır; öbür yönde sonsuza gider. Bu yüzden uzunluğu ölçülemez.
+
+8
+00:00:58,472 --> 00:01:03,089
+Her iki yönde de sonsuza uzanırsa doğru olur. Doğrunun başı da sonu da yoktur.
+
+9
+00:01:05,089 --> 00:01:09,782
+Tek bir noktadan istediğimiz kadar çok doğru çizebiliriz. Sayısı sonsuzdur.
+
+10
+00:01:11,782 --> 00:01:17,171
+Ama iki noktadan yalnızca bir doğru geçer. Başka örneklerle deneyin: hep tek doğru!
+
+11
+00:01:19,171 --> 00:01:22,971
+Başlangıç noktası ortak olan iki ışın bir açı oluşturur.
+
+12
+00:01:24,693 --> 00:01:29,868
+Ortak noktaya köşe, ışınlara kol denir. Bu açı ABC açısıdır.
+
+13
+00:01:31,868 --> 00:01:38,346
+P noktasından d doğrusuna gönye ile dikme çizeriz. Dikmenin oluşturduğu açı dik açıdır.
+
+14
+00:01:40,346 --> 00:01:44,836
+Pergelin iğnesini merkeze koyup 3 cm açıyoruz ve bir tur döndürüyoruz.
+
+15
+00:01:46,836 --> 00:01:52,994
+Çemberin her noktası merkezden aynı uzaklıktadır. Bu uzaklığa yarıçap denir.
+
+16
+00:01:54,994 --> 00:02:00,333
+Merkezden geçen ve iki ucu çember üzerinde olan doğru parçası çaptır; yarıçapın iki katıdır.
+
+17
+00:02:02,333 --> 00:02:07,133
+Hangi çizimi hangi araçla yaptık? Cetvel, gönye, pergel.
+
+18
+00:02:08,933 --> 00:02:13,733
+Bütün bu çizimler tek bir noktayla başladı. Siz de kendi resminizi çizin!

@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,200
+Okul gazetesinde verilere dayanan dört haber var. Her iddiayı verisiyle sınayalım.
+
+2
+00:00:11,195 --> 00:00:19,595
+Grafikte Cuma sütunu Pazartesinin iki katı gibi. Oysa sayılar 48 ve 52: yalnızca yüzde 8 artış.
+
+3
+00:00:20,960 --> 00:00:29,360
+Eksen 46 dan başladığı için fark büyük görünüyor. Sıfırdan başlayınca fark küçücük. İddiayı çürütüyoruz.
+
+4
+00:00:30,360 --> 00:00:38,760
+Okulda 400 öğrenci var. Anket yalnızca basketbol sahasındaki 20 kişiye yapılmış; 18’i evet demiş.
+
+5
+00:00:39,649 --> 00:00:48,049
+Maçı seven zaten sahada. Örneklem yanlı; rastgele seçilmeli. Bu veriyle iddia kabul edilemez.
+
+6
+00:00:49,049 --> 00:00:57,249
+On kişinin okuduğu sayfaların ortalaması 100. Ama dokuz kişi 40 sayfa ya da daha az okumuş.
+
+7
+00:00:57,449 --> 00:01:06,049
+Bir kişi 730 sayfa okumuş; bu uç değer ortalamayı büyütüyor. Ortanca 30: çoğumuz 100 sayfa okumuyor.
+
+8
+00:01:07,049 --> 00:01:14,249
+Bir ayda 12 yağmurlu günde ortalama 42, 18 güneşli günde ortalama 25 kişi kütüphaneye gelmiş.
+
+9
+00:01:16,102 --> 00:01:23,702
+İki dağılım hiç örtüşmüyor: veri iddiayı destekliyor, kabul ediyoruz. Ama tek bir ay: yine de dikkatli olalım.
+
+10
+00:01:24,546 --> 00:01:30,346
+Aklında kalsın: eksen nereden başlıyor, örneklem kimlerden oluşuyor, uç değer var mı?
+
+11
+00:01:32,114 --> 00:01:36,314
+Veriyle kabul et ya da çürüt!

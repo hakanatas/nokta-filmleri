@@ -1,0 +1,63 @@
+1
+00:00:03,400 --> 00:00:09,264
+Nokta bir üçgen çiziyor. Üçgenin üç kenarı, üç köşesi ve üç iç açısı var.
+
+2
+00:00:11,264 --> 00:00:15,579
+Açıölçerle üç iç açıyı ölçelim: 50, 70 ve 60 derece.
+
+3
+00:00:17,579 --> 00:00:21,521
+50 artı 70 artı 60, toplam 180 derece ediyor.
+
+4
+00:00:23,521 --> 00:00:31,520
+Üçgenin köşelerini keser gibi alıp bir doğrunun üzerine yan yana koyalım. Tam bir doğru açı oluşturdular: 180 derece.
+
+5
+00:00:33,520 --> 00:00:39,720
+Buradan şu çıkarımı yapıyoruz: bir üçgenin iç açılarının ölçüleri toplamı 180 derecedir.
+
+6
+00:00:41,211 --> 00:00:46,411
+Şimdi üçgenin şeklini değiştirelim. Açıların ölçüleri değişiyor.
+
+7
+00:00:46,951 --> 00:00:54,984
+Ama üçgen nasıl değişirse değişsin, iç açıların toplamı hep 180 derece kalıyor. Farklı örneklerle çıkarımımızı doğruladık.
+
+8
+00:00:56,984 --> 00:01:00,984
+Üç açısı da dar açı olan üçgene dar açılı üçgen denir.
+
+9
+00:01:02,714 --> 00:01:06,714
+Bir açısı dik açı olan üçgene dik açılı üçgen denir.
+
+10
+00:01:07,841 --> 00:01:11,841
+Bir açısı geniş açı olan üçgene geniş açılı üçgen denir.
+
+11
+00:01:13,408 --> 00:01:19,616
+Kenar çizgileri eşit uzunlukları gösterir. Bu üçgenin üç kenarı da farklı uzunlukta: çeşitkenar üçgen.
+
+12
+00:01:21,616 --> 00:01:25,295
+İki kenarı eşit uzunlukta olan üçgene ikizkenar üçgen denir.
+
+13
+00:01:27,295 --> 00:01:31,180
+Üç kenarı da eşit uzunlukta olan üçgene eşkenar üçgen denir.
+
+14
+00:01:33,180 --> 00:01:41,429
+İkizkenar üçgende eşit kenarları gören açılar eşittir: 70 ve 70 derece. Eşkenar üçgende üç açı da 60 derecedir.
+
+15
+00:01:43,429 --> 00:01:50,629
+Bütün kenarları eşit uzunlukta ve bütün iç açıları eşit ölçüde olan çokgenlere düzgün çokgen denir.
+
+16
+00:01:51,948 --> 00:01:57,948
+Unutma: her üçgenin iç açılarının ölçüleri toplamı 180 derecedir.

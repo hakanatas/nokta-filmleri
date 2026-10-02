@@ -1,0 +1,59 @@
+1
+00:00:03,400 --> 00:00:09,861
+Nokta iki doğru çiziyor. Birinin adı d, diğerinin adı e. Doğrular iki yönde de sonsuza kadar uzar.
+
+2
+00:00:11,861 --> 00:00:17,955
+Aralarındaki uzaklık her yerde aynı. Ne kadar uzatsak da kesişmezler. Bunlara paralel doğrular denir.
+
+3
+00:00:19,955 --> 00:00:25,039
+e doğrusu d’nin tam üstüne geldi. Bütün noktaları ortak oldu: çakışık doğrular.
+
+4
+00:00:27,039 --> 00:00:32,400
+e doğrusu dönünce d ile tek bir noktada buluştu. Bu noktaya kesişim noktası denir.
+
+5
+00:00:34,400 --> 00:00:39,041
+Kesişen doğrular arasında 90 derecelik açı varsa bunlara dik doğrular denir.
+
+6
+00:00:41,041 --> 00:00:48,492
+İki doğru kesişince kesişim noktasının çevresinde dört açı oluşur. Onları 1, 2, 3, 4 diye numaralayalım.
+
+7
+00:00:50,492 --> 00:00:54,928
+Ölçmeden önce tahmin edelim: bu açılardan hangilerinin ölçüsü eşit olabilir?
+
+8
+00:00:56,928 --> 00:01:04,075
+Açıölçerle ölçtük: 50, 130, 50 ve 130 derece. İki dar açı ve iki geniş açı var.
+
+9
+00:01:06,075 --> 00:01:14,065
+Kesişim noktasının iki yanında karşı karşıya duran açılara ters açılar denir. 1 ile 3, 2 ile 4 ters açılardır.
+
+10
+00:01:16,065 --> 00:01:21,665
+e doğrusunu çevirelim. Açılar değişiyor ama ters açılar hep birbirine eşit kalıyor.
+
+11
+00:01:22,955 --> 00:01:27,555
+Buradan şu önermeyi çıkarıyoruz: ters açıların ölçüleri eşittir.
+
+12
+00:01:28,840 --> 00:01:34,429
+1 ve 2 numaralı açılar yan yana duruyor ve bir kolları ortak. Bunlara komşu açılar denir.
+
+13
+00:01:36,429 --> 00:01:46,744
+50 ile 130’u toplarsak 180 eder. Birlikte bir doğru açı oluştururlar. Ölçüleri toplamı 180 derece olan açılara bütünler açılar denir.
+
+14
+00:01:48,744 --> 00:01:56,596
+Dik açının içine bir ışın çizdik: 30 ve 60 derece. Toplamları 90 derece olan açılara tümler açılar denir.
+
+15
+00:01:58,596 --> 00:02:05,996
+Unutma: iki doğru kesişince ters açılar eşittir, yan yana duran komşu açıların toplamı 180 derecedir.

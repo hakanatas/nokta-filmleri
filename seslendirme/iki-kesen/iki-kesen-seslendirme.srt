@@ -1,0 +1,59 @@
+1
+00:00:04,400 --> 00:00:13,922
+a ve b doğruları paraleldir. k ve m doğruları ikisini de keser: iki kesenimiz var. Kesenlerin arasında, paralellerin arasında bir şekil oluşuyor.
+
+2
+00:00:15,922 --> 00:00:23,054
+Bir varsayımda bulunalım: kesenler nereden geçerse geçsin, arada hep bir dörtgen oluşur. Kesenleri kaydırıp deneyelim.
+
+3
+00:00:25,054 --> 00:00:30,654
+k ve m, a doğrusunun üzerinde kesişirse arada bir üçgen oluşur.
+
+4
+00:00:31,316 --> 00:00:37,808
+Kesenler paralellerin arasında kesişirse iki üçgen oluşur. Demek ki varsayımımız her zaman doğru değil.
+
+5
+00:00:39,808 --> 00:00:50,941
+Kesenler arada kesişmezse bir dörtgen oluşur. Üst ve alt kenarları a ve b üzerinde, yani paralel. En az bir çift karşılıklı kenarı paralel olan dörtgene yamuk denir.
+
+6
+00:00:52,941 --> 00:01:06,261
+k kesenin aynı yanındaki iki iç açı karşı durumlu açılardır, toplamları 180°. m için de öyle. Yamuğun iç açıları toplamı 180 artı 180, yani 360°.
+
+7
+00:01:08,261 --> 00:01:21,898
+Kesenler a üzerinde kesişince üçgen oluşur. Alttaki iki açının iç ters açıları tepede, a doğrusu boyunca yan yana dizilir. Üçü birlikte düz açı yapar: üçgenin iç açıları toplamı 180°.
+
+8
+00:01:23,898 --> 00:01:33,182
+k ve m de birbirine paralel olursa iki çift karşılıklı kenar paralel olur: paralelkenar. Karşılıklı kenarları eşit, karşılıklı açıları eşit.
+
+9
+00:01:35,182 --> 00:01:39,956
+Kesenler paralellere dik olursa dört açı da 90° olur: dikdörtgen.
+
+10
+00:01:41,956 --> 00:01:48,314
+Kesenler paralel, dört kenar da eşit olursa eşkenar dörtgen oluşur. Karşılıklı açıları eşittir.
+
+11
+00:01:50,314 --> 00:01:57,925
+Hem dört açı 90° hem dört kenar eşit: kare. Her birinde iç açılar toplamı yine 360°.
+
+12
+00:01:59,925 --> 00:02:11,698
+Yamuktan başlayalım. İkinci çift kenar da paralel olursa paralelkenar; açılar 90° olursa dikdörtgen, kenarlar eşit olursa eşkenar dörtgen; ikisi birden olursa kare.
+
+13
+00:02:13,698 --> 00:02:25,463
+Bu önermeler dörtgenleri sınıflandırmamızı sağlar: her paralelkenar bir yamuktur, kare hem dikdörtgen hem eşkenar dörtgendir. Hepsinin iç açıları toplamı 360°.
+
+14
+00:02:27,463 --> 00:02:37,434
+Aklında kalsın: iki paralel ve iki kesen dörtgen ya da üçgen oluşturur. Dörtgenin iç açıları toplamı 360°, üçgeninki 180°.
+
+15
+00:02:39,434 --> 00:02:43,662
+Kare de bir dikdörtgendir, bir eşkenar dörtgendir, bir paralelkenardır!

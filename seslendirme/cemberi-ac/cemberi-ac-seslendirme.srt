@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:10,875
+Çapı 4 santimetre olan bir tekerlek, tam bir tur dönüyor. Yerde bıraktığı iz, çemberin uzunluğu kadar.
+
+2
+00:00:12,875 --> 00:00:22,137
+Çember uzunluğu çapın kaç katı? Bir varsayımda bulunalım: belki 3 katı. Çapı izin üzerine art arda koyalım: 1, 2, 3.
+
+3
+00:00:24,137 --> 00:00:31,737
+Üç çap sığdı ama iz bitmedi: biraz daha var. Çember uzunluğu çapın 3 katından biraz fazla.
+
+4
+00:00:32,537 --> 00:00:43,825
+Farklı çemberleri ölçelim. Çapı 2 santimetre olan çemberin uzunluğu yaklaşık 6,3; çapı 3 olanın 9,4; çapı 4 olanın 12,6 santimetre.
+
+5
+00:00:45,825 --> 00:00:59,574
+Her birinde çember uzunluğunu çapa bölelim: 3,15; 3,13; 3,15. Ölçümdeki küçük farklar dışında hep aynı sayı: yaklaşık 3,14.
+
+6
+00:01:01,574 --> 00:01:09,861
+Varsayımımızla karşılaştıralım: 3 katı dedik, ölçüm 3 katından biraz fazla çıktı. Her çemberde aynı olan bu sayıya pi denir.
+
+7
+00:01:11,861 --> 00:01:21,261
+Önermemiz: çember uzunluğu, pi çarpı çap. Çap yarıçapın 2 katı olduğu için çember uzunluğu 2 çarpı pi çarpı yarıçap da olur.
+
+8
+00:01:22,061 --> 00:01:32,242
+İlişkiyi değerlendirelim. Çapı 2 katına çıkarınca çember uzunluğu da 2 katına çıkıyor: 6,28’in iki katı 12,57.
+
+9
+00:01:34,242 --> 00:01:43,381
+Çapı 10 santimetre olan bir tabağın kenarı yaklaşık 31,4 santimetre. Pi, 3 ile 4 arasında ve 3’e çok yakın bir sayı.
+
+10
+00:01:45,381 --> 00:01:52,446
+Aklında kalsın: her çemberde çember uzunluğu bölü çap aynı sayıdır, pi, yaklaşık 3,14.
+
+11
+00:01:54,446 --> 00:01:58,646
+Küçük ya da büyük, her çemberde aynı oran: pi!

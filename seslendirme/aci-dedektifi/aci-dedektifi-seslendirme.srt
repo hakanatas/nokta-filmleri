@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:15,006
+Bahçede yamuk biçimli bir çiçek tarhı var. Bahçıvan iki köşeyi ölçmüş: A köşesi 65°, B köşesi 50°. Diğer iki köşe kaç derece?
+
+2
+00:00:17,006 --> 00:00:26,079
+Önce problemi anlayalım. Şekil bir yamuk: AB ve DC kenarları paralel. Verilenler A ve B açıları, istenenler C ve D açıları.
+
+3
+00:00:28,079 --> 00:00:38,194
+Şekli başka türlü görelim: AB ve DC iki paralel doğru, AD ise onları kesen bir doğru. Bu durumda A ve D karşı durumlu açılardır.
+
+4
+00:00:40,194 --> 00:00:53,676
+Karşı durumlu açıların toplamı 180°. D, 180 eksi 65, yani 115°. Aynı şekilde BC de bir kesen: C, 180 eksi 50, yani 130°.
+
+5
+00:00:55,676 --> 00:01:06,939
+Kontrol edelim: bir dörtgenin iç açıları toplamı 360°. 65 artı 50 artı 130 artı 115, tam 360. Sonuç tutarlı.
+
+6
+00:01:08,939 --> 00:01:24,536
+Başka bir yol deneyelim. C noktasından AD’ye paralel bir doğru çizelim; AB’yi E’de kessin. Yamuk bir paralelkenara ve bir üçgene ayrıldı. AD ile CE paralel olduğu için E’deki açı A ile yöndeş: 65°.
+
+7
+00:01:26,536 --> 00:01:45,172
+EBC üçgeninde C’deki açı 180 eksi 65 eksi 50, yani 65°. Paralelkenarda karşılıklı açılar eşit, DCE açısı da 65°. C açısı 65 artı 65, 130°. İki yol aynı sonuca vardı.
+
+8
+00:01:47,172 --> 00:02:01,644
+Kullandığımız kural: paralel iki kenar arasındaki açıların toplamı 180°. Paralelkenarda 70 artı 110, dikdörtgende 90 artı 90, eşkenar dörtgende 60 artı 120: hepsi 180.
+
+9
+00:02:03,644 --> 00:02:14,530
+Ama paralel kenarı olmayan bir dörtgende 80 artı 88, 168 eder, 180 değil. Genelleme yalnızca paralel kenarları olan dörtgenlerde geçerli.
+
+10
+00:02:16,530 --> 00:02:27,004
+Aklında kalsın: önce şekli, açıları ve paralellikleri belirle. Karşı durumlu açıların toplamı 180°. Dörtgende toplam 360° ile kontrol et.
+
+11
+00:02:29,004 --> 00:02:33,204
+Ve bir problemi başka bir yolla da çözmeyi dene!

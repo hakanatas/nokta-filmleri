@@ -1,0 +1,47 @@
+1
+00:00:04,400 --> 00:00:18,195
+AC ve BD doğru parçaları O noktasında kesişiyor. O, ikisinin de orta noktası: OA ile OC eşit, OB ile OD eşit. Bunlara birbirini ortalayan doğru parçaları denir.
+
+2
+00:00:20,195 --> 00:00:31,164
+Uçlarını birleştirelim: bir dörtgen oluşur ve AC ile BD onun köşegenleri olur. Varsayımımız: her seferinde bir paralelkenar oluşur. Kenarları ölçelim.
+
+3
+00:00:33,164 --> 00:00:42,397
+Köşegenleri döndürüp uzatıp kısaltalım. Birbirlerini ortaladıkları sürece AB ile CD, BC ile DA hep eşit çıkıyor: paralelkenar.
+
+4
+00:00:44,397 --> 00:00:54,895
+Şimdi O noktası BD’nin ortası olmasın. AB ile CD artık eşit değil: paralelkenar oluşmadı. Varsayımda “birbirini ortalama” şartı önemli.
+
+5
+00:00:56,895 --> 00:01:08,481
+Köşegenleri birbirini ortalayan dörtgen paralelkenardır. Karşılıklı kenarları eşit, karşılıklı açıları eşit. Köşegenleri 8 cm ve 5 cm, farklı uzunlukta.
+
+6
+00:01:10,481 --> 00:01:24,239
+Köşegenleri eşit yapalım: ikisi de 7,2 cm olsun. Köşegenler eşit uzunlukta olunca dört açı da 90° olur: dikdörtgen. Önerme: köşegenleri eşit ve birbirini ortalayan dörtgen dikdörtgendir.
+
+7
+00:01:26,239 --> 00:01:37,531
+Şimdi köşegenler O noktasında dik kesişsin. Dört kenar eşit olur: eşkenar dörtgen. Önerme: köşegenleri dik ve birbirini ortalayan dörtgen eşkenar dörtgendir.
+
+8
+00:01:39,531 --> 00:01:48,731
+Köşegenler hem eşit uzunlukta hem dik olsun: dört kenar eşit, dört açı 90°. Bu bir kare.
+
+9
+00:01:49,531 --> 00:01:59,089
+Bir tablo yapalım. Köşegenler eşit değil ve dik değilse paralelkenar, dikse eşkenar dörtgen; eşit ama dik değilse dikdörtgen, eşit ve dikse kare.
+
+10
+00:02:01,089 --> 00:02:10,612
+Bu önermeler dörtgenleri başka bir yoldan, köşegenleriyle tanımlamamızı sağlar. Hepsinin köşegenleri birbirini ortalar, yani hepsi paralelkenardır.
+
+11
+00:02:12,612 --> 00:02:21,833
+Aklında kalsın: köşegenler birbirini ortalarsa paralelkenar, bir de eşitse dikdörtgen, bir de dikse eşkenar dörtgen, eşit ve dikse kare.
+
+12
+00:02:23,833 --> 00:02:28,033
+Köşegenlere bakan, dörtgeni tanır!

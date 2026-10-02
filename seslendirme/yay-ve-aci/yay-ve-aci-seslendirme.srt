@@ -1,0 +1,43 @@
+1
+00:00:04,400 --> 00:00:12,593
+Köşesi çemberin merkezinde olan açıya merkez açı denir. Açının kolları arasında kalan çember parçası, bu açının gördüğü yaydır.
+
+2
+00:00:14,593 --> 00:00:29,749
+Çapı 12 santimetre olan bir çember alalım. Pi yerine 3 kullanırsak çember uzunluğu 36 santimetre. 360 derecelik açı çemberin tamamını görür: 36 santimetre. 180 derece yarısını: 18 santimetre.
+
+3
+00:00:31,749 --> 00:00:39,749
+90 derece çemberin dörtte birini görür: 9 santimetre.
+
+4
+00:00:40,549 --> 00:00:51,749
+Bir tablo yapalım ve açıyı küçültelim: 60 derece 6 santimetre, 30 derece 3 santimetre, 10 derece 1 santimetre.
+
+5
+00:00:52,149 --> 00:01:00,736
+Örüntüyü görüyor musun? Açı yarıya inince yay da yarıya iniyor. Bu çemberde her 10 derece için yay 1 santimetre.
+
+6
+00:01:02,736 --> 00:01:13,738
+Genelleyelim: yay uzunluğu, çember uzunluğunun açı bölü 360 kadarıdır. 120 derece için 36 çarpı 120 bölü 360, 12 santimetre.
+
+7
+00:01:15,738 --> 00:01:24,138
+Merkez açı kaç katına çıkarsa, gördüğü yay da o kadar katına çıkar.
+
+8
+00:01:24,938 --> 00:01:35,406
+Başka bir çemberde deneyelim: çapı 20 santimetre, uzunluğu 60 santimetre. 90 derece için 60 çarpı 90 bölü 360, 15 santimetre.
+
+9
+00:01:37,406 --> 00:01:45,806
+Açıyı yarıya indirelim, 45 derece: yay da yarıya iner, 7,5 santimetre. Genelleme bu çemberde de geçerli.
+
+10
+00:01:46,871 --> 00:01:52,671
+Aklında kalsın: merkez açı kaç katına çıkarsa gördüğü yay da o kadar katına çıkar.
+
+11
+00:01:53,854 --> 00:01:58,054
+Yay uzunluğu, çember uzunluğu çarpı açı bölü 360!

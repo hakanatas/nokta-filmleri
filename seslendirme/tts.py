@@ -39,11 +39,17 @@ def load_captions(repo):
         notes = json.loads(tr.read_text())
         assert len(notes) == len(caps), f'{tr}: {len(notes)} not, {len(caps)} altyazı'
         for c, n in zip(caps, notes): c['note'] = n
+    # seslendirme/<film>/ek-notlar.json: altyazısı olmayan yerlere eklenen cümleler [{start, end, note}]
+    ek = HERE / Path(repo).resolve().name / 'ek-notlar.json'
+    if ek.exists():
+        caps = sorted(caps + json.loads(ek.read_text()), key=lambda c: c['start'])
     return caps
 
 def clip_path(film, voice, i, note):
     h = hashlib.sha1(f'{voice}|{note}'.encode()).hexdigest()[:10]
-    return HERE / film / 'clips' / voice / f'{i+1:02d}-{h}.wav'
+    d = HERE / film / 'clips' / voice
+    old = sorted(d.glob(f'*-{h}.wav'))   # sıra numarası değişse de aynı cümlenin sesi yeniden kullanılır
+    return old[0] if old else d / f'{i+1:02d}-{h}.wav'
 
 def ledger():
     return json.loads(LEDGER.read_text()) if LEDGER.exists() else {}

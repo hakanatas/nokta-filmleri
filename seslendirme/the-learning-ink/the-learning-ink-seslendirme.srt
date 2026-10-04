@@ -1,39 +1,43 @@
 1
-00:00:09,200 --> 00:00:13,507
-Bir sinir ağı veriyle başlar: insanların çizip topladığı pek çok örnekle.
+00:00:01,500 --> 00:00:08,600
+Bir damla mürekkepten Nokta doğdu. Zihnindeki çizgiler karmakarışık; henüz hiçbir şey öğrenmemiş.
 
 2
-00:00:15,507 --> 00:00:19,528
-Her örneğin bir etiketi vardır: bir insanın yazdığı doğru cevap.
+00:00:09,820 --> 00:00:14,127
+Bir sinir ağı veriyle başlar: insanların çizip topladığı pek çok örnekle.
 
 3
-00:00:27,607 --> 00:00:31,812
-Bir nöron gelen sinyalleri toplar; toplam bir eşiği geçerse ateşlenir.
+00:00:16,127 --> 00:00:20,148
+Her örneğin bir etiketi vardır: bir insanın yazdığı doğru cevap.
 
 4
-00:00:33,812 --> 00:00:39,651
-Ağırlıklar her sinyalin ne kadar etkili olacağını belirler. Kalın çizgiler daha çok sayılır.
+00:00:28,227 --> 00:00:32,433
+Bir nöron gelen sinyalleri toplar; toplam bir eşiği geçerse ateşlenir.
 
 5
-00:00:41,651 --> 00:00:46,567
-Tahmin etiketle karşılaştırılır. Aradaki fark hatadır, yani kayıp miktarı.
+00:00:34,433 --> 00:00:40,271
+Ağırlıklar her sinyalin ne kadar etkili olacağını belirler. Kalın çizgiler daha çok sayılır.
 
 6
-00:00:48,567 --> 00:00:54,648
-Hata geriye doğru akar ve her ağırlığa biraz nasıl değişmesi gerektiğini söyler. Buna geri yayılım denir.
+00:00:42,271 --> 00:00:47,188
+Tahmin etiketle karşılaştırılır. Aradaki fark hatadır, yani kayıp miktarı.
 
 7
-00:00:56,648 --> 00:01:01,735
-Her küçük değişiklik, hata yüzeyinde yokuş aşağı atılan bir adımdır: gradyan iniş.
+00:00:49,188 --> 00:00:55,268
+Hata geriye doğru akar ve her ağırlığa biraz nasıl değişmesi gerektiğini söyler. Buna geri yayılım denir.
 
 8
-00:01:08,448 --> 00:01:14,162
-İlk katmanlar basit çizgileri yakalar; daha derin katmanlar onları birleştirip parçalar oluşturur.
+00:00:57,268 --> 00:01:02,356
+Her küçük değişiklik, hata yüzeyinde yokuş aşağı atılan bir adımdır: gradyan iniş.
 
 9
-00:01:24,248 --> 00:01:28,244
-Ağ, daha önce hiç görmediği bir kuşu tanır. Buna genelleme denir.
+00:01:09,068 --> 00:01:14,782
+İlk katmanlar basit çizgileri yakalar; daha derin katmanlar onları birleştirip parçalar oluşturur.
 
 10
-00:01:35,048 --> 00:01:41,833
+00:01:24,868 --> 00:01:28,864
+Ağ, daha önce hiç görmediği bir kuşu tanır. Buna genelleme denir.
+
+11
+00:01:35,668 --> 00:01:42,454
 Verisine benzemeyen bir şey görünce, kendinden emin bir şekilde yanılabilir. Bu yüzden insanlar hep işin içinde kalır.

@@ -20,6 +20,8 @@ def main():
     ap.add_argument('repo'); ap.add_argument('video'); ap.add_argument('out')
     ap.add_argument('--bekleme', type=float, default=2.0, help='her cümleden sonra en az bekleme (sn)')
     ap.add_argument('--crf', type=int, default=30, help='x264 kalite (büyük = küçük dosya)')
+    ap.add_argument('--yukseklik', type=int, help='görüntüyü bu yüksekliğe ölçekle (ör. YouTube için 1080)')
+    ap.add_argument('--ses-kbps', type=int, default=64, help='AAC ses bit hızı; 128 ve üstü stereo yazılır')
     a = ap.parse_args()
     repo, video, out = Path(a.repo).resolve(), Path(a.video).resolve(), Path(a.out).resolve()
     film = repo.name
@@ -56,7 +58,8 @@ def main():
         pad = f',tpad=stop_mode=clone:stop_duration={ext:.3f}' if ext > 0 else ''
         fc.append(f'[0:v]trim=start={a0}:end={b},setpts=PTS-STARTPTS{pad}[v{k}]')
         vl += f'[v{k}]'
-    fc.append(f'{vl}concat=n={len(segs)}:v=1:a=0[v]')
+    scale = f',scale=-2:{a.yukseklik}:flags=lanczos' if a.yukseklik else ''
+    fc.append(f'{vl}concat=n={len(segs)}:v=1:a=0{scale}[v]')
     al = ''
     for i, s in enumerate(starts):
         fc.append(f'[{i+1}:a]aformat=sample_rates=48000:channel_layouts=mono,adelay={int(round(s * 1000))}:all=1[a{i}]')
@@ -68,7 +71,7 @@ def main():
     for t in trimmed: cmd += ['-i', str(t)]
     cmd += ['-filter_complex', ';'.join(fc), '-map', '[v]', '-map', '[a]',
             '-c:v', 'libx264', '-crf', str(a.crf), '-preset', 'veryslow', '-tune', 'animation', '-pix_fmt', 'yuv420p',
-            '-c:a', 'aac', '-b:a', '64k', '-ac', '1', '-movflags', '+faststart', str(out)]
+            '-c:a', 'aac', '-b:a', f'{a.ses_kbps}k', '-ac', '2' if a.ses_kbps >= 128 else '1', '-movflags', '+faststart', str(out)]
     subprocess.run(cmd, check=True)
     for t in trimmed: t.unlink()
     tmp.rmdir()

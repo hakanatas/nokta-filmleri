@@ -3,7 +3,7 @@
   "Her örneğin bir etiketi vardır: bir insanın yazdığı doğru cevap.",
   "Bir nöron gelen sinyalleri toplar; toplam bir eşiği geçerse ateşlenir.",
   "Ağırlıklar her sinyalin ne kadar etkili olacağını belirler. Kalın çizgiler daha çok sayılır.",
-  "Tahmin etiketle karşılaştırılır. Aradaki fark hatadır, yani kayıp.",
+  "Tahmin etiketle karşılaştırılır. Aradaki fark hatadır, yani kayıp miktarı.",
   "Hata geriye doğru akar ve her ağırlığa biraz nasıl değişmesi gerektiğini söyler. Buna geri yayılım denir.",
   "Her küçük değişiklik, hata yüzeyinde yokuş aşağı atılan bir adımdır: gradyan iniş.",
   "İlk katmanlar basit çizgileri yakalar; daha derin katmanlar onları birleştirip parçalar oluşturur.",

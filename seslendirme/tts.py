@@ -32,7 +32,14 @@ def tier(voice):
 
 def load_captions(repo):
     js = f"console.log(JSON.stringify(require({json.dumps(str(Path(repo).resolve() / 'captions.js'))})))"
-    return json.loads(subprocess.check_output(['node', '-e', js]))
+    caps = json.loads(subprocess.check_output(['node', '-e', js]))
+    # seslendirme/<film>/notlar-tr.json varsa notların yerine o (çeviri) okunur
+    tr = HERE / Path(repo).resolve().name / 'notlar-tr.json'
+    if tr.exists():
+        notes = json.loads(tr.read_text())
+        assert len(notes) == len(caps), f'{tr}: {len(notes)} not, {len(caps)} altyazı'
+        for c, n in zip(caps, notes): c['note'] = n
+    return caps
 
 def clip_path(film, voice, i, note):
     h = hashlib.sha1(f'{voice}|{note}'.encode()).hexdigest()[:10]

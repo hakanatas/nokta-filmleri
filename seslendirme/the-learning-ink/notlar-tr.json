@@ -1,0 +1,12 @@
+[
+  "Bir sinir ağı veriyle başlar: insanların çizip topladığı pek çok örnekle.",
+  "Her örneğin bir etiketi vardır: bir insanın yazdığı doğru cevap.",
+  "Bir nöron gelen sinyalleri toplar; toplam bir eşiği geçerse ateşlenir.",
+  "Ağırlıklar her sinyalin ne kadar etkili olacağını belirler. Kalın çizgiler daha çok sayılır.",
+  "Tahmin etiketle karşılaştırılır. Aradaki fark hatadır, yani kayıp.",
+  "Hata geriye doğru akar ve her ağırlığa biraz nasıl değişmesi gerektiğini söyler. Buna geri yayılım denir.",
+  "Her küçük değişiklik, hata yüzeyinde yokuş aşağı atılan bir adımdır: gradyan iniş.",
+  "İlk katmanlar basit çizgileri yakalar; daha derin katmanlar onları birleştirip parçalar oluşturur.",
+  "Ağ, daha önce hiç görmediği bir kuşu tanır. Buna genelleme denir.",
+  "Verisine benzemeyen bir şey görünce, kendinden emin bir şekilde yanılabilir. Bu yüzden insanlar hep işin içinde kalır."
+]

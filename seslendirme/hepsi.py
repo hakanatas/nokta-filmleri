@@ -66,7 +66,7 @@ def main():
     for b in range(0, len(todo), BATCH):
         group = todo[b:b + BATCH]
         for f in group:   # TTS sırayla (kota koruması tts.py'de)
-            subprocess.run([sys.executable, str(HERE / 'tts.py'), str(repos / f['repo']), EN if f['en'] else TR], check=True)
+            subprocess.run([sys.executable, str(HERE / 'tts.py'), str(repos / f['repo']), EN if f['en'] and not (HERE / f['repo'] / 'notlar-tr.json').exists() else TR], check=True)
         with ThreadPoolExecutor(JOBS) as ex:
             for f, d in ex.map(encode, group):
                 done[f['id']] = round(d, 1)

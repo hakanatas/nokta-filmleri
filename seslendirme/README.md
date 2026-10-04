@@ -1,6 +1,6 @@
 # Seslendirme
 
-Sayfadaki videolar, her filmin `captions.js` dosyasındaki seslendirme notlarıyla (`note`) Google Cloud Text-to-Speech kullanılarak seslendirildi. Ses `tr-TR-Chirp3-HD-Charon`; İngilizce bonus film *The Learning Ink* için `en-US-Chirp3-HD-Charon`. Her cümleden sonra en az 2 sn bekleme var; çocuklar takip edebilsin diye konuşma hızlandırılmaz, gerekirse görüntü bölüm sonunda dondurulur.
+Sayfadaki videolar, her filmin `captions.js` dosyasındaki seslendirme notlarıyla (`note`) Google Cloud Text-to-Speech kullanılarak seslendirildi. Ses `tr-TR-Chirp3-HD-Charon`. Notları İngilizce olan bonus film *The Learning Ink* için notların Türkçe çevirisi kullanılır (`the-learning-ink/notlar-tr.json`); bir filmin klasöründe `notlar-tr.json` varsa `tts.py` notların yerine onu okur. Her cümleden sonra en az 2 sn bekleme var; çocuklar takip edebilsin diye konuşma hızlandırılmaz, gerekirse görüntü bölüm sonunda dondurulur.
 
 ```sh
 # Bütün filmler (10'arlı gruplar hâlinde, her grup dala gönderilir; kaldığı yerden sürer)
